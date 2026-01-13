@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .CN one-word domains still available to buy.
 
-This dataset contains 5 .CN one word domains with availability, attractiveness and demand scores.
+This dataset contains 47 .CN one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.CN one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cn-oneword-domains&utm_content=description.top) (5) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,24 +13,49 @@ If you want to search & filters the complete database of [.CN one word domains](
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/cn-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/cn-oneword-domains/blob/main/cn.csv"><b>⬇️ CSV (5 domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/cn-oneword-domains/blob/main/cn.json"><b>⬇️ JSON (5 domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/cn-oneword-domains/blob/main/cn.csv"><b>⬇️ CSV (47 domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/cn-oneword-domains/blob/main/cn.json"><b>⬇️ JSON (47 domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cn-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (5)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain        | Status | Attract. | Demand | Length | Registrar     | Created | Expires |
-| ------------- | ------ | -------- | ------ | ------ | ------------- | ------- | ------- |
-| christian.cn  | resell | 88       | 98%    | 9      | Dynadot Inc   |         |         |
-| comedian.cn   | resell | 80       | 97%    | 8      | Dynadot Inc   |         |         |
-| corporate.cn  | resell | 90       | 99%    | 9      | 阿里云计算有限公司（万网） |         |         |
-| individual.cn | resell | 92       | 98%    | 10     | Dynadot Inc   |         |         |
-| iron.cn       | resell | 84       | 98%    | 4      | eNom, Inc.    |         |         |
+| Domain        | Status | Attract. | Demand | Length | Registrar       | Created | Expires |
+| ------------- | ------ | -------- | ------ | ------ | --------------- | ------- | ------- |
+| above.cn      | resell | 112      | 22%    | 5      | 阿里云计算有限公司（万网）   |         |         |
+| academic.cn   | resell | 96       | 21%    | 8      | 阿里云计算有限公司（万网）   |         |         |
+| accessory.cn  | resell | 84       | 9%     | 9      | 阿里云计算有限公司（万网）   |         |         |
+| acting.cn     | resell | 84       | 14%    | 6      | Dynadot Inc     |         |         |
+| aerobic.cn    | resell | 74       | 6%     | 7      | Dynadot Inc     |         |         |
+| aesthetic.cn  | resell | 88       | 29%    | 9      | 阿里云计算有限公司（万网）   |         |         |
+| allout.cn     | resell | 84       | 8%     | 7      | 阿里云计算有限公司（万网）   |         |         |
+| attendant.cn  | resell | 86       | 8%     | 9      | 阿里云计算有限公司（万网）   |         |         |
+| christian.cn  | resell | 88       | 98%    | 9      | Dynadot Inc     |         |         |
+| comedian.cn   | resell | 80       | 97%    | 8      | Dynadot Inc     |         |         |
+| complete.cn   | resell | 120      | 26%    | 8      | 阿里云计算有限公司（万网）   |         |         |
+| compliant.cn  | resell | 69       | 12%    | 9      | 阿里云计算有限公司（万网）   |         |         |
+| concise.cn    | resell | 93       | 13%    | 7      | 阿里云计算有限公司（万网）   |         |         |
+| cooked.cn     | resell | 70       | 14%    | 6      | 阿里云计算有限公司（万网）   |         |         |
+| corporate.cn  | resell | 90       | 99%    | 9      | 阿里云计算有限公司（万网）   |         |         |
+| corrupt.cn    | resell | 80       | 12%    | 7      | 北京光速连通科贸有限公司    |         |         |
+| crafty.cn     | resell | 68       | 19%    | 6      | 阿里云计算有限公司（万网）   |         |         |
+| dead.cn       | resell | 74       | 28%    | 4      | 阿里云计算有限公司（万网）   |         |         |
+| developed.cn  | resell | 72       | 6%     | 9      | 阿里云计算有限公司（万网）   |         |         |
+| diplomatic.cn | resell | 84       | 9%     | 10     | 北京光速连通科贸有限公司    |         |         |
+| dirt.cn       | resell | 64       | 26%    | 4      | 阿里巴巴云计算（北京）有限公司 |         |         |
+| dirty.cn      | resell | 92       | 24%    | 5      | 阿里云计算有限公司（万网）   |         |         |
+| driving.cn    | resell | 90       | 20%    | 7      | Dynadot Inc     |         |         |
+| early.cn      | resell | 70       | 24%    | 5      | Namescout.com   |         |         |
+| easter.cn     | resell | 110      | 17%    | 6      | Dynadot Inc     |         |         |
+| educated.cn   | resell | 68       | null%  | 8      | 阿里云计算有限公司（万网）   |         |         |
+| efficient.cn  | resell | 90       | null%  | 9      | 阿里云计算有限公司（万网）   |         |         |
+| first.cn      | resell | 80       | 40%    | 5      | GoDaddy.com,LLC |         |         |
+| genuine.cn    | resell | 78       | null%  | 7      | Dynadot Inc     |         |         |
+| individual.cn | resell | 92       | 98%    | 10     | Dynadot Inc     |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/cn-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/cn-oneword-domains/blob/main/cn.csv"><b>⬇️ CSV (5 domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/cn-oneword-domains/blob/main/cn.json"><b>⬇️ JSON (5 domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/cn-oneword-domains/blob/main/cn.csv"><b>⬇️ CSV (47 domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/cn-oneword-domains/blob/main/cn.json"><b>⬇️ JSON (47 domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cn-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (5)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -63,9 +88,9 @@ If you want to search & filters the complete database of [.CN one word domains](
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 30,940       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 65,068       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 75,213       | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 31,281       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 65,417       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,575,225    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
@@ -146,7 +171,7 @@ If you want to search & filters the complete database of [.CN one word domains](
 | .CENTER        | 8,208        | [Github](https://github.com/UniqueDomains/center-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=center-oneword-domains&utm_content=table.link)        |
 | .CEO           | 9,226        | [Github](https://github.com/UniqueDomains/ceo-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ceo-oneword-domains&utm_content=table.link)           |
 | .CFD           | 9,549        | [Github](https://github.com/UniqueDomains/cfd-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=cfd-oneword-domains&utm_content=table.link)           |
-| .CHANNEL       | 0            | [Github](https://github.com/UniqueDomains/channel-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=channel-oneword-domains&utm_content=table.link)       |
+| .CHANNEL       | 240          | [Github](https://github.com/UniqueDomains/channel-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=channel-oneword-domains&utm_content=table.link)       |
 | .CHARITY       | 9,479        | [Github](https://github.com/UniqueDomains/charity-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=charity-oneword-domains&utm_content=table.link)       |
 | .CHAT          | 7,344        | [Github](https://github.com/UniqueDomains/chat-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=chat-oneword-domains&utm_content=table.link)          |
 | .CHEAP         | 9,362        | [Github](https://github.com/UniqueDomains/cheap-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=cheap-oneword-domains&utm_content=table.link)         |
@@ -222,7 +247,7 @@ If you want to search & filters the complete database of [.CN one word domains](
 | .DOMAINS       | 8,939        | [Github](https://github.com/UniqueDomains/domains-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=domains-oneword-domains&utm_content=table.link)       |
 | .DOWNLOAD      | 9,698        | [Github](https://github.com/UniqueDomains/download-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=download-oneword-domains&utm_content=table.link)      |
 | .EARTH         | 6,419        | [Github](https://github.com/UniqueDomains/earth-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=earth-oneword-domains&utm_content=table.link)         |
-| .ECO           | 0            | [Github](https://github.com/UniqueDomains/eco-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=eco-oneword-domains&utm_content=table.link)           |
+| .ECO           | 378          | [Github](https://github.com/UniqueDomains/eco-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=eco-oneword-domains&utm_content=table.link)           |
 | .EDUCATION     | 8,285        | [Github](https://github.com/UniqueDomains/education-oneword-domains)     | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=education-oneword-domains&utm_content=table.link)     |
 | .EMAIL         | 6,638        | [Github](https://github.com/UniqueDomains/email-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=email-oneword-domains&utm_content=table.link)         |
 | .ENERGY        | 8,363        | [Github](https://github.com/UniqueDomains/energy-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=energy-oneword-domains&utm_content=table.link)        |
@@ -341,7 +366,7 @@ If you want to search & filters the complete database of [.CN one word domains](
 | .KIDS          | 9,513        | [Github](https://github.com/UniqueDomains/kids-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kids-oneword-domains&utm_content=table.link)          |
 | .KIM           | 9,314        | [Github](https://github.com/UniqueDomains/kim-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kim-oneword-domains&utm_content=table.link)           |
 | .KITCHEN       | 9,140        | [Github](https://github.com/UniqueDomains/kitchen-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kitchen-oneword-domains&utm_content=table.link)       |
-| .KIWI          | 0            | [Github](https://github.com/UniqueDomains/kiwi-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kiwi-oneword-domains&utm_content=table.link)          |
+| .KIWI          | 399          | [Github](https://github.com/UniqueDomains/kiwi-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kiwi-oneword-domains&utm_content=table.link)          |
 | .LA            | 7,906        | [Github](https://github.com/UniqueDomains/la-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=la-oneword-domains&utm_content=table.link)            |
 | .LAND          | 8,107        | [Github](https://github.com/UniqueDomains/land-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=land-oneword-domains&utm_content=table.link)          |
 | .LAT           | 8,298        | [Github](https://github.com/UniqueDomains/lat-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=lat-oneword-domains&utm_content=table.link)           |
@@ -591,7 +616,7 @@ If you want to search & filters the complete database of [.CN one word domains](
 | .WTF           | 7,715        | [Github](https://github.com/UniqueDomains/wtf-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=wtf-oneword-domains&utm_content=table.link)           |
 | .XN--3DS443G   | 0            | [Github](https://github.com/UniqueDomains/xn--3ds443g-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=xn--3ds443g-oneword-domains&utm_content=table.link)   |
 | .XN--6FRZ82G   | 0            | [Github](https://github.com/UniqueDomains/xn--6frz82g-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=xn--6frz82g-oneword-domains&utm_content=table.link)   |
-| .XXX           | 0            | [Github](https://github.com/UniqueDomains/xxx-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=xxx-oneword-domains&utm_content=table.link)           |
+| .XXX           | 347          | [Github](https://github.com/UniqueDomains/xxx-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=xxx-oneword-domains&utm_content=table.link)           |
 | .XYZ           | 55,913       | [Github](https://github.com/UniqueDomains/xyz-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=xyz-oneword-domains&utm_content=table.link)           |
 | .YACHTS        | 9,447        | [Github](https://github.com/UniqueDomains/yachts-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=yachts-oneword-domains&utm_content=table.link)        |
 | .YOGA          | 9,181        | [Github](https://github.com/UniqueDomains/yoga-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=yoga-oneword-domains&utm_content=table.link)          |
