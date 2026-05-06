@@ -1,10 +1,10 @@
-# Available .CN One-Word Domains (748)
+# Available .CN One-Word Domains (747)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-748%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-748%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-747%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-747%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,9 +14,9 @@ Daily-updated dataset of available and resale .cn one-word domains from Unique D
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 748 rows · **Live catalog:** 748 domains
+**Public extract:** 747 rows · **Live catalog:** 747 domains · **Median ask:** $0 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/cn`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .CN one-word domain ca
 
 ### Files
 
-- `cn.csv` — public CSV extract (748 rows)
-- `cn.json` — public JSON extract (748 rows)
+- `cn.csv` — public CSV extract (747 rows)
+- `cn.json` — public JSON extract (747 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status  | ask_price | renewal_price | attractiveness | demand | length | registrar     |
-| ---------------- | ------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
-| affirm.cn        | resell  | —         | —             | 80             | 83     | 6      | 浙江贰贰网络有限公司    |
-| ElSalvador.cn    | premium | —         | —             | 72             | 95     | 11     | —             |
-| MacBook.cn       | resell  | —         | —             | 90             | 74     | 7      | 厦门易名科技股份有限公司  |
-| NewZealand.cn    | premium | —         | —             | 78             | 94     | 11     | —             |
-| lens.cn          | resell  | —         | —             | 62             | 69     | 4      | Dynadot Inc   |
-| CostaRica.cn     | premium | —         | —             | 74             | 94     | 10     | —             |
-| BBC.cn           | resell  | —         | —             | 84             | 67     | 3      | 厦门三五互联信息有限公司  |
-| SriLanka.cn      | premium | —         | —             | 68             | 94     | 9      | —             |
-| priceless.cn     | resell  | —         | —             | 79             | 66     | 9      | Dynadot Inc   |
-| Philippines.cn   | premium | —         | —             | 68             | 94     | 11     | —             |
-| nationwide.cn    | resell  | —         | —             | 76             | 66     | 10     | Dynadot Inc   |
-| Netherlands.cn   | premium | —         | —             | 76             | 93     | 11     | —             |
-| myspace.cn       | resell  | —         | —             | 80             | 65     | 7      | 浙江贰贰网络有限公司    |
-| SouthAfrica.cn   | premium | —         | —             | 66             | 93     | 12     | —             |
-| wallet.cn        | resell  | —         | —             | 74             | 54     | 6      | Dynadot Inc   |
-| PuertoRico.cn    | premium | —         | —             | 70             | 92     | 11     | —             |
-| local.cn         | resell  | —         | —             | 80             | 53     | 5      | Dynadot Inc   |
-| UnitedStates.cn  | premium | —         | —             | 66             | 92     | 13     | —             |
-| based.cn         | resell  | —         | —             | 82             | 45     | 5      | 阿里云计算有限公司（万网） |
-| UnitedKingdom.cn | premium | —         | —             | 64             | 92     | 14     | —             |
+| domain            | status  | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------------- | ------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| Maidens.cn        | premium | —         | —             | 80             | 4      | 7      | —         |
+| Rhianna.cn        | premium | —         | —             | 81             | 3      | 7      | —         |
+| WWWpage.cn        | premium | —         | —             | 80             | 1      | 8      | —         |
+| McMuffin.cn       | premium | —         | —             | 86             | 2      | 8      | —         |
+| Carribean.cn      | premium | —         | —             | 80             | 3      | 9      | —         |
+| OKboomer.cn       | premium | —         | —             | 82             | 6      | 9      | —         |
+| FinalFour.cn      | premium | —         | —             | 82             | 3      | 10     | —         |
+| DalaiLama.cn      | premium | —         | —             | 84             | 11     | 10     | —         |
+| midJanuary.cn     | premium | —         | —             | 80             | 1      | 11     | —         |
+| midOctober.cn     | premium | —         | —             | 80             | 1      | 11     | —         |
+| Scotchtape.cn     | premium | —         | —             | 80             | 2      | 11     | —         |
+| JollyRoger.cn     | premium | —         | —             | 82             | 10     | 11     | —         |
+| Barbiepink.cn     | premium | —         | —             | 84             | 11     | 11     | —         |
+| midDecember.cn    | premium | —         | —             | 80             | 1      | 12     | —         |
+| midFebruary.cn    | premium | —         | —             | 80             | 1      | 12     | —         |
+| Germanpizza.cn    | premium | —         | —             | 82             | 1      | 12     | —         |
+| Sundayroast.cn    | premium | —         | —             | 84             | 4      | 12     | —         |
+| RomanEmpire.cn    | premium | —         | —             | 86             | 4      | 12     | —         |
+| QueenElizabeth.cn | premium | —         | —             | 82             | 4      | 15     | —         |
+| AlbertEinstein.cn | premium | —         | —             | 90             | 6      | 15     | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract        | Unique Domains                                   |
-| --------------------- | ------------------------------------------------ |
-| 748-row public sample | 748 live domains                                 |
-| Static CSV / JSON     | live search and daily refresh                    |
-| Basic exported fields | deeper price, demand, risk, and workflow context |
-| No persistence        | Radar, saved search, and alerts                  |
-| No founder workflow   | Project, shortlist, and next-step workflow       |
+| GitHub extract        | Unique Domains                             |
+| --------------------- | ------------------------------------------ |
+| 747-row public sample | 747 live domains                           |
+| Static CSV / JSON     | live search and daily refresh              |
+| Basic exported fields | 0 high-demand names under $2,500           |
+| No persistence        | Radar, saved search, and alerts            |
+| No founder workflow   | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This set is entirely .cn domains, with examples such as Maidens.cn, Rhianna.cn, WWWpage.cn, McMuffin.cn, Carribean.cn, OKboomer.cn, FinalFour.cn, DalaiLama.cn, midJanuary.cn, and midOctober.cn. That mix matters. Some names are straightforward words or dates, while others are tied to public figures, slang, brands, events, or common misspellings. For founders, the strongest choices are usually easy to say, easy to type, and broadly ownable. For investors, the better candidates are the names with cleaner wording and fewer obvious rights issues. In this selection, quality is less about hype and more about avoiding names that create instant confusion or legal friction.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Favor clear spelling over misspellings like Carribean.cn
+- Be cautious with brand and celebrity references
+- Date-based names can be memorable but narrow
+- WWWpage.cn-style formats may feel less brandable
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CN One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CN One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
