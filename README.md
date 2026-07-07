@@ -16,8 +16,8 @@ Daily-updated dataset of available and resale .cn one-word domains from Unique D
 
 **Public extract:** 750 rows · **Live catalog:** 750 domains · **Median ask:** $0 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/cn`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/cn`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CN one-word domain ca
 
 ### Files
 
-- `cn.csv` — public CSV extract (750 rows)
-- `cn.json` — public JSON extract (750 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `cn.csv`, public CSV extract (750 rows)
+- `cn.json`, public JSON extract (750 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status  | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | ------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Maidens.cn        | premium | —         | —             | 80             | 4      | 7      | —         |
-| Rhianna.cn        | premium | —         | —             | 81             | 3      | 7      | —         |
-| WWWpage.cn        | premium | —         | —             | 80             | 1      | 8      | —         |
-| McMuffin.cn       | premium | —         | —             | 86             | 2      | 8      | —         |
-| Carribean.cn      | premium | —         | —             | 80             | 3      | 9      | —         |
-| OKboomer.cn       | premium | —         | —             | 82             | 6      | 9      | —         |
-| FinalFour.cn      | premium | —         | —             | 82             | 3      | 10     | —         |
-| DalaiLama.cn      | premium | —         | —             | 84             | 11     | 10     | —         |
-| midJanuary.cn     | premium | —         | —             | 80             | 1      | 11     | —         |
-| midOctober.cn     | premium | —         | —             | 80             | 1      | 11     | —         |
-| Scotchtape.cn     | premium | —         | —             | 80             | 2      | 11     | —         |
-| JollyRoger.cn     | premium | —         | —             | 82             | 10     | 11     | —         |
-| Barbiepink.cn     | premium | —         | —             | 84             | 11     | 11     | —         |
-| midDecember.cn    | premium | —         | —             | 80             | 1      | 12     | —         |
-| midFebruary.cn    | premium | —         | —             | 80             | 1      | 12     | —         |
-| Germanpizza.cn    | premium | —         | —             | 82             | 1      | 12     | —         |
-| Sundayroast.cn    | premium | —         | —             | 84             | 4      | 12     | —         |
-| RomanEmpire.cn    | premium | —         | —             | 86             | 4      | 12     | —         |
-| QueenElizabeth.cn | premium | —         | —             | 82             | 4      | 15     | —         |
-| AlbertEinstein.cn | premium | —         | —             | 90             | 6      | 15     | —         |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| messages.cn       | resell    | —         | —             | high           | low    | 8      | Dynadot Inc     |
+| AlbertEinstein.cn | available | —         | —             | high           | low    | 15     | —               |
+| FinalFour.cn      | available | —         | —             | high           | low    | 10     | —               |
+| tips.cn           | resell    | —         | —             | high           | low    | 4      | Dynadot Inc     |
+| myspace.cn        | resell    | —         | —             | high           | medium | 7      | 浙江贰贰网络有限公司      |
+| Carribean.cn      | available | —         | —             | high           | low    | 9      | —               |
+| JollyRoger.cn     | available | —         | —             | high           | low    | 11     | —               |
+| RomanEmpire.cn    | available | —         | —             | high           | low    | 12     | —               |
+| based.cn          | resell    | —         | —             | high           | medium | 5      | 阿里云计算有限公司（万网）   |
+| MacBook.cn        | resell    | —         | —             | high           | high   | 7      | 厦门易名科技股份有限公司    |
+| midJanuary.cn     | available | —         | —             | high           | low    | 11     | —               |
+| Snickers.cn       | resell    | —         | —             | high           | low    | 8      | 阿里巴巴云计算（北京）有限公司 |
+| landscaping.cn    | resell    | —         | —             | high           | low    | 11     | Dynadot Inc     |
+| Rhianna.cn        | available | —         | —             | high           | low    | 7      | —               |
+| complete.cn       | resell    | —         | —             | high           | low    | 8      | 阿里云计算有限公司（万网）   |
+| tender.cn         | resell    | —         | —             | high           | low    | 6      | Dynadot Inc     |
+| above.cn          | resell    | —         | —             | high           | low    | 5      | 阿里云计算有限公司（万网）   |
+| negative.cn       | resell    | —         | —             | high           | low    | 8      | 广西北部湾在线投资控股有限公司 |
+| cream.cn          | resell    | —         | —             | high           | —      | 5      | 阿里云计算有限公司（万网）   |
+| easter.cn         | resell    | —         | —             | high           | low    | 6      | Dynadot Inc     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely .cn domains, with examples such as Maidens.cn, Rhianna.cn, WWWpage.cn, McMuffin.cn, Carribean.cn, OKboomer.cn, FinalFour.cn, DalaiLama.cn, midJanuary.cn, and midOctober.cn. That mix matters. Some names are straightforward words or dates, while others are tied to public figures, slang, brands, events, or common misspellings. For founders, the strongest choices are usually easy to say, easy to type, and broadly ownable. For investors, the better candidates are the names with cleaner wording and fewer obvious rights issues. In this selection, quality is less about hype and more about avoiding names that create instant confusion or legal friction.
+This set of one-word .CN domain names covers a wide range of naming styles, from everyday dictionary words like messages.cn and tips.cn to distinctive names built around pop culture, technology, and history. Several entries closely resemble existing brands or products, such as MacBook.cn and myspace.cn, which makes trademark screening an important step before acquiring any name in this list. Others, like based.cn and JollyRoger.cn, offer short, brandable options with fewer obvious conflicts. Because renewal costs and demand vary by name, each domain should be reviewed individually rather than assessed as a single category.
 
-- Favor clear spelling over misspellings like Carribean.cn
-- Be cautious with brand and celebrity references
-- Date-based names can be memorable but narrow
-- WWWpage.cn-style formats may feel less brandable
+- 750 one-word .CN domains spanning dictionary and brand-like terms
+- Mix of short common words and recognizable name-based domains
+- Some names resemble existing brands—check trademark risk first
+- Updated daily to reflect the current .CN one-word inventory
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CN One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CN One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
