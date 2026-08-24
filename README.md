@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .cn one-word domains from Unique D
 
 **Public extract:** 890 rows · **Live catalog:** 890 domains · **Median ask:** $0 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-08-23
+**Last updated:** 2026-08-24
 **Canonical page:** `https://unique.domains/domains/tld/cn`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| Carribean.cn   | available | —         | —             | high           | low    | 9      | —               |
-| JollyRoger.cn  | available | —         | —             | high           | low    | 11     | —               |
-| RomanEmpire.cn | available | —         | —             | high           | low    | 12     | —               |
-| based.cn       | resell    | —         | —             | high           | medium | 5      | 阿里云计算有限公司（万网）   |
-| MacBook.cn     | resell    | —         | —             | high           | high   | 7      | 厦门易名科技股份有限公司    |
-| midJanuary.cn  | available | —         | —             | high           | low    | 11     | —               |
-| Snickers.cn    | resell    | —         | —             | high           | low    | 8      | 阿里巴巴云计算（北京）有限公司 |
-| landscaping.cn | resell    | —         | —             | high           | low    | 11     | Dynadot Inc     |
-| Rhianna.cn     | available | —         | —             | high           | low    | 7      | —               |
-| tender.cn      | resell    | —         | —             | high           | low    | 6      | Dynadot Inc     |
-| above.cn       | resell    | —         | —             | high           | low    | 5      | 阿里云计算有限公司（万网）   |
-| negative.cn    | resell    | —         | —             | high           | low    | 8      | 广西北部湾在线投资控股有限公司 |
-| cream.cn       | resell    | —         | —             | high           | —      | 5      | 阿里云计算有限公司（万网）   |
-| easter.cn      | resell    | —         | —             | high           | low    | 6      | Dynadot Inc     |
-| academic.cn    | resell    | —         | —             | high           | low    | 8      | 阿里云计算有限公司（万网）   |
-| ethical.cn     | resell    | —         | —             | high           | —      | 7      | 阿里云计算有限公司（万网）   |
-| midOctober.cn  | available | —         | —             | high           | low    | 11     | —               |
-| concise.cn     | resell    | —         | —             | high           | low    | 7      | 阿里云计算有限公司（万网）   |
-| lunch.cn       | resell    | —         | —             | high           | low    | 5      | Dynadot Inc     |
-| organic.cn     | resell    | —         | —             | high           | low    | 7      | Dynadot Inc     |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| Maidens.cn        | available | —         | —             | high           | low    | 7      | —               |
+| jewels.cn         | resell    | —         | —             | high           | low    | 6      | Dynadot Inc     |
+| messages.cn       | resell    | —         | —             | high           | low    | 8      | Dynadot Inc     |
+| AlbertEinstein.cn | available | —         | —             | high           | low    | 15     | —               |
+| FinalFour.cn      | available | —         | —             | high           | low    | 10     | —               |
+| tips.cn           | resell    | —         | —             | high           | low    | 4      | Dynadot Inc     |
+| myspace.cn        | resell    | —         | —             | high           | medium | 7      | 浙江贰贰网络有限公司      |
+| Carribean.cn      | available | —         | —             | high           | low    | 9      | —               |
+| JollyRoger.cn     | available | —         | —             | high           | low    | 11     | —               |
+| RomanEmpire.cn    | available | —         | —             | high           | low    | 12     | —               |
+| based.cn          | resell    | —         | —             | high           | medium | 5      | 阿里云计算有限公司（万网）   |
+| MacBook.cn        | resell    | —         | —             | high           | high   | 7      | 厦门易名科技股份有限公司    |
+| midJanuary.cn     | available | —         | —             | high           | low    | 11     | —               |
+| Snickers.cn       | resell    | —         | —             | high           | low    | 8      | 阿里巴巴云计算（北京）有限公司 |
+| landscaping.cn    | resell    | —         | —             | high           | low    | 11     | Dynadot Inc     |
+| Rhianna.cn        | available | —         | —             | high           | low    | 7      | —               |
+| tender.cn         | resell    | —         | —             | high           | low    | 6      | Dynadot Inc     |
+| above.cn          | resell    | —         | —             | high           | low    | 5      | 阿里云计算有限公司（万网）   |
+| negative.cn       | resell    | —         | —             | high           | low    | 8      | 广西北部湾在线投资控股有限公司 |
+| cream.cn          | resell    | —         | —             | high           | —      | 5      | 阿里云计算有限公司（万网）   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CN One-Word Domains*. Version 2026-08-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CN One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
