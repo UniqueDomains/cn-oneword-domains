@@ -1,10 +1,10 @@
-# Available .CN One-Word Domains (976)
+# Available .CN One-Word Domains (983)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-976%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-976%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-983%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-983%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,9 +14,9 @@ Daily-updated dataset of available and resale .cn one-word domains from Unique D
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 976 rows · **Live catalog:** 976 domains · **Median ask:** $0 · **High-demand under $2,500:** 0
+**Public extract:** 983 rows · **Live catalog:** 983 domains · **Median ask:** $0 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-12
+**Last updated:** 2026-09-13
 **Canonical page:** `https://unique.domains/domains/tld/cn`
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .CN one-word domain ca
 
 ### Files
 
-- `cn.csv`, public CSV extract (976 rows)
-- `cn.json`, public JSON extract (976 rows)
+- `cn.csv`, public CSV extract (983 rows)
+- `cn.json`, public JSON extract (983 rows)
 - `DATA_DICTIONARY.md`, field definitions for the exported files
 - `METHODOLOGY.md`, scope, refresh policy, and caveats
 - `CHANGELOG.md`, latest snapshot metadata
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
-| McMuffin.cn       | available | —         | —             | high           | low    | 8      | —             |
 | Sundayroast.cn    | available | —         | —             | high           | low    | 12     | —             |
 | finals.cn         | resell    | —         | —             | high           | low    | 6      | 成都垦派科技有限公司    |
 | OKboomer.cn       | available | —         | —             | high           | low    | 9      | —             |
@@ -84,6 +83,7 @@ print(df.head())
 | JollyRoger.cn     | available | —         | —             | high           | low    | 11     | —             |
 | RomanEmpire.cn    | available | —         | —             | high           | low    | 12     | —             |
 | based.cn          | resell    | —         | —             | high           | medium | 5      | 阿里云计算有限公司（万网） |
+| MacBook.cn        | resell    | —         | —             | high           | high   | 7      | 厦门易名科技股份有限公司  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract        | Unique Domains                             |
 | --------------------- | ------------------------------------------ |
-| 976-row public sample | 976 live domains                           |
+| 983-row public sample | 983 live domains                           |
 | Static CSV / JSON     | live search and daily refresh              |
 | Basic exported fields | 0 high-demand names under $2,500           |
 | No persistence        | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CN One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CN One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
