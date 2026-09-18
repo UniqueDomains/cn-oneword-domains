@@ -1,10 +1,10 @@
-# Available .CN One-Word Domains (1,014)
+# Available .CN One-Word Domains (1,018)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-1%2C014%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-1%2C018%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .cn one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **1,014 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **1,018 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 1,014 domains · **Median ask:** $0 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 1,018 domains · **Median ask:** $0 · **High-demand under $2,500:** 0
 
 **Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/cn`
@@ -76,7 +76,6 @@ print(df.head())
 | destination.cn    | resell    | —         | —             | high           | low    | 11     | Dynadot Inc   |
 | midFebruary.cn    | available | —         | —             | high           | low    | 12     | —             |
 | Maidens.cn        | available | —         | —             | high           | low    | 7      | —             |
-| jewels.cn         | resell    | —         | —             | high           | low    | 6      | Dynadot Inc   |
 | messages.cn       | resell    | —         | —             | high           | low    | 8      | Dynadot Inc   |
 | AlbertEinstein.cn | available | —         | —             | high           | low    | 15     | —             |
 | FinalFour.cn      | available | —         | —             | high           | low    | 10     | —             |
@@ -84,6 +83,7 @@ print(df.head())
 | Carribean.cn      | available | —         | —             | high           | low    | 9      | —             |
 | JollyRoger.cn     | available | —         | —             | high           | low    | 11     | —             |
 | RomanEmpire.cn    | available | —         | —             | high           | low    | 12     | —             |
+| MacBook.cn        | resell    | —         | —             | high           | high   | 7      | 厦门易名科技股份有限公司  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 1,014 live domains                         |
+| 1,000-row public sample | 1,018 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
