@@ -1,20 +1,17 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 d568d88b-6dd4-4998-8d29-59202275ad0e,razor.cn,resell,,,high,low,5,PDR Ltd. d/b/a PublicDomainRegistry.com,,,
 3bf9657c-3ab6-4b8d-9e1f-3d8bf8c5481a,selected.cn,resell,,,high,low,8,阿里云计算有限公司（万网）,,,
-46b3bfe5-f144-47dd-924e-8c1cc03ba7f9,lens.cn,resell,,,medium,medium,4,Dynadot Inc,,,
-9bbacbc9-4f94-4a04-967f-c11503f9986a,industrial.cn,resell,,,medium,low,10,Dynadot Inc,,,
+46b3bfe5-f144-47dd-924e-8c1cc03ba7f9,lens.cn,resell,,,high,medium,4,Dynadot Inc,,,
+9bbacbc9-4f94-4a04-967f-c11503f9986a,industrial.cn,resell,,,high,low,10,Dynadot Inc,,,
 32a1dd9c-5670-40d3-bee2-aceff8c2a1bb,sandwich.cn,resell,,,high,low,8,Dynadot Inc,,,
-2777f86e-11d5-4d24-ab38-22202150de72,recovery.cn,resell,,,medium,low,8,Dynadot Inc,,,08/09/2026 13:21
-f6edc213-e198-4fa0-bafc-fcc67f91e927,attendant.cn,resell,,,low,low,9,成都垦派科技有限公司,,,21/09/2026 15:40
-193fb5ce-ee14-43f0-8c02-4856f87dbb64,marks.cn,resell,,,medium,low,5,阿里云计算有限公司（万网）,,,
-85ce5394-b786-402e-ac8a-4b4d97924ad1,stain.cn,resell,,,medium,low,5,Dynadot Inc,,,
+2777f86e-11d5-4d24-ab38-22202150de72,recovery.cn,resell,,,high,low,8,Dynadot Inc,,,08/09/2026 13:21
+193fb5ce-ee14-43f0-8c02-4856f87dbb64,marks.cn,resell,,,high,low,5,阿里云计算有限公司（万网）,,,
+85ce5394-b786-402e-ac8a-4b4d97924ad1,stain.cn,resell,,,high,low,5,Dynadot Inc,,,
 1fb89f0a-3dff-438c-98fa-c552ca138d0f,excursion.cn,resell,,,high,low,9,成都西维数码科技有限公司,,,
-f40bc171-8ad8-4fc9-9405-7c4efd2552f0,bump.cn,resell,,,medium,low,4,阿里云计算有限公司（万网）,,,
+f40bc171-8ad8-4fc9-9405-7c4efd2552f0,bump.cn,resell,,,high,low,4,阿里云计算有限公司（万网）,,,
 dc85809e-5f96-4861-80f9-5deccb026185,advocate.cn,resell,,,high,low,8,Dynadot Inc,,,
 5ddc1fec-8356-4fa1-83df-b3d40b6cba71,unlimited.cn,resell,,,high,low,9,Dynadot Inc,,,
-2a61567e-3d1f-4cf0-8548-2839a176a0ac,chambers.cn,resell,,,low,low,8,Domain Registration Services,,,08/09/2026 06:47
-242ef226-9922-4b86-b27f-87c1fc244e8c,stove.cn,resell,,,low,low,5,Dynadot Inc,,,19/09/2026 18:48
-e41511c8-5d79-4267-b827-da7174fb99a5,early.cn,resell,,,high,low,5,Namescout.com,,,
+2a61567e-3d1f-4cf0-8548-2839a176a0ac,chambers.cn,resell,,,high,low,8,Domain Registration Services,,,08/09/2026 06:47
 13543ebf-5653-4cff-82d1-0397216e4fc5,legs.cn,resell,,,high,low,4,Dynadot Inc,,,
 605dc7bd-fb16-4820-8aff-194e2f3f4330,occasion.cn,resell,,,high,low,8,Dynadot Inc,,,
 f3932521-516a-4981-aedf-f4a4bd8c77ce,velvet.cn,resell,,,high,low,6,Dynadot Inc,,,
@@ -22,48 +19,39 @@ f767a472-9739-4e9e-b564-ae0341a5b711,alias.cn,resell,,,high,low,5,Dynadot Inc,,,
 9ba76516-db30-4188-aa79-c19ba2854a25,walk.cn,resell,,,high,low,4,Dynadot Inc,,,
 deda5a49-7624-44cb-8cff-f6ec7814069b,local.cn,resell,,,high,medium,5,Dynadot Inc,,,
 6b85b15d-d5de-4b86-a1b5-7d952b8734e3,intimate.cn,resell,,,high,low,8,Dynadot Inc,,,
-17e68205-4af4-401d-a006-c0c2cd0f10f2,crash.cn,resell,,,medium,low,5,阿里巴巴云计算（北京）有限公司,,,
+17e68205-4af4-401d-a006-c0c2cd0f10f2,crash.cn,resell,,,high,low,5,阿里巴巴云计算（北京）有限公司,,,
 46f46f48-a6de-4567-bb42-676a81fd1f7f,cleverly.cn,resell,,,high,low,8,阿里云计算有限公司（万网）,,,
 eef206a1-d76f-405c-81f0-c95db30c51a5,lace.cn,resell,,,high,low,4,Dynadot Inc,,,
 97e2e23a-f162-4430-8cb6-c6f93c91d0f8,traveler.cn,resell,,,high,low,8,Dynadot Inc,,,
 76c6b39d-40b0-43e3-90ea-c41fe461b78a,slot.cn,resell,,,high,low,4,阿里巴巴云计算（北京）有限公司,,,
-d0f4df4d-2349-4144-a53e-c5438958d823,well.cn,resell,,,high,low,4,厦门易名科技股份有限公司,,,
 ba4fa835-8ac9-4cfa-85a1-8a9bddb23323,shaft.cn,resell,,,high,low,5,浙江贰贰网络有限公司,,,
 7b53847e-a426-4c1c-8af7-9c63b42f7fbb,adventure.cn,resell,,,high,medium,9,Dynadot Inc,,,
 ea5406e2-d313-4dc2-8769-0ff0226a6a7f,interview.cn,resell,,,high,low,9,Dynadot Inc,,,
-32959880-2fa9-4a55-8c21-766af2d71052,protein.cn,resell,,,medium,low,7,Dynadot Inc,,,08/09/2026 08:51
+32959880-2fa9-4a55-8c21-766af2d71052,protein.cn,resell,,,high,low,7,Dynadot Inc,,,08/09/2026 08:51
 2c790524-b430-4bd1-a147-3b479f431185,political.cn,resell,,,high,low,9,Dynadot Inc,,,
 9196ebd0-ba80-4053-b60e-013230b3a50c,prudent.cn,resell,,,high,low,7,Dynadot Inc,,,
-40b87237-7742-4905-8d4c-0519799845d2,reading.cn,resell,,,medium,low,7,Dynadot Inc,,,
+40b87237-7742-4905-8d4c-0519799845d2,reading.cn,resell,,,high,low,7,Dynadot Inc,,,
 b5caa87c-e2cd-453f-8bc6-18fd17066c6c,mono.cn,resell,,,high,low,4,阿里云计算有限公司（万网）,,,
 f99f3523-089e-4803-bedc-b153ae1b2088,hybrid.cn,resell,,,high,low,6,浙江贰贰网络有限公司,,,
-beff2d9b-a9c5-4340-953a-ab4f48018b71,opinion.cn,resell,,,high,low,7,Dynadot Inc,,,
-8ec37e64-4faf-47e8-b062-feb356a9de33,lovely.cn,resell,,,low,low,6,阿里云计算有限公司（万网）,,,21/09/2026 19:31
+beff2d9b-a9c5-4340-953a-ab4f48018b71,opinion.cn,resell,,,high,low,7,Dynadot Inc,,,24/09/2026 21:47
 193b724d-4524-44eb-b723-68d8031ec161,bead.cn,resell,,,high,low,4,Dynadot Inc,,,
-09257638-4d34-498a-88ad-20a8630f3808,overseas.cn,resell,,,low,low,8,Dynadot Inc,,,21/09/2026 14:34
 47927925-e490-44a1-ae60-b8350bf86b8b,chorus.cn,resell,,,high,low,6,Dynadot Inc,,,
-1a0580f8-5321-4d62-90d0-c6568e32e74d,barter.cn,resell,,,medium,low,6,Dynadot Inc,,,
-0b57aef4-7b82-49cb-a3d6-ff2b501829f2,hairy.cn,resell,,,medium,low,5,阿里云计算有限公司（万网）,,,
+1a0580f8-5321-4d62-90d0-c6568e32e74d,barter.cn,resell,,,high,low,6,Dynadot Inc,,,
 92386ebf-7c27-49bc-9935-ccdbfb486c94,baseball.cn,resell,,,high,low,8,Dynadot Inc,,,18/09/2026 15:37
 95972b9c-a167-4b48-9f22-a3cee59db87a,moderation.cn,resell,,,high,low,10,阿里云计算有限公司（万网）,,,
 816c6318-df3c-4989-b05f-9ee8007f2319,briefcase.cn,resell,,,high,low,9,Dynadot Inc,,,
-56db2c0c-49db-4015-9692-031d2b43bd4a,romancatholic.cn,available,,,medium,low,14,,,,
-eca78a54-054c-42fb-9211-299aa93e15ce,moscow.cn,resell,,,medium,low,6,广州云讯信息科技有限公司,,,
-3a3ca758-40a2-4789-9e69-37d741dd133f,boxer.cn,resell,,,low,low,5,Dynadot Inc,,,19/09/2026 03:25
+eca78a54-054c-42fb-9211-299aa93e15ce,moscow.cn,resell,,,high,low,6,广州云讯信息科技有限公司,,,
 d3478cbe-8edc-4431-a474-d63d527e5e02,priceless.cn,resell,,,high,medium,9,Dynadot Inc,,,
-efca4421-3f1f-47dc-bab9-92cc82d2eca1,masterly.cn,resell,,,high,low,8,北京网尊科技有限公司,,,
 b54b1933-7082-406c-a0d8-7e9df69e5d02,beads.cn,resell,,,high,low,5,Dynadot Inc,,,
 d416a6e5-14cf-4e87-af9f-1d80aac9924a,pasta.cn,resell,,,high,low,5,Dynadot Inc,,,
 b00f607c-cec7-453b-b3eb-6d86a96e222a,quantity.cn,resell,,,high,low,8,成都西维数码科技有限公司,,,
-fb41a840-477e-478f-b909-10382abc7e80,fever.cn,resell,,,medium,low,5,Dynadot Inc,,,
+fb41a840-477e-478f-b909-10382abc7e80,fever.cn,resell,,,high,low,5,Dynadot Inc,,,
 d7248a05-adca-43b1-95af-3d381b7590ee,whether.cn,resell,,,high,low,7,广东时代互联科技有限公司,,,
 a09e1e8d-1f90-4ebc-9b37-adde5074918c,shelf.cn,resell,,,high,low,5,Dynadot Inc,,,
-769e6173-c17b-43a3-a63f-cdea8e2c75fb,border.cn,resell,,,low,low,6,Dynadot Inc,,,23/09/2026 00:10
 572dbeb7-30ed-458c-ac38-b723c1aa4814,corridor.cn,resell,,,high,low,8,阿里云计算有限公司（万网）,,,
 d1d389fe-1ed8-4444-9837-8523d9f33e89,stress.cn,resell,,,high,low,6,Dynadot Inc,,,
 5db1fccd-7caf-448d-aac7-39f7e19657ce,soup.cn,resell,,,high,low,4,Dynadot Inc,,,
 a1b4eeca-c96e-47af-9bb4-e5f8cad881ba,boards.cn,resell,,,high,low,6,Dynadot Inc,,,
-f40cfdf9-12f3-4a9b-91f6-948401d731e5,fork.cn,resell,,,low,low,4,Dynadot Inc,,,23/09/2026 02:18
 6f0ffb3f-5fb1-458d-95ad-dd60f69cf03d,sauce.cn,resell,,,high,low,5,Dynadot Inc,,,
 ec02cc44-2bb5-48c0-b6fe-5195b7508c80,boxers.cn,resell,,,high,low,6,Dynadot Inc,,,
 a8403726-12c6-4a47-9fdf-95b2254d9dc9,david.cn,resell,,,high,medium,5,united-domains GmbH,,,
@@ -71,931 +59,427 @@ a8403726-12c6-4a47-9fdf-95b2254d9dc9,david.cn,resell,,,high,medium,5,united-doma
 737e63b9-3cf2-44ec-9f38-c43d48fd7de6,divide.cn,resell,,,high,low,6,Dynadot Inc,,,
 c10148d5-ca5c-414d-8abc-bdd74423b98b,wallet.cn,resell,,,high,medium,6,Dynadot Inc,,,
 542243cf-3437-469b-a777-721695919a28,regional.cn,resell,,,high,low,8,Dynadot Inc,,,
-aec82a81-7562-4b95-bf17-ef7455a4ba53,complete.cn,resell,,,medium,low,8,阿里云计算有限公司（万网）,,,19/09/2026 19:02
 f339e1b4-6b37-4c0d-91c4-9d0982397835,sauna.cn,resell,,,high,low,5,Dynadot Inc,,,
-90609dc9-24e5-44a6-8236-156127913e68,bacon.cn,resell,,,medium,low,5,Dynadot Inc,,,
+90609dc9-24e5-44a6-8236-156127913e68,bacon.cn,resell,,,high,low,5,Dynadot Inc,,,
 dcd20bd0-9fa5-4932-a1b3-0eebe0426775,spoon.cn,resell,,,high,low,5,Dynadot Inc,,,
 ae9c4fc0-708b-4301-9f2e-0eba2bf11c15,bones.cn,resell,,,medium,low,5,Dynadot Inc,,,
 abd641dc-c3bb-4785-a75d-cc1dd1770773,glue.cn,resell,,,high,low,4,Dynadot Inc,,,
 8303621c-34da-4ba6-b469-636d25dea786,often.cn,resell,,,high,low,5,EPAG Domainservices GmbH,,,
-2de76f29-385b-456b-8c8c-ea25d3cff5ee,elite.cn,resell,,,high,medium,5,Web Commerce Communications Limited,,,18/09/2026 15:22
-ee7d1fee-22dd-49ab-be64-0a548562b02c,wealthy.cn,resell,,,low,low,7,Dynadot Inc,,,21/09/2026 21:57
 c7d43d1d-0a57-46f8-8bbe-5a849bdbae63,coconut.cn,resell,,,high,low,7,Dynadot Inc,,,
 4c7ab4b4-db00-4c8c-8241-0ca1ee203087,shifting.cn,resell,,,high,low,8,阿里云计算有限公司（万网）,,,
 65f6371d-de3a-4b88-bcee-87692b9e70c5,location.cn,resell,,,high,low,8,Dynadot Inc,,,
 93aa0366-14ed-405e-a872-76d7aa531b28,veal.cn,resell,,,medium,low,4,Dynadot Inc,,,
-bbc30822-8499-4c3f-bb30-81fa28d11d74,mature.cn,resell,,,high,low,6,Dynadot Inc,,,
-82f85bed-19ed-4f5f-8d9f-a02d3af09a61,comedian.cn,resell,,,high,low,8,Dynadot Inc,,,
 6752003b-c321-4acc-bac7-6248ec55e32e,daytime.cn,resell,,,high,low,7,Dynadot Inc,,,
 685c50cd-cc0b-4c1a-8823-71210405cc3a,candle.cn,resell,,,high,low,6,Dynadot Inc,,,
-540a6622-c3b8-4cbc-b06f-ec1b51fa6d03,crafty.cn,resell,,,medium,low,6,阿里云计算有限公司（万网）,,,
 53e61fa6-cae1-40c0-b9af-a0ecd20fcb92,burn.cn,resell,,,high,low,4,Dynadot Inc,,,
-1f8d29c8-3865-489e-965b-e10d4d0830d4,sounding.cn,resell,,,medium,low,8,阿里云计算有限公司（万网）,,,
-324aa311-5b60-4976-a682-13f5e7032ecf,relish.cn,resell,,,high,low,6,阿里云计算有限公司（万网）,,,
-bcf11e84-2ae1-420d-b986-7d77cafad201,prevention.cn,resell,,,medium,low,10,Dynadot Inc,,,08/09/2026 14:09
+1f8d29c8-3865-489e-965b-e10d4d0830d4,sounding.cn,resell,,,high,low,8,阿里云计算有限公司（万网）,,,
+bcf11e84-2ae1-420d-b986-7d77cafad201,prevention.cn,resell,,,high,low,10,Dynadot Inc,,,08/09/2026 14:09
 bfc6f645-7a32-46a7-af56-f94d02ad1db1,cosmos.cn,resell,,,high,low,6,浙江贰贰网络有限公司,,,
-0afadae9-4845-4b19-83cb-ae26d617b8d8,superstar.cn,resell,,,medium,low,9,Dynadot Inc,,,21/09/2026 17:56
 1b2cb1bf-c091-4198-8342-e33e9526d696,extraordinary.cn,resell,,,high,low,13,成都垦派科技有限公司,,,
 5441f650-7c72-47bf-9695-9d4fc69ad71c,burger.cn,resell,,,high,low,6,Dynadot Inc,,,
-4d5980a0-5344-4f07-bd44-84d7ada48ed4,scene.cn,resell,,,high,low,5,Dynadot Inc,,,
 325fbe4d-159b-490f-b86d-f3c38bfc441c,courtyard.cn,resell,,,high,low,9,Dynadot Inc,,,
 010c7569-36eb-468b-9641-41d804bc3b05,psychic.cn,resell,,,high,low,7,Dynadot Inc,,,
 f15b6421-fa41-4d9a-a40d-576adb75700c,detective.cn,resell,,,high,low,9,Dynadot Inc,,,
 27627b0f-5f3a-4a59-9020-81da78f00ebf,valued.cn,resell,,,high,low,6,WEST263 INTERNATIONAL LIMITED,,,
-cad31639-56fa-48d0-b9f1-efef84de11cb,developed.cn,resell,,,high,low,9,阿里云计算有限公司（万网）,,,
-a9cb89cf-6f6c-42f0-bc28-6b2256aabb5f,corrupt.cn,resell,,,high,low,7,北京光速连通科贸有限公司,,,
-77e1c70b-2685-411b-8885-a60965b2f419,diplomatic.cn,resell,,,high,low,10,北京光速连通科贸有限公司,,,
-65c02174-3ee2-4531-b895-1e3be30163b0,fate.cn,resell,,,medium,low,4,广东时代互联科技有限公司,,,
-57cb0fde-728f-4ca0-a622-e2eb459e34b6,laboratory.cn,resell,,,high,low,10,Dynadot Inc,,,
+65c02174-3ee2-4531-b895-1e3be30163b0,fate.cn,resell,,,high,low,4,广东时代互联科技有限公司,,,
 eb486cbf-8a52-4290-aebc-3ef83bb6c2aa,warranty.cn,resell,,,high,low,8,Dynadot Inc,,,
 5cea944b-c757-4993-881e-7af3011aedd1,relationship.cn,resell,,,high,low,12,Dynadot Inc,,,
 468286d6-52ab-4a8f-b741-daeefe75713f,remote.cn,resell,,,high,medium,6,Dynadot Inc,,,
-c8c7cfec-d9c9-498f-a728-28214d5a7660,range.cn,resell,,,medium,low,5,Dynadot Inc,,,
-4b5b1492-5894-4eab-8c17-be033ee8f495,cheese.cn,resell,,,medium,low,6,Dynadot Inc,,,25/08/2026 07:42
+c8c7cfec-d9c9-498f-a728-28214d5a7660,range.cn,resell,,,high,low,5,Dynadot Inc,,,
+4b5b1492-5894-4eab-8c17-be033ee8f495,cheese.cn,resell,,,high,low,6,Dynadot Inc,,,25/08/2026 07:42
 ea66f34b-b8bf-49a2-9042-7638bb69bf11,interim.cn,resell,,,high,low,7,Dynadot Inc,,,
-bb0c473a-b38e-47aa-b93d-ced0333ff767,nutrient.cn,resell,,,medium,low,8,Dynadot Inc,,,08/09/2026 11:42
-b703b30b-30eb-4b1c-90e7-f9e38c56d576,accessory.cn,resell,,,low,low,9,成都垦派科技有限公司,,,21/09/2026 15:35
-3f5087cc-6606-44ce-a70a-b52a42cc85cf,structure.cn,resell,,,medium,low,9,Dynadot Inc,,,08/09/2026 05:05
+bb0c473a-b38e-47aa-b93d-ced0333ff767,nutrient.cn,resell,,,high,low,8,Dynadot Inc,,,08/09/2026 11:42
 991a77b5-a125-465e-b52d-69c35d903cbb,outback.cn,resell,,,high,low,7,Dynadot Inc,,,
 0f155d9e-36f1-4e1e-b7f9-90470e8cf65f,glitter.cn,resell,,,high,low,7,厦门易名科技股份有限公司,,,
 e4d185c7-2e69-4d95-bf5d-d3b581b896d1,polygon.cn,resell,,,high,low,7,Dynadot Inc,,,
-f83fd685-40b9-4d4f-931f-1befd647d8c9,primetime.cn,resell,,,high,low,10,Dynadot Inc,,,
-78196d8b-e7e9-41a7-b356-cd4ac025b27d,genuine.cn,resell,,,high,low,7,Dynadot Inc,,,
-b6811fbb-ef0d-4fe8-829d-3638de0fef48,germanshepherd.cn,available,,,medium,low,15,,,,
 4dace233-da1b-42cb-86b2-e864a9f53829,how.cn,resell,,,high,low,3,厦门易名科技股份有限公司,,,
 00b4fb6c-949f-4680-92e9-6bc8b2260854,maxim.cn,resell,,,high,low,5,新疆诺云在线网络科技有限公司,,,
 9c228b17-7fff-4692-bc68-0667531add9e,bowls.cn,resell,,,high,low,5,成都西维数码科技有限公司,,,
 90905872-ef2e-41bb-b06a-e9f41b0d1a5d,sperm.cn,resell,,,high,low,5,Dynadot Inc,,,
-d010a3ca-d882-47e0-a618-7b5d5aeb0999,christian.cn,resell,,,high,medium,9,Dynadot Inc,,,18/09/2026 15:36
 282773d1-5370-4312-8b44-b15bb7c76a92,provision.cn,resell,,,high,low,9,Dynadot Inc,,,
-49189c8f-7213-4910-b6a4-00d26e38c861,driveup.cn,resell,,,high,low,8,阿里云计算有限公司（万网）,,,
 086a869d-4603-4b9d-8fa6-7599bbdbcea5,democrat.cn,resell,,,high,low,8,成都西维数码科技有限公司,,,
-5c1972e4-bf3d-45bd-b726-5f5613a801ce,half.cn,resell,,,high,low,4,厦门易名科技股份有限公司,,,18/09/2026 15:51
 05f47872-3e69-4642-935d-bc6bd70704d4,attraction.cn,resell,,,high,low,10,Dynadot Inc,,,
-c66322d7-5426-4b2a-ada9-681561f21197,cricket.cn,resell,,,high,low,7,Dynadot Inc,,,
-3db1507d-eb2f-40f6-8b40-fa443413f72d,aerobic.cn,resell,,,low,low,7,Dynadot Inc,,,21/09/2026 21:01
+c66322d7-5426-4b2a-ada9-681561f21197,cricket.cn,resell,,,high,low,7,Dynadot Inc,,,24/09/2026 21:47
 eaa09706-41d2-4507-839d-d46db0dc69f6,learn.cn,resell,,,high,medium,5,厦门易名科技股份有限公司,,,
-cb749760-3431-420e-a73b-82d3e13fe940,baking.cn,resell,,,low,low,6,Dynadot Inc,,,22/09/2026 16:25
 fc7a5237-a7d9-4572-b50c-668d3001fdf8,spine.cn,resell,,,high,low,5,Dynadot Inc,,,
-48d02458-2da7-4a38-b30f-ea5fd0e08c7f,ascent.cn,resell,,,low,low,6,厦门易名科技股份有限公司,,,22/09/2026 09:19
 99bced94-b211-4949-b97e-e85497a3399b,letters.cn,resell,,,high,low,7,Dynadot Inc,,,
 7f42a115-b5d7-4420-85fe-6b85cfbcef11,lecture.cn,resell,,,high,low,7,Dynadot Inc,,,
-c61ae7cd-6ae6-4203-b27b-e245a00e91e5,dirt.cn,resell,,,medium,low,4,阿里巴巴云计算（北京）有限公司,,,
-00fe80e2-b072-4442-913b-01d06935c2e4,dead.cn,resell,,,high,low,4,阿里云计算有限公司（万网）,,,
 a19e9a7d-89e8-422a-879e-80d2150ea489,rare.cn,resell,,,high,medium,4,阿里云计算有限公司（万网）,,,
-4c16fe95-3c15-4c8c-bbfc-f5f79eb6752b,compliant.cn,resell,,,medium,low,9,阿里云计算有限公司（万网）,,,
-9400f8a1-7517-4035-b220-6f99de888886,bone.cn,resell,,,low,low,4,Dynadot Inc,,,22/09/2026 23:37
 6a2b7ecb-64ab-4f60-b466-72744b73b61e,potential.cn,resell,,,high,low,9,浙江贰贰网络有限公司,,,
 cc6f0b5c-3534-4add-a9f3-dd8a16736e31,cocoa.cn,resell,,,high,low,5,Dynadot Inc,,,
 90f70df6-15f5-47c0-b7dc-0a7400e8d0b7,printable.cn,resell,,,high,low,9,成都垦派科技有限公司,,,
-a1d46006-6f63-4c40-b481-f5ea6c62a726,robotic.cn,resell,,,low,low,7,上海福虎信息科技有限公司,,,22/09/2026 14:05
 c696741c-ce39-43d6-b196-97740baa949e,week.cn,resell,,,high,low,4,阿里云计算有限公司（万网）,,,
-8f72af86-c7f9-4b49-8eb3-40cf6b8b4424,latinalphabet.cn,available,,,medium,low,14,,,,
 73900a17-0c46-4a14-8558-a5dcf1efbac9,sold.cn,resell,,,high,low,4,上海美橙科技信息发展有限公司,,,
 858cb7ee-8a44-46cd-ab33-ff4af89290b7,writing.cn,resell,,,high,low,7,Dynadot Inc,,,
-ce6c4108-cfe3-43c3-80b6-77b44f6c64fb,documentation.cn,resell,,,medium,low,13,阿里云计算有限公司（万网）,,,
+ce6c4108-cfe3-43c3-80b6-77b44f6c64fb,documentation.cn,resell,,,high,low,13,阿里云计算有限公司（万网）,,,
 391af4f7-dcb9-4b5a-814f-fe642a9218b4,subscribe.cn,resell,,,high,low,9,Dynadot Inc,,,
-39fdeb43-2720-4288-a1d8-e556ce607f5b,gorgeous.cn,resell,,,high,low,8,Dynadot Inc,,,
-d43d0102-a64a-4d6a-b452-be5cdbca7399,exposure.cn,resell,,,medium,low,8,Dynadot Inc,,,08/09/2026 13:44
+d43d0102-a64a-4d6a-b452-be5cdbca7399,exposure.cn,resell,,,high,low,8,Dynadot Inc,,,08/09/2026 13:44
 67e655d6-bbe6-4bb0-9781-9e7b5ef120b7,leadership.cn,resell,,,high,low,10,Dynadot Inc,,,
 43c49891-78b9-48c3-bb5f-041c8e5ba80e,birth.cn,resell,,,high,low,5,Dynadot Inc,,,
-04dd9b3a-6835-487b-a0b6-96fe32a4f6c6,machinery.cn,resell,,,high,low,9,Dynadot Inc,,,
 f0c4160c-f734-432e-ae0c-b74d9821e36f,liquor.cn,resell,,,high,low,6,Dynadot Inc,,,
-b0c64f11-8df8-4d50-b826-8d0e4e08c1c4,acting.cn,resell,,,low,low,6,Dynadot Inc,,,21/09/2026 16:22
 232f1a0d-a74b-4178-be78-b3ed6fbf86d3,guarantee.cn,resell,,,high,low,9,Dynadot Inc,,,
 8f74e89f-5dd6-4632-a30a-a53bb908f3f9,stick.cn,resell,,,high,low,5,Dynadot Inc,,,
-ffca5876-e69b-4eb2-ab50-6c230885a37d,owens.cn,resell,,,medium,low,5,阿里云计算有限公司（万网）,,,
+ffca5876-e69b-4eb2-ab50-6c230885a37d,owens.cn,resell,,,high,low,5,阿里云计算有限公司（万网）,,,
 46ef202b-c4f8-4101-a488-270978e29368,allergy.cn,resell,,,high,low,7,Dynadot Inc,,,
 22a5a093-93a8-431e-b136-76fd921d438e,mexican.cn,resell,,,high,low,7,Dynadot Inc,,,
 f1b8ed3c-c53b-4abb-8223-db1e4d1c9399,lunch.cn,resell,,,high,low,5,Dynadot Inc,,,18/09/2026 15:28
 b0bb4e76-535d-4466-80de-aab118114b75,probable.cn,resell,,,high,low,8,"GoDaddy.com,LLC",,,
 dc96ce37-8a16-4c14-afc0-305de43a05f8,passion.cn,resell,,,high,low,7,Dynadot Inc,,,
-e0b74512-acd2-45d2-8d05-d36701a8e69c,sweetfa.cn,available,,,medium,low,8,,,,
 2ea981f7-0e54-4a75-a4de-200b90016c36,steak.cn,resell,,,high,low,5,Dynadot Inc,,,
 4a727dc4-4809-4faa-9cb1-e92c1c362221,retreat.cn,resell,,,high,low,7,Dynadot Inc,,,
 ac8c23fe-6318-4243-b1ae-fd3e20505f9e,retiring.cn,resell,,,high,low,8,Dynadot Inc,,,
 66ff2acb-5227-4568-b26e-4a3f74bf5fe1,engagement.cn,resell,,,high,low,10,Dynadot Inc,,,
-8424a6d5-1677-4f58-8d1c-cf0b5d132dbc,allout.cn,resell,,,low,low,7,成都西维数码科技有限公司,,,22/09/2026 00:48
-7c4b05bd-2e8a-411f-806e-a576efd6e7fe,remedial.cn,resell,,,low,low,8,厦门市中资源网络服务有限公司,,,22/09/2026 02:24
-139b9ff4-d12a-49c2-82d8-54726d957360,balanced.cn,resell,,,low,low,8,成都西维数码科技有限公司,,,22/09/2026 16:28
-d4fd4783-b475-4864-ba37-d7c746fc5818,proficient.cn,resell,,,low,low,10,浙江贰贰网络有限公司,,,21/09/2026 17:23
 dbec76b9-ce24-40f9-bcb1-0aa39da2f1f9,soap.cn,resell,,,high,low,4,Dynadot Inc,,,
 a5a0304a-62c9-429f-aa56-afd282cdf927,princess.cn,resell,,,high,low,8,Dynadot Inc,,,
-009c5648-3921-47f8-a712-cc7cd6788e56,fill.cn,resell,,,medium,low,4,"DNC Holdings, Inc.",,,
-2d5675b2-f346-4ec0-9b9e-8435ec8b64b0,begin.cn,resell,,,medium,low,5,厦门易名科技股份有限公司,,,19/09/2026 05:29
-2cdd42d9-2808-40cd-b643-a31cdb2510f0,cuisine.cn,resell,,,high,low,7,Dynadot Inc,,,
-601e874b-14d1-43bf-b290-8d776d202147,fighting.cn,resell,,,medium,low,8,Dynadot Inc,,,
-fad12370-4d67-4439-bd84-812c6d63719f,cooked.cn,resell,,,high,low,6,阿里云计算有限公司（万网）,,,
-b2c2e72b-7307-472f-a20a-e58f55041fde,fannyadams.cn,available,,,medium,low,11,,,,
-5ced132e-8fe1-46b6-8853-d7787b0a4e77,first.cn,resell,,,medium,low,5,"GoDaddy.com,LLC",,,21/09/2026 12:11
+009c5648-3921-47f8-a712-cc7cd6788e56,fill.cn,resell,,,high,low,4,"DNC Holdings, Inc.",,,
 abe5b79f-8bd6-48f7-a628-905b8c2e99fc,involved.cn,resell,,,high,low,8,阿里巴巴云计算（北京）有限公司,,,
 892df266-b25f-4afd-aa22-aea318f755fb,pregnant.cn,resell,,,high,low,8,Dynadot Inc,,,
-cdaed447-91c4-4dd6-a398-494054a95e8f,sensual.cn,resell,,,low,low,7,Dynadot Inc,,,22/09/2026 04:34
 147a0b9c-07ba-496e-a116-c99c40497faa,contact.cn,resell,,,high,medium,7,Dynadot Inc,,,
-58f575af-d632-421d-a084-28e81383c3b3,lips.cn,resell,,,medium,low,4,Dynadot Inc,,,
+58f575af-d632-421d-a084-28e81383c3b3,lips.cn,resell,,,high,low,4,Dynadot Inc,,,
 104f6e50-9bfb-4a1b-977c-89dca37eac8b,drawing.cn,resell,,,high,low,7,Dynadot Inc,,,
 dc5d6e06-b2a4-4db8-ad8f-4885429723e9,manila.cn,resell,,,high,low,6,Dynadot Inc,,,
 10752a1d-39d6-4056-8af5-bc368e70c456,stockholm.cn,resell,,,high,low,9,Domain Registration Services,,,
-183ace73-29ec-469f-8143-f91687d24c19,frozen.cn,resell,,,high,low,6,Dynadot Inc,,,
-12241f6f-7dcd-4c91-ad5a-7fde08126bcf,orso.cn,resell,,,low,low,5,阿里云计算有限公司（万网）,,,21/09/2026 14:25
 c4dba11c-8a5f-44d9-aae8-5729d9a2c2fb,moonlight.cn,resell,,,high,low,9,Dynadot Inc,,,
-2573266d-808b-4248-bd1d-cc3665201469,munich.cn,resell,,,medium,low,6,"GoDaddy.com,LLC",,,
+2573266d-808b-4248-bd1d-cc3665201469,munich.cn,resell,,,high,low,6,"GoDaddy.com,LLC",,,
 e8aba85c-9407-4622-83c6-04f89273fb7d,yield.cn,resell,,,high,low,5,阿里云计算有限公司（万网）,,,
 9b83840e-2052-4ad0-85bd-7f7e16faac67,marines.cn,resell,,,high,low,7,Dynadot Inc,,,
 e29bb5fa-5e81-47bd-9af3-41470d620835,fiction.cn,resell,,,high,low,7,Dynadot Inc,,,
 c3d14d7c-a204-4b72-bcf2-014d1109ae95,sail.cn,resell,,,high,low,4,Dynadot Inc,,,
-59e62558-3395-47c5-aff9-3da4074f92a5,realized.cn,resell,,,high,low,8,成都西维数码科技有限公司,,,
-66ee1d4d-6d3d-4d87-9d82-a24eda1d0869,athlete.cn,resell,,,high,low,7,Dynadot Inc,,,
-88dada0b-719f-452f-81eb-f4b8858195ce,organic.cn,resell,,,medium,low,7,Dynadot Inc,,,08/09/2026 11:55
-4458cd90-34b5-44ad-9154-34ebe8eda5c3,counter.cn,resell,,,medium,low,7,厦门易名科技股份有限公司,,,22/09/2026 05:49
-0e5eeec2-72a4-4f86-b3ea-e2da0dc1f865,courageous.cn,resell,,,low,low,10,厦门市中资源网络服务有限公司,,,23/09/2026 02:25
+66ee1d4d-6d3d-4d87-9d82-a24eda1d0869,athlete.cn,resell,,,high,low,7,Dynadot Inc,,,24/09/2026 21:38
+88dada0b-719f-452f-81eb-f4b8858195ce,organic.cn,resell,,,high,low,7,Dynadot Inc,,,08/09/2026 11:55
 af6e45dd-5df8-4370-a115-dbd35ab7e874,shorts.cn,resell,,,high,low,6,WEST263 INTERNATIONAL LIMITED,,,
 44050dec-2ac9-4622-a544-bdf534e803d3,appeal.cn,resell,,,high,low,6,Megazone Corp.,,,
-1fa6327d-883b-4a39-9a59-8df7239ed499,pirate.cn,resell,,,medium,low,6,Dynadot Inc,,,
+1fa6327d-883b-4a39-9a59-8df7239ed499,pirate.cn,resell,,,high,low,6,Dynadot Inc,,,
 c41e8410-5f61-4824-bd65-5440111684f5,scale.cn,resell,,,high,medium,5,Dynadot Inc,,,
 1982089a-fae1-4dff-a7ae-9666d4d02821,majestic.cn,resell,,,high,low,8,Dynadot Inc,,,
-99e286d6-da43-49aa-8061-531662e5d342,government.cn,resell,,,high,low,10,PDR Ltd. d/b/a PublicDomainRegistry.com,,,
 fac80938-0860-44cd-a45e-710e05f1b7d4,skin.cn,resell,,,high,low,4,Dynadot Inc,,,
-dbf7fc6e-047b-4dd1-a100-fe3c6d445f95,snack.cn,resell,,,medium,low,5,Dynadot Inc,,,19/09/2026 10:58
-2a99b0d7-cb60-45d9-842a-842fd6a1f21d,butcher.cn,resell,,,medium,low,7,Dynadot Inc,,,
-58398f27-36d4-49da-8d32-01aaacabb877,suit.cn,resell,,,high,low,4,Dynadot Inc,,,
-060cfcd4-5862-4909-b835-ccb054dc34dd,cement.cn,resell,,,medium,low,6,厦门易名科技股份有限公司,,,
+2a99b0d7-cb60-45d9-842a-842fd6a1f21d,butcher.cn,resell,,,high,low,7,Dynadot Inc,,,
+060cfcd4-5862-4909-b835-ccb054dc34dd,cement.cn,resell,,,high,low,6,厦门易名科技股份有限公司,,,
 5da7df39-fc1d-477c-8044-3ef976316552,incentive.cn,resell,,,high,low,9,Dynadot Inc,,,
 985ada68-4aa5-4ec8-a1d3-8d5064155df1,proclaim.cn,resell,,,high,low,8,成都垦派科技有限公司,,,
 d0e9ebd8-5ac7-4107-b3c7-e0e4aab7f8ff,sausage.cn,resell,,,high,low,7,Dynadot Inc,,,
-009ed2de-8730-43d5-9c1f-7e52c5f74cbd,vitamin.cn,resell,,,medium,low,7,Dynadot Inc,,,08/09/2026 14:16
+009ed2de-8730-43d5-9c1f-7e52c5f74cbd,vitamin.cn,resell,,,high,low,7,Dynadot Inc,,,08/09/2026 14:16
 3c93d57a-4944-4a97-8b96-0019c71bdc1d,way.cn,resell,,,high,low,3,阿里云计算有限公司（万网）,,,
 e4b7f900-e5d0-457a-bdb5-cd233f48e753,recording.cn,resell,,,high,low,9,Dynadot Inc,,,
-59f6e206-40ea-4eef-bd4e-0f5a331ed360,chair.cn,resell,,,medium,low,5,Dynadot Inc,,,
-20fc29ce-48d6-4c16-a824-7d441a65477f,late.cn,resell,,,low,low,4,Namescout.com,,,22/09/2026 19:16
+59f6e206-40ea-4eef-bd4e-0f5a331ed360,chair.cn,resell,,,high,low,5,Dynadot Inc,,,
 a8816a7a-5e39-484a-a3ea-11413cfe8d78,saving.cn,resell,,,high,low,6,Dynadot Inc,,,
 f03d8241-e415-4d25-9e11-8b5727905291,meantime.cn,resell,,,high,low,8,成都垦派科技有限公司,,,
 09ebdbbf-36a5-484b-8199-3ca3129f2114,condom.cn,resell,,,high,low,6,Megazone Corp.,,,
-1ff0478b-d834-4268-9ec9-d4d6f9403de5,diabetes.cn,resell,,,medium,low,8,Dynadot Inc,,,
+1ff0478b-d834-4268-9ec9-d4d6f9403de5,diabetes.cn,resell,,,high,low,8,Dynadot Inc,,,
 3f1513f3-57bc-4400-a4c7-646704dc2461,matched.cn,resell,,,high,low,7,阿里云计算有限公司（万网）,,,
-19e8ade4-518e-44d0-bfd7-3a75a95f5eea,statement.cn,resell,,,high,low,9,Dynadot Inc,,,
 97e6c9aa-fc8d-47e8-a61e-f47ab109f954,barn.cn,resell,,,high,low,4,Dynadot Inc,,,
-b43a0317-f758-4682-9e90-7580d6261942,scandal.cn,resell,,,medium,low,7,Dynadot Inc,,,
+b43a0317-f758-4682-9e90-7580d6261942,scandal.cn,resell,,,high,low,7,Dynadot Inc,,,
 36fe38b0-e398-46d9-a743-283ac7733bd3,addition.cn,resell,,,high,low,8,厦门易名科技股份有限公司,,,
 4adbb7fc-1840-4a4f-a308-2d80cda57afd,activity.cn,resell,,,high,low,8,Dynadot Inc,,,
 b4bf730c-ba99-4e9c-bf4c-b8f2cb9d98bd,affiliate.cn,resell,,,high,low,9,Dynadot Inc,,,
 c34bc006-301e-44ec-9e17-edfa998170b8,boots.cn,resell,,,high,low,5,Dynadot Inc,,,
-60a9c84d-bdf1-4694-9510-93a90c56171d,essence.cn,resell,,,high,low,7,Dynadot Inc,,,
 b8300063-018a-40fc-ade0-7ee151181265,salad.cn,resell,,,high,low,5,Dynadot Inc,,,
-0826a896-ce94-4491-8b89-8e2355e4cf0e,handle.cn,resell,,,medium,low,6,Dynadot Inc,,,08/09/2026 13:26
-478e9444-dd28-42e6-ba3a-4b7301bf5d4d,divers.cn,resell,,,medium,low,6,Dynadot Inc,,,
-0135cc0b-a612-4cee-9453-2dba58a04e05,iron.cn,resell,,,high,low,4,"eNom, Inc.",,,
-b3b50f56-fd60-4cdb-af59-c69367c6df38,identified.cn,resell,,,medium,low,10,阿里巴巴云计算（北京）有限公司,,,
+0826a896-ce94-4491-8b89-8e2355e4cf0e,handle.cn,resell,,,high,low,6,Dynadot Inc,,,08/09/2026 13:26
+478e9444-dd28-42e6-ba3a-4b7301bf5d4d,divers.cn,resell,,,high,low,6,Dynadot Inc,,,
+b3b50f56-fd60-4cdb-af59-c69367c6df38,identified.cn,resell,,,high,low,10,阿里巴巴云计算（北京）有限公司,,,
 541c1c24-29db-4064-ab8b-4b80ef66d312,californian.cn,available,,,high,low,11,,,,
 3263367e-a561-4f06-a5f3-ee468e0cff2c,deposit.cn,resell,,,high,low,7,Dynadot Inc,,,
 214d2f3c-c206-4bc4-ba50-9a3149eab232,trading.cn,resell,,,high,low,7,Dynadot Inc,,,
 4a862e3f-6e02-4e75-a60e-bb469e06fa56,righteous.cn,resell,,,high,low,9,成都西维数码科技有限公司,,,
 ba4b1de4-3651-4601-bee3-d1bb2ddca8fc,bye.cn,resell,,,high,low,3,上海福虎信息科技有限公司,,,
 ee8a83aa-f990-4ffd-baff-843d32b2922f,sleeping.cn,resell,,,high,low,8,Dynadot Inc,,,
-3f1bba41-2d04-46e4-9e4b-17b059da911e,driving.cn,resell,,,high,low,7,Dynadot Inc,,,18/09/2026 15:51
-0e792235-5e2a-4c3e-ad58-38513c51d441,hedge.cn,resell,,,medium,low,5,Dynadot Inc,,,
+0e792235-5e2a-4c3e-ad58-38513c51d441,hedge.cn,resell,,,high,low,5,Dynadot Inc,,,
 7961ab0c-44d2-4eb5-b646-e2c0f4c4b6e9,dedicate.cn,resell,,,high,low,8,成都西维数码科技有限公司,,,
-6e299e2c-08ad-434a-a47c-e783b840589d,tender.cn,resell,,,medium,low,6,Dynadot Inc,,,21/09/2026 21:47
-046b8084-46f8-428c-a486-dd8b35a7578f,nationwide.cn,resell,,,high,medium,10,Dynadot Inc,,,
 143fd169-7991-4b90-a8e4-dad68d0b2b03,telecom.cn,resell,,,high,low,7,厦门易名科技股份有限公司,,,
 f38c23be-78b5-4d52-b56d-01214128bf2e,affirm.cn,resell,,,high,high,6,浙江贰贰网络有限公司,,,
-d6203e60-f40a-4506-b544-afabeb650803,individual.cn,resell,,,high,low,10,Dynadot Inc,,,18/09/2026 15:36
 235c6303-f805-4315-95d6-6ce4518c562f,lying.cn,resell,,,medium,low,5,阿里云计算有限公司（万网）,,,
 a9f938a1-6aac-4075-a3a1-2b96b2d62ad4,parks.cn,resell,,,high,low,5,Dynadot Inc,,,
-6fe13f8f-82bf-499f-a9bd-d7946ecba632,barbeque.cn,resell,,,high,low,8,Dynadot Inc,,,
-25d555d1-367b-46b9-a880-56aaf9f1a2f4,expand.cn,resell,,,high,low,6,浙江贰贰网络有限公司,,,
+6fe13f8f-82bf-499f-a9bd-d7946ecba632,barbeque.cn,resell,,,high,low,8,Dynadot Inc,,,24/09/2026 21:58
 d941f9ff-ecfb-4f6f-92ec-6c3eb69307d1,ballroom.cn,resell,,,high,low,8,Dynadot Inc,,,
-a0952dfb-2b3c-414e-b967-3c2e7ffab71f,mysterious.cn,resell,,,medium,low,10,阿里云计算有限公司（万网）,,,
-426be8a2-4091-4ef6-8da2-a57dccb88c4f,alot.cn,resell,,,high,low,5,Dynadot Inc,,,
-4130ca3c-7db3-474b-9ed6-3a3fe647a8d9,easter.cn,resell,,,high,low,6,Dynadot Inc,,,17/09/2026 16:29
 9dd82d90-b06e-4dc1-9964-9d7a649b3224,lip.cn,resell,,,high,low,3,Dynadot Inc,,,
-1cb99fa4-173f-4ae0-ab33-55ae023b4625,veggie.cn,resell,,,medium,low,6,Dynadot Inc,,,19/09/2026 06:34
 92341f5d-e2a3-415f-8f71-dbced31cb345,traveling.cn,resell,,,high,low,9,网路中文资讯股份有限公司,,,
 982bf06b-2ed6-434d-99e1-d7e81e0b3baf,having.cn,resell,,,high,low,6,腾讯云计算（北京）有限责任公司,,,
-1125f863-d243-4ca4-be34-1a6168274838,infant.cn,resell,,,high,low,6,Dynadot Inc,,,
+1125f863-d243-4ca4-be34-1a6168274838,infant.cn,resell,,,high,low,6,Dynadot Inc,,,24/09/2026 21:46
 1052a975-d1f7-4536-a82e-e8433b69e0d0,invitation.cn,resell,,,high,low,10,Dynadot Inc,,,
 69eed366-ae8d-4ebb-9f54-b916ac0d4b17,soldier.cn,resell,,,high,low,7,阿里云计算有限公司（万网）,,,
 adca033f-8d45-4799-b1bf-cb2011a2376e,ignite.cn,resell,,,high,low,6,阿里云计算有限公司（万网）,,,
 060d264c-0372-4e7c-914f-b8c6db2ce198,supermodel.cn,resell,,,high,low,10,Dynadot Inc,,,
-bb554897-b458-4c09-b593-d54682182e9a,spam.cn,resell,,,medium,low,4,Web Commerce Communications Limited,,,
-76914674-36f1-451c-b779-2780fd7028b8,hanoi.cn,resell,,,medium,low,5,Dynadot Inc,,,
-c9e9b9c5-3a5e-4e47-b382-cb4b53f4ad19,audacious.cn,resell,,,low,low,9,阿里云计算有限公司（万网）,,,22/09/2026 12:06
+bb554897-b458-4c09-b593-d54682182e9a,spam.cn,resell,,,high,low,4,Web Commerce Communications Limited,,,
+76914674-36f1-451c-b779-2780fd7028b8,hanoi.cn,resell,,,high,low,5,Dynadot Inc,,,
 3e9feb3d-a5ca-4cbf-af1c-305b393c0bb0,hawaii.cn,resell,,,high,low,6,Dynadot Inc,,,
-51c75d30-5c31-4948-82ef-c8427fbb3662,become.cn,resell,,,high,low,6,Dynadot Inc,,,
+51c75d30-5c31-4948-82ef-c8427fbb3662,become.cn,resell,,,high,low,6,Dynadot Inc,,,24/09/2026 21:48
 ce3018b4-7e1b-43a7-b3f1-7f09ebfc4ba1,showcase.cn,resell,,,high,low,8,Dynadot Inc,,,
-457a0a45-9ddf-431e-9693-25e4e6fa0f9c,clearance.cn,resell,,,medium,low,9,Dynadot Inc,,,08/09/2026 08:11
-839475e0-d1cd-4495-bf28-843748cf1633,educated.cn,resell,,,medium,low,8,阿里云计算有限公司（万网）,,,
-7bd9e783-3270-49db-9e41-b8e7857ae952,christianname.cn,available,,,medium,low,14,,,,
+457a0a45-9ddf-431e-9693-25e4e6fa0f9c,clearance.cn,resell,,,high,low,9,Dynadot Inc,,,08/09/2026 08:11
 ecc78255-50e1-45d5-874a-d74dcb25bfdf,seattle.cn,resell,,,high,low,7,Dynadot Inc,,,
 70fa5c42-5731-4d49-b697-61666d5866b6,commodity.cn,resell,,,high,low,9,Dynadot Inc,,,
 2f9cab55-6141-443d-8b8f-f78340e2cf5b,seats.cn,resell,,,high,low,5,Dynadot Inc,,,
 64e319a2-f7c6-440b-a77d-35ca73674132,syndrome.cn,resell,,,medium,low,8,成都西维数码科技有限公司,,,
-5de34300-3ebe-4771-8782-91a7d3b0fba0,worldwariv.cn,available,,,medium,low,12,,,,
-c7b3e784-6c10-48d7-8c7a-5c1716c26b42,implicit.cn,resell,,,low,low,8,阿里云计算有限公司（万网）,,,21/08/2026 22:37
-0dfae280-5886-48ab-a691-7cc6917fa577,chadian.cn,resell,,,low,low,7,厦门易名科技股份有限公司,,,12/08/2026 01:11
-7ba4d0f2-3cf6-459e-9a47-1ce9068c4837,frenchroast.cn,available,,,medium,low,12,,,,
-a700e171-0dfb-4f0e-b563-3b266c03fc34,targets.cn,resell,,,low,low,7,Dynadot Inc,,,18/09/2026 15:18
-2347bf83-dba8-4527-b906-88eb2807b5b6,igirder.cn,available,,,medium,low,8,,,,
-4a5c34e8-4444-4de4-a32b-429a9af59f0d,precious.cn,resell,,,low,low,8,Dynadot Inc,,,12/08/2026 04:19
-5adc58d9-ada9-42c6-b256-5e519b4a95bc,evidently.cn,resell,,,low,low,9,阿里云计算有限公司（万网）,,,08/09/2026 20:21
-56bd95c7-d6b6-4e82-b2f7-ae1cd280745a,guided.cn,resell,,,medium,low,6,厦门市中资源网络服务有限公司,,,20/08/2026 20:47
-c80cf3b7-b318-44c6-a3a5-4de874cfbcd6,topless.cn,resell,,,low,low,7,Dynadot Inc,,,08/08/2026 18:33
-5bf924e9-e9b1-47a0-b246-928bc00039c9,aggregator.cn,resell,,,low,low,10,,,,17/09/2026 17:29
-25eb9b2e-548a-422a-8578-a8aeb466810e,iwould.cn,available,,,medium,low,7,,,,
-07e6ceeb-297f-4f14-8c34-908d08d19c3b,countyofsussex.cn,available,,,medium,low,16,,,,
-daeb778a-43e2-48f9-91b0-6eff783c25fc,mendelian.cn,resell,,,low,low,9,阿里云计算有限公司（万网）,,,24/08/2026 20:06
-dae7b253-0c16-4ced-95a4-1ea6e1b89da5,souls.cn,resell,,,medium,low,5,WEST263 INTERNATIONAL LIMITED,,,
-a85769e6-8657-4222-bd90-bead497206f4,lordofhosts.cn,available,,,medium,low,13,,,,
-dc9a68fc-74c2-4d16-9488-78cf22ea59f5,parents.cn,resell,,,medium,low,7,Dynadot Inc,,,
-62d64f7e-1ae8-4bde-91be-bbd11809bcc6,typhoidmary.cn,available,,,medium,low,12,,,,
-629174f4-f53c-44b2-ac77-cd8de5a9875f,sleek.cn,resell,,,medium,low,5,Dynadot Inc,,,18/08/2026 09:13
-dc43052f-b0fb-4a90-8a51-3dc1c0b81e96,iamafraidofthis.cn,available,,,medium,low,19,,,,
-61d2d6a9-0282-442e-9407-818ebbcf3159,tenacious.cn,resell,,,low,low,9,厦门市中资源网络服务有限公司,,,19/09/2026 16:19
-4e091906-07c3-488b-bbb6-bf577c055017,euphoric.cn,resell,,,medium,low,8,厦门市中资源网络服务有限公司,,,17/08/2026 14:22
+c7b3e784-6c10-48d7-8c7a-5c1716c26b42,implicit.cn,resell,,,high,low,8,阿里云计算有限公司（万网）,,,21/08/2026 22:37
+4a5c34e8-4444-4de4-a32b-429a9af59f0d,precious.cn,resell,,,high,low,8,Dynadot Inc,,,12/08/2026 04:19
+5adc58d9-ada9-42c6-b256-5e519b4a95bc,evidently.cn,resell,,,medium,low,9,阿里云计算有限公司（万网）,,,08/09/2026 20:21
+56bd95c7-d6b6-4e82-b2f7-ae1cd280745a,guided.cn,resell,,,high,low,6,厦门市中资源网络服务有限公司,,,20/08/2026 20:47
+c80cf3b7-b318-44c6-a3a5-4de874cfbcd6,topless.cn,resell,,,medium,low,7,Dynadot Inc,,,08/08/2026 18:33
+daeb778a-43e2-48f9-91b0-6eff783c25fc,mendelian.cn,resell,,,medium,low,9,阿里云计算有限公司（万网）,,,24/08/2026 20:06
+dae7b253-0c16-4ced-95a4-1ea6e1b89da5,souls.cn,resell,,,high,low,5,WEST263 INTERNATIONAL LIMITED,,,
+dc9a68fc-74c2-4d16-9488-78cf22ea59f5,parents.cn,resell,,,high,low,7,Dynadot Inc,,,
+629174f4-f53c-44b2-ac77-cd8de5a9875f,sleek.cn,resell,,,high,low,5,Dynadot Inc,,,18/08/2026 09:13
+4e091906-07c3-488b-bbb6-bf577c055017,euphoric.cn,resell,,,high,low,8,厦门市中资源网络服务有限公司,,,17/08/2026 14:22
 e90781c7-96e2-4de4-abde-ead637adb0cc,obamacare.cn,available,,,medium,low,10,,,,
-9e6fcd17-249e-4df0-95ad-5809d25ba9ec,bbc.cn,resell,,,medium,low,3,,,,19/09/2026 05:43
-08a0cab5-6479-4a10-bcf4-c90105ee0960,frenchvanilla.cn,available,,,medium,low,14,,,,
-dc981092-6174-47d2-b84c-d2fcec5e37a2,bind.cn,resell,,,low,low,4,,,,22/09/2026 00:54
-9944142c-e33a-46e2-a0d3-e92092f20696,tutorial.cn,resell,,,medium,low,8,Dynadot Inc,,,11/09/2026 21:31
-f1182b88-219c-4687-8e75-a9847bca99ba,incisive.cn,resell,,,low,low,8,腾讯云计算（北京）有限责任公司,,,22/08/2026 01:21
-1622a2fd-8b05-4904-a0e0-a8a52412845c,betting.cn,resell,,,low,low,7,Dynadot Inc,,,09/08/2026 18:14
-97e10752-3e84-4b06-bd85-1e151ebe6088,beef.cn,resell,,,low,low,4,,,,23/09/2026 00:18
-23d41699-10f9-4efb-b99f-648a3ce71ba9,unbranded.cn,resell,,,low,low,9,阿里云计算有限公司（万网）,,,12/09/2026 04:29
-c95fdfd7-6428-4246-ba0c-0fa70deb9e0f,districtofcolumbia.cn,available,,,medium,low,20,,,,
-cdb20bbd-3ae4-4398-b08e-b6f0424790c4,hostel.cn,resell,,,low,low,6,,,,21/09/2026 02:25
-94104b4b-10fe-4b43-bb9d-6ddca8555e31,nonnative.cn,resell,,,low,low,9,阿里云计算有限公司（万网）,,,18/08/2026 11:40
-3ba3b6e3-51c7-4951-85a6-561a315a5392,snatch.cn,resell,,,low,low,6,阿里云计算有限公司（万网）,,,19/09/2026 14:54
-8f5488eb-5a4d-47c3-ac83-15b2a5aa8cbd,exquisite.cn,resell,,,medium,low,9,阿里云计算有限公司（万网）,,,17/08/2026 18:54
-a30dd321-9966-46da-bc72-160704e15081,saintnicholas.cn,available,,,medium,low,14,,,,
-9a6c1b07-06cd-4c40-b33b-f3728a5dd7e8,hivvirus.cn,available,,,medium,low,9,,,,
-88aa89d0-7c8b-4153-9177-adfd4d1e6e4d,forsale.cn,resell,,,low,low,8,Dynadot Inc,,,18/08/2026 10:54
-ed1830d4-12aa-4625-b30b-2e1bb3c8a39f,alt.cn,resell,,,low,low,3,,,,18/09/2026 14:29
-b09b6713-8360-459c-beec-9c5d3b3da367,frenchpancake.cn,available,,,high,low,14,,,,
-21d7737d-f7f4-49a0-b6a5-7946d9af3f33,primordium.cn,resell,,,low,low,10,,,,19/09/2026 09:53
-07eee3f4-253e-4396-9870-9329ac9a798a,yankeedoodle.cn,available,,,medium,low,13,,,,
-95e1c3b0-9167-4367-9554-914a0bd9748e,puffy.cn,resell,,,low,low,5,阿里云计算有限公司（万网）,,,10/08/2026 21:34
-58836ee9-4f0f-4e2a-8318-7797af4e87fa,aquatics.cn,resell,,,low,low,8,,,,19/09/2026 23:08
-bdd1e7ba-a375-4c45-a4cc-46fef2977ee6,residence.cn,resell,,,medium,low,9,,,,16/09/2026 16:23
-3f1defc1-5f8c-45d3-9035-56ce7cefc48b,instinct.cn,resell,,,medium,medium,8,Dynadot Inc,,,22/08/2026 07:36
-a99afe43-7176-4170-b336-0381526a8fdd,unable.cn,resell,,,low,low,6,浙江贰贰网络有限公司,,,11/09/2026 23:26
-23e67bfd-efc3-45af-994d-c9b790f207f3,trunk.cn,resell,,,low,low,5,,,,21/09/2026 07:24
-2e5b0698-0921-4204-9dd5-4dc9a232c0c4,appointed.cn,resell,,,low,low,9,阿里云计算有限公司（万网）,,,06/08/2026 07:21
-bf99b307-e7ed-408f-a484-8e50aab83b17,ikiribati.cn,available,,,high,low,10,,,,
-46b4b9ba-5ab2-47bb-958c-286bd6f59eed,pills.cn,resell,,,low,low,5,Dynadot Inc,,,20/09/2026 04:26
-4ff61429-b18a-4b79-9fe7-5c5c0eb299e9,taller.cn,resell,,,low,low,6,阿里云计算有限公司（万网）,,,19/09/2026 00:16
-0ed23a4b-6bc1-41ca-8667-60fa6aa7b496,prepaid.cn,resell,,,low,low,7,Dynadot Inc,,,09/09/2026 00:39
-d7dde7bc-62d5-4ba9-8240-089dd6ac5f3f,planetary.cn,resell,,,medium,medium,9,广州云讯信息科技有限公司,,,20/08/2026 14:33
-4f795ce9-c34d-4e85-aa72-839c1158f623,homestyle.cn,resell,,,low,low,10,阿里云计算有限公司（万网）,,,21/08/2026 10:52
-74b5235d-6296-4e2a-a7dd-a38dba6cb794,howdoigetto.cn,available,,,medium,low,15,,,,
-33d253ab-71b9-4435-9508-2e6327f2fe8f,sanitary.cn,resell,,,medium,medium,8,浙江贰贰网络有限公司,,,09/09/2026 21:16
-a8fb4432-9298-45ad-87da-3100bedcf6d9,hats.cn,resell,,,low,low,4,,,,18/09/2026 07:32
-1d737b74-38e7-47c1-9c91-bdb0913afaeb,dalailama.cn,available,,,high,low,10,,,,
-a590e2ca-9c79-4d6f-a0bc-7c163c548705,catharsis.cn,resell,,,low,low,9,,,,16/09/2026 17:03
-7cf585a0-a4c7-4159-85d2-7c04fce63e33,astronomer.cn,resell,,,low,low,10,,,,20/09/2026 18:04
-d656f688-2b12-42f4-8181-90a44b3018f7,scottish.cn,resell,,,low,low,8,厦门易名科技股份有限公司,,,09/09/2026 23:35
-4c018739-f8f5-4c4f-9e26-d1361905ccd2,flashy.cn,resell,,,low,low,6,阿里云计算有限公司（万网）,,,18/08/2026 06:33
-ea59cd79-71d9-4515-88a0-38d3f007e2c7,unitedkingdom.cn,available,,,medium,high,14,,,,
-2cb211dc-b70e-41f4-a29d-e9c33b4ac920,frenchicecream.cn,available,,,high,low,16,,,,
-5fb6bcda-c300-4a43-b107-b3b650824f20,wwwpage.cn,available,,,high,low,8,,,,
-67cc51e9-cea8-4aa4-b48b-a70c339d8e32,dada.cn,resell,,,medium,high,4,广东时代互联科技有限公司,,,08/09/2026 23:40
-2217a16d-6ec6-4ee0-b27b-78d67621a669,justicesociety.cn,available,,,medium,low,15,,,,
-fc0f9cab-3a61-4606-90f9-e96abfa66317,shaver.cn,resell,,,low,low,6,Dynadot Inc,,,25/08/2026 00:03
+9944142c-e33a-46e2-a0d3-e92092f20696,tutorial.cn,resell,,,high,low,8,Dynadot Inc,,,11/09/2026 21:31
+f1182b88-219c-4687-8e75-a9847bca99ba,incisive.cn,resell,,,medium,low,8,腾讯云计算（北京）有限责任公司,,,22/08/2026 01:21
+1622a2fd-8b05-4904-a0e0-a8a52412845c,betting.cn,resell,,,high,low,7,Dynadot Inc,,,09/08/2026 18:14
+23d41699-10f9-4efb-b99f-648a3ce71ba9,unbranded.cn,resell,,,high,low,9,阿里云计算有限公司（万网）,,,12/09/2026 04:29
+8f5488eb-5a4d-47c3-ac83-15b2a5aa8cbd,exquisite.cn,resell,,,high,low,9,阿里云计算有限公司（万网）,,,17/08/2026 18:54
+95e1c3b0-9167-4367-9554-914a0bd9748e,puffy.cn,resell,,,high,low,5,阿里云计算有限公司（万网）,,,10/08/2026 21:34
+3f1defc1-5f8c-45d3-9035-56ce7cefc48b,instinct.cn,resell,,,high,medium,8,Dynadot Inc,,,22/08/2026 07:36
+a99afe43-7176-4170-b336-0381526a8fdd,unable.cn,resell,,,high,low,6,浙江贰贰网络有限公司,,,11/09/2026 23:26
+2e5b0698-0921-4204-9dd5-4dc9a232c0c4,appointed.cn,resell,,,medium,low,9,阿里云计算有限公司（万网）,,,06/08/2026 07:21
+0ed23a4b-6bc1-41ca-8667-60fa6aa7b496,prepaid.cn,resell,,,high,low,7,Dynadot Inc,,,09/09/2026 00:39
+d7dde7bc-62d5-4ba9-8240-089dd6ac5f3f,planetary.cn,resell,,,high,medium,9,广州云讯信息科技有限公司,,,20/08/2026 14:33
+33d253ab-71b9-4435-9508-2e6327f2fe8f,sanitary.cn,resell,,,high,medium,8,浙江贰贰网络有限公司,,,09/09/2026 21:16
+d656f688-2b12-42f4-8181-90a44b3018f7,scottish.cn,resell,,,high,low,8,厦门易名科技股份有限公司,,,09/09/2026 23:35
+4c018739-f8f5-4c4f-9e26-d1361905ccd2,flashy.cn,resell,,,high,low,6,阿里云计算有限公司（万网）,,,18/08/2026 06:33
+67cc51e9-cea8-4aa4-b48b-a70c339d8e32,dada.cn,resell,,,high,high,4,广东时代互联科技有限公司,,,08/09/2026 23:40
+fc0f9cab-3a61-4606-90f9-e96abfa66317,shaver.cn,resell,,,medium,low,6,Dynadot Inc,,,25/08/2026 00:03
 5ac08e60-3caf-4456-ae62-abfe4468aecf,faces.cn,resell,,,medium,low,5,Dynadot Inc,,,
-6bf035ef-a4ef-4dbb-9db7-5d61bf405ccc,swimsuit.cn,resell,,,low,low,8,,,,22/09/2026 13:37
-247b3042-44b2-4b93-b726-60b4bfde8512,twintowers.cn,available,,,medium,low,11,,,,
-f294b70a-3e68-4214-826b-086161d6ecf5,contemplation.cn,resell,,,low,low,13,阿里云计算有限公司（万网）,,,16/09/2026 21:40
-39efe9c6-d5e2-4e7b-9245-2d20f69c0b9c,advisors.cn,resell,,,low,low,8,Dynadot Inc,,,17/09/2026 14:20
 112f1c99-2174-4013-bb61-fcfb2e1eae0b,investments.cn,resell,,,medium,low,11,Dynadot Inc,,,
-d2b691cd-d782-4a6d-afa0-10e53ce008d6,naval.cn,resell,,,low,low,5,北京国旭网络科技有限公司,,,03/09/2026 14:07
+d2b691cd-d782-4a6d-afa0-10e53ce008d6,naval.cn,resell,,,high,low,5,北京国旭网络科技有限公司,,,03/09/2026 14:07
 f5c57c5b-f320-41fd-9cfa-aa8e9d20c39b,beans.cn,resell,,,high,low,5,Dynadot Inc,,,
-d099ec23-5802-4bc8-a824-f02a9af4c448,stpetersburg.cn,available,,,medium,low,14,,,,
-4a96f590-508f-497a-817a-7265fa6d1408,specter.cn,resell,,,low,low,7,浙江贰贰网络有限公司,,,08/09/2026 18:41
-b2456823-49aa-4146-b342-af6bbd6ca39e,indorse.cn,resell,,,low,low,7,阿里云计算有限公司（万网）,,,08/08/2026 05:17
-65baeba2-d1db-4423-9e77-f1182d4b114c,europeanhedgehog.cn,available,,,medium,low,17,,,,
-8aa3efa2-a1b3-4479-8217-cad026f3c55d,goawol.cn,available,,,medium,low,7,,,,
-28c08c62-090e-4f9b-bc6c-17d7d2283b77,iamenglish.cn,available,,,medium,low,12,,,,
-d1aba4b0-2bcf-4f1a-9be0-b35ab189fd9a,chunky.cn,resell,,,low,low,6,厦门市中资源网络服务有限公司,,,12/08/2026 07:44
-64de6894-aa13-4c2e-bcd1-f8f02c2dfd4d,weekends.cn,resell,,,low,low,8,浙江贰贰网络有限公司,,,20/09/2026 22:23
-c2a58929-c89f-492b-8e5c-73390ff9f19e,countytyrone.cn,available,,,medium,low,13,,,,
-a9efb02e-70cb-4be2-8cbd-652e4689e584,bonkers.cn,resell,,,low,low,7,阿里云计算有限公司（万网）,,,06/08/2026 20:40
-9a89a6d9-f3ea-4e0d-b66e-0ec56ef26de6,placement.cn,resell,,,low,low,9,Dynadot Inc,,,09/09/2026 00:08
-42a65e25-4fb4-4d5f-8d00-2e3fc6915a74,flyer.cn,resell,,,medium,low,5,Dynadot Inc,,,11/08/2026 05:11
-76044575-146b-4dcc-ad23-e87be02dadff,cardboard.cn,resell,,,low,low,9,WEST263 INTERNATIONAL LIMITED,,,11/08/2026 18:49
-b0037467-63b7-46c9-ba3f-4467790b5285,ilostmybag.cn,available,,,medium,low,13,,,,
-c45c0420-6573-45f0-bbcf-9a7335d7b232,ihearyousay.cn,available,,,medium,low,14,,,,
-c6315cf1-0bc5-4978-9f2c-ee69654a18b3,determination.cn,resell,,,low,low,13,腾讯云计算（北京）有限责任公司,,,19/09/2026 18:25
-b8b7b9ef-76a5-4bee-9210-f5cd615ae718,photographers.cn,resell,,,low,low,13,Dynadot Inc,,,19/09/2026 22:58
-8ab13a02-5d99-439b-94ee-58a16105ad22,elevated.cn,resell,,,medium,low,8,厦门市中资源网络服务有限公司,,,16/08/2026 03:35
-9b9cfa66-d1e3-4c92-8941-f0e7b60e2bc2,surrogate.cn,resell,,,low,low,9,,,,22/09/2026 02:27
-32d29217-1a11-4789-94b7-68570949d309,romanfoot.cn,available,,,medium,low,10,,,,
-9831cb25-6731-4bf0-931c-67e2e54af407,istandcorrected.cn,available,,,medium,low,17,,,,
-37e5f845-5db0-4063-b354-5f1d82e7e993,nobility.cn,resell,,,low,low,8,,,,20/09/2026 05:50
-9d731b8e-aa64-4f3a-b5fe-a7e304b10c68,ilostmyhandbag.cn,available,,,medium,low,17,,,,
-ad0b536e-0d96-41a4-ada4-226d2df9572f,futuristic.cn,resell,,,low,low,10,阿里云计算有限公司（万网）,,,18/08/2026 19:17
-d077b14a-7a88-458e-afd6-bfcc2519e937,frenchrice.cn,available,,,high,low,11,,,,
-932b37a0-0ba7-4a8b-9158-256c7d542f40,sikhempire.cn,available,,,medium,low,11,,,,
-7ab27a8f-c4b9-4369-9687-1021e1ce3dcf,grandexchange.cn,available,,,medium,low,14,,,,
-869f0252-e919-4455-a067-3b35eeee1faa,juicy.cn,resell,,,low,low,5,Dynadot Inc,,,18/08/2026 19:59
-a545028e-9652-4a98-8073-5edcd6e0b000,cabins.cn,resell,,,low,low,6,Dynadot Inc,,,20/09/2026 12:16
-2755347d-fc11-4591-9342-8eced924ade7,iputittoyou.cn,available,,,medium,low,15,,,,
-dcbafbeb-ce1e-41ce-92d9-48526f4f4acf,trumpcare.cn,available,,,medium,low,10,,,,
-908d4562-d8cc-49ea-90e7-9562e98a1f36,wears.cn,resell,,,low,low,5,,,,17/09/2026 10:43
-90efdfaf-ff9a-4a2e-a496-f756da6a75db,goody.cn,resell,,,low,low,5,Dynadot Inc,,,13/08/2026 15:54
-4f31e1c0-a5db-47d7-83e4-0b156ac76d7d,ranked.cn,resell,,,low,low,6,阿里云计算有限公司（万网）,,,20/08/2026 17:38
-da15d04b-11ab-4499-83c4-3b8c95a790f1,sovereign.cn,resell,,,medium,low,9,阿里云计算有限公司（万网）,,,22/09/2026 14:14
-3341c6dc-a34e-4fa5-831a-92d85c864a17,ichooseviolence.cn,available,,,medium,low,17,,,,
-42ea0fd2-89f1-4ed0-8205-4afaceea984a,facelift.cn,resell,,,low,low,9,Dynadot Inc,,,03/09/2026 17:39
-7224c4b5-6ccf-48f5-9c55-d2829ad62ca1,squawk.cn,resell,,,low,low,6,,,,23/09/2026 00:25
-136dc0db-7e9a-4fc7-bc52-561861e16dda,spellbound.cn,resell,,,low,low,10,成都西维数码科技有限公司,,,17/08/2026 22:54
-f2544454-ca32-4f4d-95b8-963934cbfd33,suezcanal.cn,available,,,medium,low,10,,,,
-9ab708aa-a7b6-49ab-ac58-2e908b5feb62,scope.cn,resell,,,low,low,5,,,,18/09/2026 16:44
-57773e85-0aac-430c-ad01-b72a650acfff,keno.cn,resell,,,low,low,4,,,,22/09/2026 20:42
-50a78799-6341-4671-9e16-a97636b2b268,batiste.cn,resell,,,low,low,7,,,,22/09/2026 14:05
-69522dc3-3c8d-4650-888d-8e72cb70cc67,westindies.cn,available,,,medium,low,11,,,,
-bb56f8ef-05eb-4ea4-886b-ae46bcb3c8cf,frenchonionsoup.cn,available,,,high,low,17,,,,
-29373dc9-d0c1-4f1e-b198-f71d8bd4da3b,mediate.cn,resell,,,low,low,7,Dynadot Inc,,,21/08/2026 23:37
-178c99a3-dde0-4cb7-8dad-28e62b65ccf2,islesofscilly.cn,available,,,medium,low,15,,,,
+4a96f590-508f-497a-817a-7265fa6d1408,specter.cn,resell,,,high,low,7,浙江贰贰网络有限公司,,,08/09/2026 18:41
+b2456823-49aa-4146-b342-af6bbd6ca39e,indorse.cn,resell,,,medium,low,7,阿里云计算有限公司（万网）,,,08/08/2026 05:17
+d1aba4b0-2bcf-4f1a-9be0-b35ab189fd9a,chunky.cn,resell,,,high,low,6,厦门市中资源网络服务有限公司,,,12/08/2026 07:44
+a9efb02e-70cb-4be2-8cbd-652e4689e584,bonkers.cn,resell,,,medium,low,7,阿里云计算有限公司（万网）,,,06/08/2026 20:40
+9a89a6d9-f3ea-4e0d-b66e-0ec56ef26de6,placement.cn,resell,,,high,low,9,Dynadot Inc,,,09/09/2026 00:08
+42a65e25-4fb4-4d5f-8d00-2e3fc6915a74,flyer.cn,resell,,,high,low,5,Dynadot Inc,,,11/08/2026 05:11
+76044575-146b-4dcc-ad23-e87be02dadff,cardboard.cn,resell,,,high,low,9,WEST263 INTERNATIONAL LIMITED,,,11/08/2026 18:49
+8ab13a02-5d99-439b-94ee-58a16105ad22,elevated.cn,resell,,,high,low,8,厦门市中资源网络服务有限公司,,,16/08/2026 03:35
+ad0b536e-0d96-41a4-ada4-226d2df9572f,futuristic.cn,resell,,,high,low,10,阿里云计算有限公司（万网）,,,18/08/2026 19:17
+869f0252-e919-4455-a067-3b35eeee1faa,juicy.cn,resell,,,high,low,5,Dynadot Inc,,,18/08/2026 19:59
+dcbafbeb-ce1e-41ce-92d9-48526f4f4acf,trumpcare.cn,available,,,low,low,10,,,,
+90efdfaf-ff9a-4a2e-a496-f756da6a75db,goody.cn,resell,,,high,low,5,Dynadot Inc,,,13/08/2026 15:54
+4f31e1c0-a5db-47d7-83e4-0b156ac76d7d,ranked.cn,resell,,,high,low,6,阿里云计算有限公司（万网）,,,20/08/2026 17:38
+136dc0db-7e9a-4fc7-bc52-561861e16dda,spellbound.cn,resell,,,high,low,10,成都西维数码科技有限公司,,,17/08/2026 22:54
+29373dc9-d0c1-4f1e-b198-f71d8bd4da3b,mediate.cn,resell,,,high,low,7,Dynadot Inc,,,21/08/2026 23:37
 8358e6f1-0afc-44fe-bdce-da6a6d0f910c,posters.cn,resell,,,medium,low,7,Dynadot Inc,,,
-375219fd-70de-4169-94d8-7014b9ea7702,surveys.cn,resell,,,low,low,7,Dynadot Inc,,,17/09/2026 07:59
-104ba5f1-717e-4fcf-926e-18aa88392e4a,countyofrussell.cn,available,,,medium,low,17,,,,
-23f16e0b-0738-48a5-bb4f-4bffe8bcae1a,appraisal.cn,resell,,,low,low,9,,,,19/09/2026 22:07
-9740f3bb-abac-45b8-8362-1ad924eec276,srilanka.cn,available,,,medium,high,9,,,,
-84bbe436-77f2-411b-8e74-25e3c7a91e96,trendy.cn,resell,,,medium,low,6,Dynadot Inc,,,11/09/2026 19:19
-826851f7-9c97-4f4a-95f6-5e76ce9c8b92,comely.cn,resell,,,low,low,6,浙江贰贰网络有限公司,,,09/08/2026 06:13
-0b38d00e-b08c-49fd-8322-3b940d29530b,nebulous.cn,resell,,,low,low,8,北京东方网景信息科技有限公司,,,12/08/2026 12:45
-40b265be-4653-4e5c-b9fd-9afd0b8f86b6,christmascarol.cn,available,,,high,low,15,,,,
-b37f1b26-95b6-4901-9463-6b6d320299fa,bonfirenight.cn,available,,,medium,low,13,,,,
-7f95093a-d33f-4430-bf05-a60dd37b08a6,gymnastic.cn,resell,,,low,low,9,WEST263 INTERNATIONAL LIMITED,,,
-496a71f7-5be1-4a64-a568-82ef859dc691,westhills.cn,available,,,medium,low,10,,,,
-25db949d-c22a-4a62-9324-70915a0fbb65,usbdrive.cn,resell,,,high,low,9,"GoDaddy.com,LLC",,,
-cacce694-eb85-4ead-8bb2-8c4240633f1d,germanrepublic.cn,available,,,medium,low,15,,,,
-f007da47-3f0b-4f55-8137-eb253f14c4e0,texascity.cn,available,,,high,low,10,,,,
-b6c85b6a-e999-49fe-a714-5b74c407f73d,caramel.cn,resell,,,low,low,7,Dynadot Inc,,,11/08/2026 18:28
-c01b5e88-3d72-4799-ad23-76db21d6a9f0,androgyny.cn,resell,,,low,low,9,,,,19/09/2026 04:54
-404386cb-de80-4c7b-abd0-3e4067b29ee0,yubacity.cn,available,,,medium,low,9,,,,
-08818849-dcbe-455b-af2e-e81a034e8bd1,shoppers.cn,resell,,,low,low,8,Dynadot Inc,,,20/09/2026 20:14
-b794aff8-e6e8-4414-b9bb-41d13d268dcd,icouldeatabrick.cn,available,,,medium,low,19,,,,
-20134672-7586-4ef1-9427-9d27c03b7cda,finaljudgment.cn,available,,,medium,low,14,,,,
-1bcc1016-3ea4-4698-b3ea-c612ee67658e,offsite.cn,resell,,,low,low,8,阿里云计算有限公司（万网）,,,04/09/2026 01:14
-f364791f-8576-4af8-b335-6ef2f2539965,isleofwightcounty.cn,available,,,medium,low,20,,,,
-c590b658-eb1d-4210-bd80-454cb7fc9aa5,tropical.cn,resell,,,medium,low,8,Dynadot Inc,,,11/09/2026 20:24
-7c70f49e-82bd-4198-b583-f8143fa939c0,germanreich.cn,available,,,medium,low,12,,,,
-2a0773a4-359e-49da-b87f-38034a6ca913,titanium.cn,resell,,,low,low,8,,,,20/09/2026 22:34
-8822cf25-acd2-4771-98b2-eb384950f2eb,abudhabi.cn,resell,,,low,low,9,,,,16/09/2026 18:43
-ee24dba4-011d-481c-ab22-c75383f19ca8,breaks.cn,resell,,,low,low,6,,,,17/09/2026 22:04
-0d3ed71b-39ab-4dae-b4ba-680c05b3893c,ihavenever.cn,available,,,medium,low,12,,,,
-893d018c-4407-4446-8047-cf0716c6cc3d,froze.cn,resell,,,medium,low,5,Dynadot Inc,,,
-72551f6b-88ba-43b2-9a50-8d33d0ea67f5,secure.cn,resell,,,medium,medium,6,Dynadot Inc,,,21/08/2026 23:03
-77e7b9c5-17f6-4b2f-9bf0-f7264c131b85,icouldeatahorse.cn,available,,,medium,low,19,,,,
-e72a8f2c-cb95-4c69-a875-7c81e6444def,newchicago.cn,available,,,medium,low,11,,,,
-833cf3d7-b651-4117-b4ff-c1c5a80bba40,relational.cn,resell,,,low,low,10,北京网尊科技有限公司,,,09/09/2026 13:20
-ee451af1-ff7a-4472-a147-491864b81a44,emeritus.cn,resell,,,low,low,8,阿里云计算有限公司（万网）,,,16/08/2026 15:05
-1e904b2f-fb36-451c-b2d4-7dc4246a7b7c,alcoholicsanonymous.cn,available,,,medium,low,20,,,,
-78b75050-0f1f-46b2-ab88-3bcdab532728,colonelsanders.cn,available,,,medium,low,15,,,,
+84bbe436-77f2-411b-8e74-25e3c7a91e96,trendy.cn,resell,,,high,low,6,Dynadot Inc,,,11/09/2026 19:19
+826851f7-9c97-4f4a-95f6-5e76ce9c8b92,comely.cn,resell,,,medium,low,6,浙江贰贰网络有限公司,,,09/08/2026 06:13
+0b38d00e-b08c-49fd-8322-3b940d29530b,nebulous.cn,resell,,,medium,low,8,北京东方网景信息科技有限公司,,,12/08/2026 12:45
+7f95093a-d33f-4430-bf05-a60dd37b08a6,gymnastic.cn,resell,,,high,low,9,WEST263 INTERNATIONAL LIMITED,,,
+b6c85b6a-e999-49fe-a714-5b74c407f73d,caramel.cn,resell,,,high,low,7,Dynadot Inc,,,11/08/2026 18:28
+c590b658-eb1d-4210-bd80-454cb7fc9aa5,tropical.cn,resell,,,high,low,8,Dynadot Inc,,,11/09/2026 20:24
+893d018c-4407-4446-8047-cf0716c6cc3d,froze.cn,resell,,,low,low,5,Dynadot Inc,,,
+833cf3d7-b651-4117-b4ff-c1c5a80bba40,relational.cn,resell,,,high,low,10,北京网尊科技有限公司,,,09/09/2026 13:20
+ee451af1-ff7a-4472-a147-491864b81a44,emeritus.cn,resell,,,high,low,8,阿里云计算有限公司（万网）,,,16/08/2026 15:05
 b6830438-0285-4cec-8674-676ed2412dda,catholicism.cn,available,,,high,low,11,,,,
-1f1d287c-8abe-46d5-aad8-0c11b8014673,banquet.cn,resell,,,low,low,7,,,,22/09/2026 02:59
-d755ffa1-9d83-4e29-b00b-a6e21dcae46a,ifeelyou.cn,available,,,medium,low,10,,,,
-3ed21a08-9e8c-4656-9c3a-4f4057294090,instagrammable.cn,available,,,high,low,14,,,,
+3ed21a08-9e8c-4656-9c3a-4f4057294090,instagrammable.cn,available,,,medium,low,14,,,,
 27c36524-fae9-4cf6-baf7-10c4bb3f42de,bets.cn,resell,,,high,low,4,Dynadot Inc,,,
-e51f737a-50ad-46be-b26c-0a82cf99ba8d,countyofyoung.cn,available,,,medium,low,15,,,,
-a28e31dd-4af2-4ff3-b5cf-8f4a01af2324,splay.cn,resell,,,low,low,5,浙江贰贰网络有限公司,,,10/09/2026 16:06
-6f7d073c-82be-4203-ae21-7b0b015bc8d6,godforbid.cn,available,,,medium,low,10,,,,
-1cb0385e-53ba-4778-93b2-ec4921bc2946,traversecity.cn,available,,,medium,low,13,,,,
-462e71ca-2918-4142-948c-d809e3716355,newtaipei.cn,available,,,high,low,10,,,,
-6a46a01e-1c38-4bf6-9220-411a54ff1f75,fivestar.cn,resell,,,high,low,9,阿里云计算有限公司（万网）,,,19/09/2026 23:10
-220f9693-594c-4899-bae2-9967342262d0,isleofwight.cn,available,,,medium,low,13,,,,
-7ddd3169-d369-4008-a613-fa92ef446ea9,complaints.cn,resell,,,low,low,10,,,,18/09/2026 03:41
-36b857dc-8291-49d1-a9cb-29b9c4610a84,chronic.cn,resell,,,low,low,7,WEST263 INTERNATIONAL LIMITED,,,12/08/2026 07:24
-d20134e1-ea63-4b32-8d40-456a3381eaee,alonso.cn,resell,,,low,low,6,,,,18/09/2026 07:29
-8b4b0ced-5691-48e2-83b4-4084f0904f23,ibegyourpardon.cn,available,,,medium,low,17,,,,
-a069c0af-78a9-413f-a346-e80ca2b65eb8,stgeorges.cn,available,,,medium,low,10,,,,
-9af0cb28-dda7-4212-a8e3-a7eceabe19a8,windsock.cn,resell,,,low,low,8,,,,17/09/2026 21:40
-fc83739e-7f2d-47c1-b743-39ef8c79f4ac,ihaveatemperature.cn,available,,,medium,low,20,,,,
-7cb48295-1b32-4862-9aac-7c1db7c05be6,templecity.cn,available,,,medium,low,11,,,,
-e80eeb1a-9a4f-4188-bc92-f09fbef54d22,iamwhatiam.cn,available,,,medium,low,14,,,,
-b0777b82-0e61-4b57-aeee-70127e40e073,ihaveaheadache.cn,available,,,medium,low,17,,,,
-c4aa19b6-1a5c-4448-9111-fd0b651c28b1,lordofchristmas.cn,available,,,medium,low,17,,,,
-a4d00b3f-8021-4897-a1e0-718dc1f8b8bd,ihaveasthma.cn,available,,,medium,low,13,,,,
-10920317-a8ef-412b-9aea-95de80aa430e,ihaveadisability.cn,available,,,medium,low,19,,,,
-5c6164b0-2f54-469b-99e2-d3d362c4a633,isomorphic.cn,resell,,,low,low,10,北京网尊科技有限公司,,,22/08/2026 11:12
-fe9f6a38-b22f-4d76-99ad-e5187dae63c3,sandals.cn,resell,,,low,low,7,Dynadot Inc,,,20/09/2026 14:52
-c20e6c71-8881-4db3-9ff6-f92f74f36128,forbidden.cn,resell,,,low,low,9,Dynadot Inc,,,18/08/2026 10:59
-55c0ac2d-af05-4db0-a632-04503cc9fcc4,augustine.cn,resell,,,low,low,9,,,,21/09/2026 04:01
-7f4465a4-1fc6-4f00-bcea-d7578402f53f,sanchez.cn,resell,,,low,low,7,,,,19/09/2026 04:36
-57c30509-dd08-4a0c-ae96-041b1ea4d7cd,sodium.cn,resell,,,low,low,6,,,,20/09/2026 22:13
-23c90204-acf6-475e-8bcf-406c7a64309e,dancers.cn,resell,,,low,low,7,Dynadot Inc,,,20/09/2026 05:50
-37784bd0-8dab-473a-bf80-bd4d2cc834bd,iliveinmelbourne.cn,available,,,medium,low,19,,,,
-54ef2db6-3a9f-4234-bba2-f09a8177651d,frenchloaf.cn,available,,,high,low,11,,,,
-a7f5c79e-1ad1-47fc-8bc4-25698d3dbb39,centered.cn,resell,,,low,low,8,阿里云计算有限公司（万网）,,,12/08/2026 00:03
-d8254c0a-a2de-4453-9c7f-096fbfc0e617,variation.cn,resell,,,low,low,9,腾讯云计算（北京）有限责任公司,,,03/09/2026 11:43
-0d1ce646-9fb2-4694-9a95-da7d4671b0f7,predictive.cn,resell,,,medium,medium,10,厦门市中资源网络服务有限公司,,,09/09/2026 01:25
-1a652d13-d7de-4500-8f39-f49633f0eb5c,noteworthy.cn,resell,,,low,low,10,厦门市中资源网络服务有限公司,,,03/09/2026 22:01
-d34f9e13-be02-492d-9c17-44071392491d,volunteer.cn,resell,,,medium,low,9,阿里云计算有限公司（万网）,,,13/09/2026 07:13
-5577ac09-bfae-47fa-9adc-f2f215f541a4,isaidwhatisaid.cn,available,,,medium,low,18,,,,
-39bddeb4-fa62-4b4d-ba9f-3d8095f39931,packages.cn,resell,,,low,low,8,Dynadot Inc,,,19/09/2026 00:23
-a866069f-0ad5-4e04-a521-5528b3f37807,loneliness.cn,resell,,,low,low,10,,,,18/09/2026 13:13
-18d250d6-943c-45c5-9087-91d18bafaaa3,pianos.cn,resell,,,low,low,6,Dynadot Inc,,,20/09/2026 09:12
-b12e949a-43be-4c9a-9be7-d9f1da7e72be,tales.cn,resell,,,low,low,5,Dynadot Inc,,,18/09/2026 16:46
-5202ff9d-87c2-4c14-9bb9-89036279c6d1,scientific.cn,resell,,,low,low,10,Dynadot Inc,,,19/09/2026 06:46
-0bdab87a-670b-49fd-a97c-0cfcb555f239,amusing.cn,resell,,,low,low,7,厦门市中资源网络服务有限公司,,,
-668a8f02-881e-49f4-a296-1d68221255b2,laurelandhardy.cn,available,,,medium,low,16,,,,
-536d71d0-645f-40c2-a035-89f0de1b8173,rico.cn,resell,,,low,low,4,,,,19/09/2026 14:11
-5fa39e76-15b9-418e-ae02-1c509b00eec9,veterinary.cn,resell,,,low,low,10,Dynadot Inc,,,13/09/2026 05:00
-dfe0f6c1-5c98-4cb9-b3c0-6eab3fc872a5,virginiabeach.cn,available,,,medium,low,14,,,,
-8d678ab5-285f-49e1-b07b-46b26559c863,decided.cn,resell,,,low,low,7,阿里云计算有限公司（万网）,,,13/08/2026 21:20
+a28e31dd-4af2-4ff3-b5cf-8f4a01af2324,splay.cn,resell,,,medium,low,5,浙江贰贰网络有限公司,,,10/09/2026 16:06
+36b857dc-8291-49d1-a9cb-29b9c4610a84,chronic.cn,resell,,,high,low,7,WEST263 INTERNATIONAL LIMITED,,,12/08/2026 07:24
+5c6164b0-2f54-469b-99e2-d3d362c4a633,isomorphic.cn,resell,,,medium,low,10,北京网尊科技有限公司,,,22/08/2026 11:12
+c20e6c71-8881-4db3-9ff6-f92f74f36128,forbidden.cn,resell,,,medium,low,9,Dynadot Inc,,,18/08/2026 10:59
+a7f5c79e-1ad1-47fc-8bc4-25698d3dbb39,centered.cn,resell,,,high,low,8,阿里云计算有限公司（万网）,,,12/08/2026 00:03
+d8254c0a-a2de-4453-9c7f-096fbfc0e617,variation.cn,resell,,,high,low,9,腾讯云计算（北京）有限责任公司,,,03/09/2026 11:43
+0d1ce646-9fb2-4694-9a95-da7d4671b0f7,predictive.cn,resell,,,high,medium,10,厦门市中资源网络服务有限公司,,,09/09/2026 01:25
+1a652d13-d7de-4500-8f39-f49633f0eb5c,noteworthy.cn,resell,,,high,low,10,厦门市中资源网络服务有限公司,,,03/09/2026 22:01
+d34f9e13-be02-492d-9c17-44071392491d,volunteer.cn,resell,,,high,low,9,阿里云计算有限公司（万网）,,,13/09/2026 07:13
+0bdab87a-670b-49fd-a97c-0cfcb555f239,amusing.cn,resell,,,high,low,7,厦门市中资源网络服务有限公司,,,
+5fa39e76-15b9-418e-ae02-1c509b00eec9,veterinary.cn,resell,,,high,low,10,Dynadot Inc,,,13/09/2026 05:00
+8d678ab5-285f-49e1-b07b-46b26559c863,decided.cn,resell,,,high,low,7,阿里云计算有限公司（万网）,,,13/08/2026 21:20
 ded8a801-bb95-4688-bc42-7d049455f51e,jody.cn,available,,,high,low,4,,,,
-8bab16ae-5e88-437e-8921-a02a7f06cd22,igotmine.cn,available,,,medium,low,10,,,,
-b922b171-d97a-46bd-b67f-8f03dd6fbcf8,chromatic.cn,resell,,,low,low,9,阿里云计算有限公司（万网）,,,12/08/2026 07:22
-d5a4987e-1b8a-4d79-bc1c-3680b774aaa7,southafrica.cn,available,,,medium,high,12,,,,
+b922b171-d97a-46bd-b67f-8f03dd6fbcf8,chromatic.cn,resell,,,high,low,9,阿里云计算有限公司（万网）,,,12/08/2026 07:22
 0d3c3585-0a10-4b2d-9c1c-9fb6f484073e,leasing.cn,resell,,,high,low,7,Dynadot Inc,,,
-d00677f1-deed-4e76-ac85-b1abf5f3cde2,puertorico.cn,available,,,high,high,11,,,,
-e0fe7c67-d68d-4101-a8e7-2ef09801defc,westeuropean.cn,available,,,medium,low,13,,,,
-4b840880-a10c-4d86-8161-3bfafdf58727,sack.cn,resell,,,low,low,4,Dynadot Inc,,,03/09/2026 15:56
-fa9ac58b-7cbb-4d2f-aafd-ba3a3c9e4fa5,antalya.cn,resell,,,low,low,7,,,,17/09/2026 06:10
-aedc26f2-8f1b-4751-a158-0bfa5bb5a526,items.cn,resell,,,low,low,5,,,,23/09/2026 02:55
-406f8372-13c2-4aec-956b-8ea878d65cb1,capsule.cn,resell,,,medium,low,7,Dynadot Inc,,,11/08/2026 18:13
-cc711bdd-2b7f-4452-b5ae-20651571d75d,immune.cn,resell,,,medium,low,6,Dynadot Inc,,,21/08/2026 21:26
-87759979-d428-4eef-99eb-fb21fc1cc49b,braindead.cn,resell,,,low,low,10,北京网尊科技有限公司,,,11/08/2026 01:30
-fdf7a3b3-69a7-4066-8738-65c54c0f5609,archive.cn,resell,,,low,low,7,,,,20/09/2026 02:19
-aaff6790-cef1-42cd-bbbc-54d1426d8169,scores.cn,resell,,,medium,low,6,Dynadot Inc,,,14/09/2026 23:23
-68a425a8-3e03-4a96-92bf-ce537e946226,boast.cn,resell,,,low,low,5,广东互易网络知识产权有限公司,,,11/08/2026 01:02
-ca963668-5632-4b14-92e4-721e39f9a787,candles.cn,resell,,,low,low,7,Dynadot Inc,,,18/09/2026 07:24
-c231548d-5ed5-4bed-8238-133252618682,ballet.cn,resell,,,low,low,6,,,,21/09/2026 22:51
-47ee7721-ed67-4a0e-8e7e-555b94d9b897,autoloan.cn,resell,,,low,low,9,,,,21/09/2026 05:34
+4b840880-a10c-4d86-8161-3bfafdf58727,sack.cn,resell,,,high,low,4,Dynadot Inc,,,03/09/2026 15:56
+406f8372-13c2-4aec-956b-8ea878d65cb1,capsule.cn,resell,,,high,low,7,Dynadot Inc,,,11/08/2026 18:13
+cc711bdd-2b7f-4452-b5ae-20651571d75d,immune.cn,resell,,,high,low,6,Dynadot Inc,,,21/08/2026 21:26
+aaff6790-cef1-42cd-bbbc-54d1426d8169,scores.cn,resell,,,high,low,6,Dynadot Inc,,,14/09/2026 23:23
+68a425a8-3e03-4a96-92bf-ce537e946226,boast.cn,resell,,,high,low,5,广东互易网络知识产权有限公司,,,11/08/2026 01:02
 2035c90f-17fb-453e-8c44-20f57569951f,derive.cn,resell,,,high,low,6,浙江贰贰网络有限公司,,,
-9ad569be-a944-4b3c-b7ab-60dd5431536b,petite.cn,resell,,,low,low,6,Dynadot Inc,,,08/08/2026 14:24
-e236e5ee-269a-4e44-9e92-2358d5729152,gadget.cn,resell,,,low,low,6,,,,19/09/2026 21:47
-cc9f4a43-29ba-48f0-8eec-abdefcc3c74f,brits.cn,resell,,,low,low,5,Dynadot Inc,,,11/08/2026 04:46
-5857e362-b8ec-4f3f-a2e7-baceb4b78ffa,windmills.cn,resell,,,low,low,9,Dynadot Inc,,,20/09/2026 13:55
-8b632e7c-4dd7-460d-9be9-8f1289b7e6f0,berries.cn,resell,,,low,low,7,Register.com,,,19/09/2026 15:37
-9de626c2-ab42-4e82-b5a1-1f0a257ee9bd,deluxe.cn,resell,,,medium,low,6,Dynadot Inc,,,13/08/2026 19:11
-5f6ed6e5-c52c-4ea4-b858-950a49f06f21,facilities.cn,resell,,,medium,low,10,WEST263 INTERNATIONAL LIMITED,,,16/09/2026 23:09
-0ab4c8fe-c105-4113-9b48-a430c0287b21,chili.cn,resell,,,medium,high,5,Dynadot Inc,,,12/08/2026 05:32
-973c6d32-36d8-4873-965c-afe653528992,californiakilowatt.cn,available,,,medium,low,19,,,,
-fb850738-4f2b-4336-8f06-50705c3d119a,bigmacsauce.cn,available,,,high,low,13,,,,
-e6c89a68-7952-415c-b63e-113240c86bb3,upcoming.cn,resell,,,low,low,8,WEST263 INTERNATIONAL LIMITED,,,06/08/2026 08:39
-5db8b9cc-01d5-453f-bbbe-66a3c9a7b1c9,brunette.cn,resell,,,low,low,8,Dynadot Inc,,,11/08/2026 06:56
-488a0eee-745b-4045-98e8-7b99aa3b11a8,subscript.cn,resell,,,low,low,9,成都西维数码科技有限公司,,,11/09/2026 00:43
-bd44c8be-ef28-409c-9a63-287ac97a1f68,unspoken.cn,resell,,,low,low,8,厦门三五互联信息有限公司,,,03/09/2026 11:51
-d07e79e8-7613-4d28-943f-46b998f81d9c,aquarium.cn,resell,,,low,low,8,,,,19/09/2026 23:02
-392b0a53-e665-46ce-9e15-694c911849b4,newglasgow.cn,available,,,high,low,11,,,,
-f0da1379-dab3-4f3e-8c1e-f87cf1b1f279,streamers.cn,resell,,,low,low,9,阿里云计算有限公司（万网）,,,20/09/2026 01:44
-cd0f7e5d-8dd2-49b2-989a-cbf2d1ec4062,frenchpie.cn,available,,,medium,low,10,,,,
-2ffb9276-cd5c-4e32-8b6a-75e8132b5e47,isleofthanet.cn,available,,,medium,low,14,,,,
-bce543a5-e544-4de1-8227-1d49b91040ce,gooddoctor.cn,resell,,,high,low,11,阿里云计算有限公司（万网）,,,
-3a34b988-6b24-461c-9dc7-e85c3f9f8ba6,christalmighty.cn,available,,,medium,low,15,,,,
-42e030b3-0dcc-4d87-b6b0-349fcfd5c016,improved.cn,resell,,,low,low,8,阿里云计算有限公司（万网）,,,21/08/2026 23:15
+9ad569be-a944-4b3c-b7ab-60dd5431536b,petite.cn,resell,,,medium,low,6,Dynadot Inc,,,08/08/2026 14:24
+cc9f4a43-29ba-48f0-8eec-abdefcc3c74f,brits.cn,resell,,,medium,low,5,Dynadot Inc,,,11/08/2026 04:46
+9de626c2-ab42-4e82-b5a1-1f0a257ee9bd,deluxe.cn,resell,,,high,low,6,Dynadot Inc,,,13/08/2026 19:11
+0ab4c8fe-c105-4113-9b48-a430c0287b21,chili.cn,resell,,,high,high,5,Dynadot Inc,,,12/08/2026 05:32
+e6c89a68-7952-415c-b63e-113240c86bb3,upcoming.cn,resell,,,high,low,8,WEST263 INTERNATIONAL LIMITED,,,06/08/2026 08:39
+5db8b9cc-01d5-453f-bbbe-66a3c9a7b1c9,brunette.cn,resell,,,medium,low,8,Dynadot Inc,,,11/08/2026 06:56
+488a0eee-745b-4045-98e8-7b99aa3b11a8,subscript.cn,resell,,,high,low,9,成都西维数码科技有限公司,,,11/09/2026 00:43
+bd44c8be-ef28-409c-9a63-287ac97a1f68,unspoken.cn,resell,,,high,low,8,厦门三五互联信息有限公司,,,03/09/2026 11:51
+42e030b3-0dcc-4d87-b6b0-349fcfd5c016,improved.cn,resell,,,high,low,8,阿里云计算有限公司（万网）,,,21/08/2026 23:15
 885d3a2f-50c5-4aa7-bd06-cd87b54bd75a,couples.cn,resell,,,medium,low,7,Dynadot Inc,,,
-d3b36828-6a78-4c58-9b7e-f2db489eaca9,bartender.cn,resell,,,low,low,9,,,,22/09/2026 06:18
-c4cc4dde-27de-422d-8e02-b6bf9fd9ac70,ancestral.cn,resell,,,medium,low,9,阿里云计算有限公司（万网）,,,
-32039df7-8cb2-43c6-8d9d-d78fb1c55bbb,dresses.cn,resell,,,low,low,7,Dynadot Inc,,,18/09/2026 07:11
-bf639565-9976-481b-9eb5-0e5fe5275b43,tahoecity.cn,available,,,medium,low,10,,,,
-b2cd5b88-b623-4b29-8de4-d457c220f75f,allover.cn,resell,,,low,low,8,成都西维数码科技有限公司,,,
-ccd37cdd-07ff-4669-ba8e-6650ee69e5db,romannumerals.cn,available,,,medium,low,14,,,,
-2e5fd7f8-df83-4282-8dc5-d7cda8254708,banner.cn,resell,,,low,low,6,成都西维数码科技有限公司,,,08/08/2026 13:53
-e18f9f62-fc27-4610-963d-89f1187d345e,justiceofthepeace.cn,available,,,medium,low,20,,,,
-636b5955-b448-4e42-8d82-070956047792,distribution.cn,resell,,,low,low,12,Dynadot Inc,,,19/09/2026 09:11
-21bd96ae-09e9-483b-9e95-84a38c755914,gregor.cn,available,,,medium,low,6,,,,
-739668ba-34a9-4b08-b68c-fd9027074ff8,blackthursday.cn,available,,,medium,low,14,,,,
-7d588323-96a6-44e1-a728-1f80288274e9,fittoat.cn,available,,,medium,low,10,,,,
-24bb29b5-b187-47a8-947e-39d0cbf658bb,coaches.cn,resell,,,low,low,7,,,,20/09/2026 07:46
-22702a62-25ee-4e2f-9e1f-c37c13b83ee9,numeral.cn,resell,,,low,low,7,厦门易名科技股份有限公司,,,03/09/2026 22:50
-77c7ba1c-5a2d-45ae-ae47-bd33fac830fa,reservations.cn,resell,,,low,low,12,Dynadot Inc,,,17/09/2026 23:30
-efac8b41-17b7-454d-a60c-2a2470f66c71,races.cn,resell,,,low,low,5,Dynadot Inc,,,19/09/2026 00:33
-2834998c-d193-41cb-9f96-b94683ddc808,acoustics.cn,resell,,,low,low,9,,,,17/09/2026 02:36
-7ecba53e-a2f3-4faf-9dec-7f0c1e15bfe2,popegregoryi.cn,available,,,low,low,14,,,,
-5a128dee-1871-4574-a9e1-4e0cda1e5d1d,frenchthyme.cn,available,,,high,low,12,,,,
-c61c877e-6043-4fde-a50a-ec3ed34bd658,unwise.cn,resell,,,low,low,6,福州中旭网络技术有限公司,,,12/09/2026 22:42
-365233ec-dbf7-4410-af92-ba833e0951c8,iwishimaybeshot.cn,available,,,medium,low,20,,,,
-b9b2cccf-dab0-466d-8e24-f34ff04f1ce1,manic.cn,resell,,,low,low,5,浙江贰贰网络有限公司,,,18/08/2026 15:04
-c2fb2742-39d9-4f1d-af16-7cc21d84312d,rum.cn,resell,,,low,low,3,Dynadot Inc,,,13/08/2026 11:11
-8dd3b7ad-bbda-45a3-8ddc-50ab8109c0d1,ionlyworkhere.cn,available,,,medium,low,16,,,,
-9f4326ca-4123-48ec-8555-161906d9e25b,coventgarden.cn,available,,,high,low,13,,,,
-6d440d03-ce13-4a5c-9115-244edc44732d,glide.cn,resell,,,low,low,5,成都西维数码科技有限公司,,,19/09/2026 16:45
-feb50d8d-bf6e-4e84-b210-07593f34bdcf,countyofqueens.cn,available,,,medium,low,16,,,,
-98517b9b-55e5-4d08-ae40-2677c62bceef,accountants.cn,resell,,,low,low,11,Dynadot Inc,,,20/09/2026 02:26
-ad286d77-9f81-4833-90a2-8c2a26972154,finals.cn,resell,,,medium,low,6,成都垦派科技有限公司,,,19/09/2026 22:46
-61af4125-661e-4608-8866-ff46b5adade5,countyofyork.cn,available,,,medium,low,14,,,,
-aea79067-ede1-49dc-a178-7d289899b441,asymmetric.cn,resell,,,low,low,10,阿里云计算有限公司（万网）,,,07/08/2026 10:25
-c7702258-0fb8-452b-9484-1d90006b4591,godtheholyspirit.cn,available,,,medium,low,19,,,,
-159ed65e-ec80-49a3-aaaa-43cd0a259f78,isleofsheppey.cn,available,,,medium,low,15,,,,
-0fd4bc07-a8cb-4995-b91e-e8c46c19f428,divorce.cn,resell,,,low,low,7,Dynadot Inc,,,14/08/2026 11:12
-187d6211-af8c-4cd6-b9e0-73550c30be26,driven.cn,resell,,,medium,low,6,阿里云计算有限公司（万网）,,,14/08/2026 19:34
-2ec02abb-0bc6-4bf6-95e8-6d7c93549980,racy.cn,resell,,,low,low,4,天津追日科技发展有限公司,,,18/08/2026 18:00
-6a548bde-dd3d-4ab5-a8f9-065017e7d5f7,ihopeimaybeshot.cn,available,,,medium,low,20,,,,
-6b7915b5-c247-4de7-bc6a-6798fdc66f85,edgy.cn,resell,,,low,low,4,WEST263 INTERNATIONAL LIMITED,,,15/08/2026 08:39
-7d401034-44d9-4da7-9d94-d5a4ba2688ca,nitric.cn,resell,,,low,low,6,北京网尊科技有限公司,,,08/08/2026 02:58
-4d571206-e15b-4c9f-b1f9-2da139f5af46,schedule.cn,resell,,,low,low,8,,,,17/09/2026 17:04
-11b2e29e-c8e7-435c-a56a-8d692f09541a,classified.cn,resell,,,low,low,10,Dynadot Inc,,,19/09/2026 14:44
-9a75291f-21c7-4b67-acce-11925a26d3bf,stfrancis.cn,available,,,high,low,11,,,,
-98edd2bf-0227-403b-a13e-acc5eb669f41,italian.cn,resell,,,medium,low,7,Dynadot Inc,,,22/08/2026 11:36
-5f620056-cdcf-45e9-8d2f-78986e8a16dd,newyorkstate.cn,available,,,high,low,14,,,,
-1bfc6e87-ba8a-49f7-807b-e8fa91ef8cfc,blackdeath.cn,available,,,medium,low,11,,,,
-735d3dd3-8eaa-4775-b870-c409ac6399d6,offices.cn,resell,,,low,low,7,Dynadot Inc,,,18/09/2026 05:07
-465de716-2064-486d-a3b6-c9f4b2eae482,ilostmyglasses.cn,available,,,medium,low,17,,,,
-e36cf4ff-b8dc-4b72-b172-b5968ad16330,auk.cn,resell,,,low,low,3,,,,21/09/2026 04:07
-586d594d-435c-40ff-833b-dc3c3d32ddc8,runaway.cn,resell,,,low,low,7,成都西维数码科技有限公司,,,18/08/2026 17:46
-835c3f14-5c8d-429a-ac46-4b4397e90ae4,internetlike.cn,available,,,high,low,12,,,,
-89a8cb4b-78b7-400e-b53f-bca025e7ee27,blacktuesday.cn,available,,,medium,low,13,,,,
-3290367b-5353-4d19-99ec-f8870f56c3b2,frenchroll.cn,available,,,medium,low,11,,,,
-496388b9-0c72-4f38-801a-34e96d7fed32,suite.cn,resell,,,low,low,5,,,,23/09/2026 02:41
-751c47c8-8bfc-44e9-b469-6c1832867532,executives.cn,resell,,,low,low,10,,,,21/09/2026 01:35
-3df9e0c3-6ca8-42e0-ad6c-4772185046a1,regal.cn,resell,,,low,low,5,Dynadot Inc,,,19/09/2026 11:09
-6bebacae-059b-4a5d-90a7-3e749faae976,barcelona.cn,resell,,,low,low,9,,,,22/09/2026 05:08
-6c1dba88-0932-49ff-8580-9dab50b9c816,santaclara.cn,available,,,high,low,11,,,,
-66297ec5-15aa-4f96-9109-bcf121c7b81a,aft.cn,resell,,,low,low,3,广东时代互联科技有限公司,,,
-7385dd2a-bebc-457e-8697-0f9e7f66e342,americanway.cn,available,,,high,low,12,,,,
-c764ecf5-4d26-4566-9440-68cff4f58f4b,smoky.cn,resell,,,low,low,5,阿里云计算有限公司（万网）,,,10/09/2026 11:59
-ef0bf515-5acf-4e9f-8159-b291e6c8f874,isleofman.cn,available,,,medium,high,11,,,,
+c4cc4dde-27de-422d-8e02-b6bf9fd9ac70,ancestral.cn,resell,,,high,low,9,阿里云计算有限公司（万网）,,,
+2e5fd7f8-df83-4282-8dc5-d7cda8254708,banner.cn,resell,,,high,low,6,成都西维数码科技有限公司,,,08/08/2026 13:53
+21bd96ae-09e9-483b-9e95-84a38c755914,gregor.cn,available,,,high,low,6,,,,
+22702a62-25ee-4e2f-9e1f-c37c13b83ee9,numeral.cn,resell,,,medium,low,7,厦门易名科技股份有限公司,,,03/09/2026 22:50
+c61c877e-6043-4fde-a50a-ec3ed34bd658,unwise.cn,resell,,,medium,low,6,福州中旭网络技术有限公司,,,12/09/2026 22:42
+b9b2cccf-dab0-466d-8e24-f34ff04f1ce1,manic.cn,resell,,,medium,low,5,浙江贰贰网络有限公司,,,18/08/2026 15:04
+c2fb2742-39d9-4f1d-af16-7cc21d84312d,rum.cn,resell,,,high,low,3,Dynadot Inc,,,13/08/2026 11:11
+aea79067-ede1-49dc-a178-7d289899b441,asymmetric.cn,resell,,,medium,low,10,阿里云计算有限公司（万网）,,,07/08/2026 10:25
+0fd4bc07-a8cb-4995-b91e-e8c46c19f428,divorce.cn,resell,,,medium,low,7,Dynadot Inc,,,14/08/2026 11:12
+187d6211-af8c-4cd6-b9e0-73550c30be26,driven.cn,resell,,,high,low,6,阿里云计算有限公司（万网）,,,14/08/2026 19:34
+2ec02abb-0bc6-4bf6-95e8-6d7c93549980,racy.cn,resell,,,medium,low,4,天津追日科技发展有限公司,,,18/08/2026 18:00
+6b7915b5-c247-4de7-bc6a-6798fdc66f85,edgy.cn,resell,,,high,low,4,WEST263 INTERNATIONAL LIMITED,,,15/08/2026 08:39
+7d401034-44d9-4da7-9d94-d5a4ba2688ca,nitric.cn,resell,,,medium,low,6,北京网尊科技有限公司,,,08/08/2026 02:58
+98edd2bf-0227-403b-a13e-acc5eb669f41,italian.cn,resell,,,high,low,7,Dynadot Inc,,,22/08/2026 11:36
+586d594d-435c-40ff-833b-dc3c3d32ddc8,runaway.cn,resell,,,medium,low,7,成都西维数码科技有限公司,,,18/08/2026 17:46
+66297ec5-15aa-4f96-9109-bcf121c7b81a,aft.cn,resell,,,medium,low,3,广东时代互联科技有限公司,,,
+c764ecf5-4d26-4566-9440-68cff4f58f4b,smoky.cn,resell,,,medium,low,5,阿里云计算有限公司（万网）,,,10/09/2026 11:59
 b0eba341-fb48-4715-9c30-b517225ede58,registration.cn,resell,,,high,low,12,Dynadot Inc,,,
-ccd63a15-9a86-4f45-b5f3-5221db790775,elsalvador.cn,available,,,high,high,11,,,,
-45c85b8f-7619-4d2f-9086-d028c35ff0cb,everbody.cn,resell,,,medium,low,8,Key-Systems,,,
-6de62e65-f967-4837-98d5-556b85bc3db7,teamsport.cn,resell,,,high,low,10,"GoDaddy.com,LLC",,,
-af9ca29a-2898-4a53-b886-416b57d9ce48,nitrous.cn,resell,,,low,low,7,厦门市中资源网络服务有限公司,,,08/08/2026 03:03
-d252085c-79f4-4101-baae-c2469618d5f9,bangkok.cn,resell,,,medium,low,7,,,,22/09/2026 01:48
-f59bdafe-1a7c-491e-b0b7-2be48f37ae5d,positively.cn,resell,,,low,low,10,福州中旭网络技术有限公司,,,15/09/2026 21:03
+45c85b8f-7619-4d2f-9086-d028c35ff0cb,everbody.cn,resell,,,low,low,8,Key-Systems,,,
+af9ca29a-2898-4a53-b886-416b57d9ce48,nitrous.cn,resell,,,medium,low,7,厦门市中资源网络服务有限公司,,,08/08/2026 03:03
+f59bdafe-1a7c-491e-b0b7-2be48f37ae5d,positively.cn,resell,,,high,low,10,福州中旭网络技术有限公司,,,15/09/2026 21:03
 2391fd7d-ee71-483d-8081-c0d4aa5aee5f,netherlands.cn,available,,,high,high,11,,,,
-1d367834-52e6-4e6c-8d5b-4dac2ec8ba9e,planes.cn,resell,,,low,low,6,Dynadot Inc,,,17/09/2026 03:50
-181f5d28-2275-4b8b-961a-1317a4df73ac,suborbital.cn,resell,,,low,low,10,阿里云计算有限公司（万网）,,,11/09/2026 00:34
+181f5d28-2275-4b8b-961a-1317a4df73ac,suborbital.cn,resell,,,high,low,10,阿里云计算有限公司（万网）,,,11/09/2026 00:34
 bd647246-4475-40f8-ac85-99cea1fdfc09,trumpian.cn,available,,,medium,low,8,,,,
-80051b5b-1392-406b-bd14-b6cf136cb141,zulutime.cn,available,,,medium,low,9,,,,
-a0aba22b-ca56-4169-8962-2169a7dca9d5,paths.cn,resell,,,low,low,5,Dynadot Inc,,,18/09/2026 10:52
-7e166ca1-786a-4a48-bc73-c8a99e9510e3,marathon.cn,resell,,,low,low,8,,,,22/09/2026 15:29
 4f00d7e8-3124-45a0-86bb-79985fd56220,volleyball.cn,resell,,,high,low,10,厦门易名科技股份有限公司,,,
-2dffaad4-6d15-4e6b-94ea-863ce48eb0a7,highspeed.cn,resell,,,low,low,10,"GoDaddy.com,LLC",,,21/08/2026 09:03
-6d5e8d00-a05e-43a4-8e0c-1b1869b07bb8,goodfriday.cn,available,,,high,low,11,,,,
-5aae23cb-bc95-4c5d-b194-b5dfb4dd073b,collecting.cn,resell,,,low,low,10,,,,20/09/2026 16:02
-cc3c5a9b-ad3e-4314-8273-b778d6515b66,stocky.cn,resell,,,low,low,6,阿里云计算有限公司（万网）,,,21/08/2026 05:33
+cc3c5a9b-ad3e-4314-8273-b778d6515b66,stocky.cn,resell,,,medium,low,6,阿里云计算有限公司（万网）,,,21/08/2026 05:33
 2efcece2-118e-4f63-991d-4df8ecd6ccba,fundament.cn,resell,,,low,low,9,阿里云计算有限公司（万网）,,,09/08/2026 10:59
-9ed637e9-07b0-494a-b085-9f2d77760fcd,affiliates.cn,resell,,,low,low,10,Dynadot Inc,,,21/09/2026 06:56
-c0acc729-0ab9-4b6a-90bc-68c5110057d0,fineart.cn,resell,,,medium,low,8,,,,20/09/2026 09:44
-fa37d780-0797-4a03-ad02-95d6d34499da,keyboards.cn,resell,,,low,low,9,Dynadot Inc,,,20/09/2026 13:46
-89cd2f45-4b5b-48f8-a76f-a84d68f4f0eb,trailer.cn,resell,,,low,low,7,Dynadot Inc,,,22/08/2026 18:43
-06b6c72d-304a-4036-b623-11f623d864e5,spaces.cn,resell,,,low,low,6,Dynadot Inc,,,17/09/2026 14:59
-80c439f9-d871-4b28-8a13-30cfd2c4244b,englishmuffin.cn,available,,,high,low,14,,,,
+89cd2f45-4b5b-48f8-a76f-a84d68f4f0eb,trailer.cn,resell,,,high,low,7,Dynadot Inc,,,22/08/2026 18:43
 1c69d27d-0287-4433-b622-92996d8061ca,came.cn,resell,,,high,low,4,广东时代互联科技有限公司,,,
-55fc1d1b-00f9-4318-a2f7-89f7f38f460d,ricebubbles.cn,available,,,medium,low,12,,,,
-0a485990-fd2c-4fd9-b70d-be182149e000,watches.cn,resell,,,medium,low,7,Dynadot Inc,,,16/09/2026 10:07
-59547ab5-11b2-4c44-8d8f-f3a7b7b8383b,carloan.cn,resell,,,low,low,8,,,,21/09/2026 05:37
-50776fa9-b71a-4f21-9a64-7b7ba929eb20,ilostmybackpack.cn,available,,,medium,low,18,,,,
-af0ec3f9-234e-4ca1-ae73-d3f831846e91,comes.cn,resell,,,low,low,5,北京网尊科技有限公司,,,17/09/2026 22:46
-546dd168-ef73-4e9e-a24e-31d6426d46f5,clueless.cn,resell,,,low,low,8,杭州电商互联科技有限公司（原杭州创业互联科技有限公司）,,,12/08/2026 13:05
-ab850196-3580-415d-b440-d8232f53e090,swiss.cn,resell,,,low,low,5,阿里云计算有限公司（万网）,,,19/09/2026 06:01
-9494cfbf-2522-4b4d-aa0e-d4fdd8e09b6d,gregorio.cn,available,,,medium,low,8,,,,
-55d49d06-9e9e-499e-8868-95bfe83f0486,rumination.cn,resell,,,low,low,10,阿里云计算有限公司（万网）,,,03/09/2026 11:31
-fae8c130-a54c-4383-a999-63e3ef0286be,arcade.cn,resell,,,low,low,6,,,,20/09/2026 01:36
-ae01046c-9a60-4927-b5b9-bc3f9863edc7,isleofpurbeck.cn,available,,,medium,low,15,,,,
-15ebccde-13ab-4412-868b-18ef5645c121,rotary.cn,resell,,,low,low,6,Dynadot Inc,,,04/09/2026 17:37
-d3f30fff-7312-44d0-a39e-411178512a15,idodeclare.cn,available,,,medium,low,12,,,,
-24b3fe39-cd71-4b86-bbaa-3c35220fca21,seasonal.cn,resell,,,low,low,8,Dynadot Inc,,,10/09/2026 00:58
-293959af-4cbd-45d5-82e0-be9cacbf0110,controller.cn,resell,,,low,low,10,,,,16/09/2026 23:11
+546dd168-ef73-4e9e-a24e-31d6426d46f5,clueless.cn,resell,,,medium,low,8,杭州电商互联科技有限公司（原杭州创业互联科技有限公司）,,,12/08/2026 13:05
+9494cfbf-2522-4b4d-aa0e-d4fdd8e09b6d,gregorio.cn,available,,,high,low,8,,,,
+55d49d06-9e9e-499e-8868-95bfe83f0486,rumination.cn,resell,,,medium,low,10,阿里云计算有限公司（万网）,,,03/09/2026 11:31
+15ebccde-13ab-4412-868b-18ef5645c121,rotary.cn,resell,,,high,low,6,Dynadot Inc,,,04/09/2026 17:37
+24b3fe39-cd71-4b86-bbaa-3c35220fca21,seasonal.cn,resell,,,high,low,8,Dynadot Inc,,,10/09/2026 00:58
 da972ccd-4937-4d47-9756-c30603d8a742,tush.cn,resell,,,low,low,4,成都西维数码科技有限公司,,,09/08/2026 11:45
-067d8d3c-64ee-4f28-bd7d-6f8c9102d460,resistant.cn,resell,,,low,low,9,"GoDaddy.com,LLC",,,09/09/2026 15:18
-b060d0b4-096f-4b2b-96ec-dddd69f3b5ba,pearls.cn,resell,,,low,low,6,Dynadot Inc,,,19/09/2026 03:47
-1cf8b0ef-2f31-4fbf-b502-dde813b9aeac,collections.cn,resell,,,low,low,11,Dynadot Inc,,,17/09/2026 22:06
-eeed1443-768c-4f77-93b5-7f63ac128dfe,caliorbust.cn,available,,,medium,low,12,,,,
-0b5d41ab-dc3e-41df-b45e-077dcf33d0b8,autograph.cn,resell,,,low,low,9,,,,21/09/2026 06:37
-27eb0e15-4034-4c83-bff7-f36a5ac89232,damp.cn,resell,,,low,low,4,阿里巴巴云计算（北京）有限公司,,,13/08/2026 16:39
-5c16ab9b-2ee9-44f6-a5a6-a5e4a46e985d,chinesenoodles.cn,available,,,medium,low,15,,,,
-1f3482f8-e373-4d10-ac66-cc6eb375494f,ihavediabetes.cn,available,,,medium,low,15,,,,
-0b9d1d7e-e434-4e56-82b0-d53ad109e224,imustgo.cn,available,,,medium,low,9,,,,
-2d9ec0c8-27b9-4d42-97b2-fb619de98116,bipolar.cn,resell,,,low,low,7,Dynadot Inc,,,10/08/2026 05:30
-fb24a02d-f76a-4358-8923-fab71c79ada8,isleofportland.cn,available,,,medium,low,16,,,,
-4c054783-4f5e-423e-9aa5-bb2824c2adae,soups.cn,resell,,,low,low,5,Dynadot Inc,,,19/09/2026 22:44
-f82489ec-49a3-48af-a6f1-e32531008799,wikipedias.cn,available,,,medium,low,10,,,,
-fff23b2c-c052-45a3-a671-d3fe3c141563,shareholders.cn,resell,,,low,low,12,Dynadot Inc,,,17/09/2026 15:53
-587f2a2b-b8f6-40a6-8796-aa9a8d582bd5,nurses.cn,resell,,,low,low,6,Dynadot Inc,,,19/09/2026 19:32
-7526bde8-874e-4c1d-ae34-c57e292e30e3,marketable.cn,resell,,,medium,low,10,阿里云计算有限公司（万网）,,,24/08/2026 16:04
-68809efe-4e28-4ee5-8bdc-b9f25e020d03,alien.cn,resell,,,low,medium,5,Dynadot Inc,,,
-d5d55d2d-e3bb-4349-ad5b-40bd5eb4d2e7,theatres.cn,resell,,,low,low,8,Dynadot Inc,,,20/09/2026 19:41
-5708a60a-8ce2-40da-94f1-ca69a9be1e24,scuba.cn,resell,,,low,low,5,,,,19/09/2026 22:55
-2607a4d4-0187-470e-b6b5-08c03753386a,ststephen.cn,available,,,high,low,10,,,,
-f3195f8d-2bd0-4fdf-97d0-9b2732135cca,frenchrepublic.cn,available,,,medium,medium,15,,,,
-49e22862-b91f-4755-9b49-ebce8b807736,calculators.cn,resell,,,low,low,11,WEST263 INTERNATIONAL LIMITED,,,18/09/2026 18:59
-f4e91673-516c-4a9c-89cf-1efe9172b873,officials.cn,resell,,,low,low,9,,,,17/09/2026 12:28
-89124f23-7133-4395-8e73-20048257c622,facial.cn,resell,,,low,low,6,Dynadot Inc,,,17/08/2026 20:25
-634c513b-a3f3-45f2-8e89-14e5e23a7176,ineedaguide.cn,available,,,medium,low,14,,,,
-b94e2521-1172-42da-8245-9a59f69af3f8,southkorea.cn,available,,,high,low,11,,,,
+067d8d3c-64ee-4f28-bd7d-6f8c9102d460,resistant.cn,resell,,,high,low,9,"GoDaddy.com,LLC",,,09/09/2026 15:18
+27eb0e15-4034-4c83-bff7-f36a5ac89232,damp.cn,resell,,,medium,low,4,阿里巴巴云计算（北京）有限公司,,,13/08/2026 16:39
+2d9ec0c8-27b9-4d42-97b2-fb619de98116,bipolar.cn,resell,,,high,low,7,Dynadot Inc,,,10/08/2026 05:30
+f82489ec-49a3-48af-a6f1-e32531008799,wikipedias.cn,available,,,low,low,10,,,,
+7526bde8-874e-4c1d-ae34-c57e292e30e3,marketable.cn,resell,,,high,low,10,阿里云计算有限公司（万网）,,,24/08/2026 16:04
+68809efe-4e28-4ee5-8bdc-b9f25e020d03,alien.cn,resell,,,high,medium,5,Dynadot Inc,,,
+89124f23-7133-4395-8e73-20048257c622,facial.cn,resell,,,high,low,6,Dynadot Inc,,,17/08/2026 20:25
 ed742d6b-4537-44e2-8d9d-52861a2f491f,destination.cn,resell,,,high,low,11,Dynadot Inc,,,19/09/2026 23:13
-b239b409-fa36-4be2-9309-93c7abb37b08,westbranch.cn,available,,,medium,low,11,,,,
-a9c115a0-c404-4162-847b-2e683b6d001c,sporting.cn,resell,,,low,low,8,Dynadot Inc,,,09/08/2026 18:15
-b2fd79ee-6440-49b7-a5d0-5b8174ae7fc0,icons.cn,resell,,,medium,low,5,Dynadot Inc,,,
-b57e19ba-c5d4-4a7b-96b5-404a91393682,stimulus.cn,resell,,,low,low,8,厦门市中资源网络服务有限公司,,,10/09/2026 20:39
-1e3beffe-fe6e-42c9-9e43-0d8f294458f1,guptaempire.cn,available,,,medium,low,12,,,,
-86863d6d-01c8-416d-aa70-8d76bbb8faf9,attest.cn,resell,,,medium,low,6,阿里云计算有限公司（万网）,,,24/08/2026 15:02
-44e02c70-236f-4c6b-a874-ff757caa0eba,iwouldratherdie.cn,available,,,medium,low,18,,,,
-0cb291b0-207d-465f-beb4-0e318de7e634,cheddarcheese.cn,available,,,medium,low,14,,,,
-50df92bf-7ee5-4bb9-ba43-36601691b4dd,appliance.cn,resell,,,low,low,9,,,,19/09/2026 21:44
+a9c115a0-c404-4162-847b-2e683b6d001c,sporting.cn,resell,,,high,low,8,Dynadot Inc,,,09/08/2026 18:15
+b2fd79ee-6440-49b7-a5d0-5b8174ae7fc0,icons.cn,resell,,,high,low,5,Dynadot Inc,,,
+b57e19ba-c5d4-4a7b-96b5-404a91393682,stimulus.cn,resell,,,high,low,8,厦门市中资源网络服务有限公司,,,10/09/2026 20:39
+86863d6d-01c8-416d-aa70-8d76bbb8faf9,attest.cn,resell,,,high,low,6,阿里云计算有限公司（万网）,,,24/08/2026 15:02
 a5fba07b-8f99-4da4-8f45-23d4891ffba7,supplies.cn,resell,,,medium,low,8,Dynadot Inc,,,
-9ed28860-edc2-40e5-96f8-48f110c24a48,cumlaude.cn,resell,,,low,low,9,成都西维数码科技有限公司,,,13/08/2026 10:23
-1dc1e466-e490-4f67-a9ba-6e97fbff8dbc,peacecorps.cn,available,,,high,low,11,,,,
-46b20d0d-6553-4037-a4a8-3455880e8357,foremost.cn,resell,,,medium,medium,8,Dynadot Inc,,,18/08/2026 05:18
-77b3644d-8dd6-4a72-adb3-0f57accb1e2f,orders.cn,resell,,,low,low,6,Dynadot Inc,,,18/09/2026 14:04
+46b20d0d-6553-4037-a4a8-3455880e8357,foremost.cn,resell,,,high,medium,8,Dynadot Inc,,,18/08/2026 05:18
 8ef82da8-135f-4022-9bd9-8dab6dbd9882,westcott.cn,available,,,medium,low,8,,,,
-078dc8bf-6ea9-4749-a440-71ae88e888e9,academyawards.cn,available,,,low,low,14,,,,
-6aec4eca-5883-404d-ad74-2ef2b554fd0f,earthly.cn,resell,,,low,low,7,成都垦派科技有限公司,,,14/08/2026 22:42
-b42c34aa-b9a2-4f23-a768-1ba0399e7d14,funfair.cn,resell,,,high,low,7,广东金万邦科技投资有限公司,,,21/09/2026 16:09
-cfd89e1f-fa3a-47ef-afd5-b4b685288efd,godonlyknows.cn,available,,,medium,low,14,,,,
-29ce69e0-8d1d-4af8-8cd4-ddae168fdfd2,frenchquarter.cn,available,,,medium,low,14,,,,
-a67730fa-55af-4f3f-afac-76948f3ef13b,ambrosia.cn,resell,,,low,low,8,,,,18/09/2026 17:26
-eb173df0-ec2c-4fce-9189-5b54a7b25cbb,sock.cn,resell,,,low,low,4,,,,17/09/2026 21:43
-27fc3fcb-cde7-4a2b-af47-123feef06d24,bizarre.cn,resell,,,low,low,7,,,,22/09/2026 21:11
-869e6539-99b3-4031-b0f6-59fced0111ad,puzzles.cn,resell,,,low,low,7,Dynadot Inc,,,18/09/2026 10:35
-35e1b9f8-19e7-4a75-8567-aba7550c6dee,childjesus.cn,available,,,medium,low,11,,,,
-b5d29775-ced7-4eac-9bd3-e7e41d24dae8,guerilla.cn,resell,,,low,low,8,阿里云计算有限公司（万网）,,,22/08/2026 10:15
-5bed5216-5022-4a65-b54b-36e0561efb69,ineedtovomit.cn,available,,,medium,low,15,,,,
-27a37c12-38b5-46f7-9ded-fe1152c0f539,superhuman.cn,resell,,,medium,low,10,阿里云计算有限公司（万网）,,,11/09/2026 02:16
-b8a8f90b-c520-4106-805c-9d43811ed650,vscogirl.cn,available,,,high,low,9,,,,
-2310c663-d996-4a15-934a-6b04d0c0b596,greekalphabet.cn,available,,,medium,low,14,,,,
-468b6ba8-9a30-41f4-8a4b-3e1377d8d914,houses.cn,resell,,,low,low,6,Dynadot Inc,,,17/09/2026 21:10
-65343725-61cb-45af-8cca-806036a7381a,artesian.cn,resell,,,low,low,8,江苏邦宁科技有限公司,,,06/08/2026 22:39
-80934be3-34b1-4ed3-ab08-631f12fe6514,metabolic.cn,resell,,,low,low,9,成都西维数码科技有限公司,,,24/08/2026 21:26
-0d1e3b3f-ea1a-434b-8960-08ae5b39b55c,fixitagaintony.cn,available,,,medium,low,17,,,,
-16eac721-0055-4477-8c7d-4df965f1db9f,irishhospitality.cn,available,,,high,low,17,,,,
-8badd980-4faf-40d4-82ac-8a17b0ed12dd,systems.cn,resell,,,low,low,7,Dynadot Inc,,,19/09/2026 14:21
-f823ba73-f864-4804-a757-72b1944d94af,surfcity.cn,available,,,high,low,9,,,,
-e3ff7632-dd33-415f-928d-e1b62a01556c,webs.cn,resell,,,low,low,4,,,,20/09/2026 10:33
-41d42f45-f62b-48de-87ce-4d4923e7c1a0,upscale.cn,resell,,,medium,low,7,Dynadot Inc,,,12/09/2026 23:19
-bb1b0954-59ca-42cd-9758-7d05978a47e2,laptops.cn,resell,,,low,low,7,Dynadot Inc,,,20/09/2026 12:33
-8006e68e-77e3-4337-b0d3-92fd62c204d0,purses.cn,resell,,,low,low,6,Dynadot Inc,,,20/09/2026 11:07
+6aec4eca-5883-404d-ad74-2ef2b554fd0f,earthly.cn,resell,,,high,low,7,成都垦派科技有限公司,,,14/08/2026 22:42
+b5d29775-ced7-4eac-9bd3-e7e41d24dae8,guerilla.cn,resell,,,high,low,8,阿里云计算有限公司（万网）,,,22/08/2026 10:15
+27a37c12-38b5-46f7-9ded-fe1152c0f539,superhuman.cn,resell,,,high,low,10,阿里云计算有限公司（万网）,,,11/09/2026 02:16
+65343725-61cb-45af-8cca-806036a7381a,artesian.cn,resell,,,medium,low,8,江苏邦宁科技有限公司,,,06/08/2026 22:39
+80934be3-34b1-4ed3-ab08-631f12fe6514,metabolic.cn,resell,,,high,low,9,成都西维数码科技有限公司,,,24/08/2026 21:26
+41d42f45-f62b-48de-87ce-4d4923e7c1a0,upscale.cn,resell,,,high,low,7,Dynadot Inc,,,12/09/2026 23:19
 673ddbe0-eeb8-4f79-86a4-e642a6b9d0db,wore.cn,resell,,,medium,low,4,北京网尊科技有限公司,,,
-2977d277-eea2-44dd-9d44-baadb4c94268,murine.cn,resell,,,low,low,6,厦门易名科技股份有限公司,,,03/09/2026 11:04
-4f307cac-1c5a-49eb-8e2c-ed77e9a28422,stpauls.cn,available,,,high,low,8,,,,
-46e0799c-772c-4ae2-81cf-9742ab05ce7c,totals.cn,resell,,,low,low,6,,,,20/09/2026 12:03
-5c99c484-66eb-463b-a3d9-5892cdda0ec2,revenues.cn,resell,,,low,low,8,,,,18/09/2026 08:51
-3fbadd9c-28f5-447d-af35-89af681e33d0,germanchamomile.cn,available,,,high,low,16,,,,
-2eb3eaae-e409-4e4f-bcc9-e333bff0c533,supplement.cn,resell,,,low,low,10,,,,17/09/2026 06:43
-0414325d-03bd-4c92-b2c6-5d453a0a18a0,sneaker.cn,resell,,,low,low,7,Dynadot Inc,,,11/08/2026 16:16
-2e6af27c-2ad5-40eb-ab24-ba07081f7eab,systemic.cn,resell,,,low,low,8,厦门市中资源网络服务有限公司,,,11/09/2026 06:46
-bd3e3c55-20b0-4a68-9857-ccb7b9addfbc,ihaveaquestion.cn,available,,,medium,low,17,,,,
-ecf06480-5e9d-4f0c-8c0c-856ed16cde3e,lordknows.cn,available,,,medium,low,10,,,,
-8d4fe857-4224-433b-b475-a18410548536,dates.cn,resell,,,low,low,5,Dynadot Inc,,,18/09/2026 18:40
-472d5e9a-a64b-45fe-84c1-a333df049394,worldwariii.cn,available,,,medium,low,13,,,,
-092ded5e-e979-42c3-9e56-0999d5ea04b0,nasasupported.cn,available,,,medium,low,14,,,,
-b7d10a4b-2535-47d3-b83b-2d58792fee64,infra.cn,resell,,,medium,low,5,Megazone Corp.,,,15/09/2026 08:17
-612a135c-4ec0-4f87-85ff-5a8f5bfd0840,gabby.cn,resell,,,low,low,5,厦门市中资源网络服务有限公司,,,12/08/2026 03:18
-e03e8f39-1ca7-4d4e-85b3-d2993e6b96f3,dependable.cn,resell,,,low,low,10,阿里云计算有限公司（万网）,,,14/08/2026 02:04
-866cae6b-2cac-43f2-aeda-bbbb6fe6192a,established.cn,resell,,,medium,low,11,成都西维数码科技有限公司,,,
-91c7f8b8-1bcd-4786-8583-7b575842d23c,habitable.cn,resell,,,low,low,9,Megazone Corp.,,,20/08/2026 21:25
-14d15da3-0b56-40bc-9ab8-1225c8fdceb0,comedians.cn,resell,,,low,low,9,Dynadot Inc,,,19/09/2026 23:33
-85130278-404f-4967-a710-0e3a89fb225f,versed.cn,resell,,,low,low,6,浙江贰贰网络有限公司,,,13/09/2026 04:29
-facbbef3-ac68-48ba-8c14-67d10e24fa2d,savvy.cn,resell,,,medium,low,5,Dynadot Inc,,,12/09/2026 07:40
-e9c3b14e-0ef9-45e1-9ed3-b6c1021fe86d,stpetersburgh.cn,available,,,medium,low,15,,,,
-99a25d4d-d374-4494-bc89-234af84ddcdf,brainwaves.cn,resell,,,low,low,10,厦门三五互联信息有限公司,,,20/09/2026 12:58
-ba0153f4-bd50-46da-9dbe-450a89e76425,hanker.cn,resell,,,low,low,6,阿里云计算有限公司（万网）,,,24/08/2026 08:57
-de827566-599b-4f85-aa41-c571b2240f61,publishers.cn,resell,,,low,low,10,Dynadot Inc,,,20/09/2026 01:32
-a4a9e83c-59bc-4522-9315-cba7ac19553a,prompter.cn,resell,,,low,low,8,,,,21/09/2026 06:13
-d0555c81-5dff-4c3b-a35e-a4a7f0bbf17f,adventures.cn,resell,,,low,low,10,Dynadot Inc,,,18/09/2026 17:22
-4553cf31-405b-4630-a530-fd8cbf8a19cf,masterofscience.cn,available,,,medium,low,17,,,,
-919d68d3-e07a-4256-a7ef-6fd5a65ac6aa,sthelena.cn,available,,,high,low,10,,,,
-ab988216-1bdb-40c8-878c-1e38f1a04508,midway.cn,resell,,,low,low,6,Dynadot Inc,,,11/08/2026 23:58
-21ed42bc-6ebf-468c-a9ca-3522fb8ba986,responder.cn,resell,,,low,low,9,,,,19/09/2026 12:12
-b0502b1c-59f7-48b9-80a4-70dd27934c39,anxiety.cn,resell,,,low,low,7,,,,19/09/2026 15:59
-0a5b836c-866b-4f34-9afb-07b9315ef862,midseptember.cn,available,,,high,low,13,,,,
-c79f7f1d-ed4f-4e52-b517-f6ec28830c23,yards.cn,resell,,,low,low,5,WEST263 INTERNATIONAL LIMITED,,,18/09/2026 01:53
-d3768854-d986-4dcb-ae84-66dc723eed63,jewels.cn,resell,,,medium,low,6,Dynadot Inc,,,19/09/2026 23:16
-60b94192-b8c9-4bb8-a59c-f246e9408ca5,scholar.cn,resell,,,medium,low,7,,,,20/09/2026 16:28
-ee11c6a7-7fb2-43ec-a32a-3e96ab711233,tramp.cn,resell,,,low,low,5,商中在线科技股份有限公司,,,10/09/2026 22:07
-f6dc34a0-7a28-4e5e-b61d-37be91bd90c5,sheikh.cn,resell,,,low,low,6,,,,19/09/2026 23:25
-b2b01d4b-d0d8-4703-8a03-edc54d2fd343,unitedstates.cn,available,,,medium,high,13,,,,
-d41de594-ae75-408d-a20d-0f5023951e43,arrived.cn,resell,,,low,low,7,厦门三五互联信息有限公司,,,17/09/2026 14:03
+2977d277-eea2-44dd-9d44-baadb4c94268,murine.cn,resell,,,medium,low,6,厦门易名科技股份有限公司,,,03/09/2026 11:04
+0414325d-03bd-4c92-b2c6-5d453a0a18a0,sneaker.cn,resell,,,high,low,7,Dynadot Inc,,,11/08/2026 16:16
+2e6af27c-2ad5-40eb-ab24-ba07081f7eab,systemic.cn,resell,,,high,low,8,厦门市中资源网络服务有限公司,,,11/09/2026 06:46
+b7d10a4b-2535-47d3-b83b-2d58792fee64,infra.cn,resell,,,high,low,5,Megazone Corp.,,,15/09/2026 08:17
+612a135c-4ec0-4f87-85ff-5a8f5bfd0840,gabby.cn,resell,,,high,low,5,厦门市中资源网络服务有限公司,,,12/08/2026 03:18
+e03e8f39-1ca7-4d4e-85b3-d2993e6b96f3,dependable.cn,resell,,,high,low,10,阿里云计算有限公司（万网）,,,14/08/2026 02:04
+866cae6b-2cac-43f2-aeda-bbbb6fe6192a,established.cn,resell,,,high,low,11,成都西维数码科技有限公司,,,
+91c7f8b8-1bcd-4786-8583-7b575842d23c,habitable.cn,resell,,,high,low,9,Megazone Corp.,,,20/08/2026 21:25
+85130278-404f-4967-a710-0e3a89fb225f,versed.cn,resell,,,medium,low,6,浙江贰贰网络有限公司,,,13/09/2026 04:29
+facbbef3-ac68-48ba-8c14-67d10e24fa2d,savvy.cn,resell,,,high,low,5,Dynadot Inc,,,12/09/2026 07:40
+ba0153f4-bd50-46da-9dbe-450a89e76425,hanker.cn,resell,,,medium,low,6,阿里云计算有限公司（万网）,,,24/08/2026 08:57
+ab988216-1bdb-40c8-878c-1e38f1a04508,midway.cn,resell,,,high,low,6,Dynadot Inc,,,11/08/2026 23:58
+ee11c6a7-7fb2-43ec-a32a-3e96ab711233,tramp.cn,resell,,,high,low,5,商中在线科技股份有限公司,,,10/09/2026 22:07
 add83998-7918-4dfe-b188-afc8f9356c40,rotfl.cn,available,,,medium,low,5,,,,
-ae287d4b-3060-4bb6-83e2-f176d269eb1a,spacial.cn,resell,,,medium,medium,7,成都垦派科技有限公司,,,10/09/2026 15:08
-a8a01e6e-cb1a-41a1-b1ca-26f2a998c1a2,manufacturing.cn,resell,,,low,low,13,Dynadot Inc,,,19/09/2026 07:25
-159a39db-8c16-4f43-9c86-575a7dbed74b,acoustic.cn,resell,,,low,low,8,Dynadot Inc,,,
-d5dd42f0-5339-4cf3-be02-e227a8ee32a0,irestmycase.cn,available,,,medium,low,14,,,,
-4c84c2ad-b33e-4b39-bd99-a2b39fa69d9b,partial.cn,resell,,,low,low,7,"GoDaddy.com,LLC",,,08/09/2026 02:01
-8200f06b-515c-43df-be51-7bbb1d8fcb05,spherical.cn,resell,,,low,low,9,厦门市中资源网络服务有限公司,,,08/08/2026 10:21
-8f10bb3d-5c18-45cc-bfc6-634a44701555,oblique.cn,resell,,,low,low,7,阿里云计算有限公司（万网）,,,14/08/2026 05:11
-3a46f5d1-6cf3-47f0-a2ee-4aca67359443,barns.cn,resell,,,low,low,5,,,,20/09/2026 22:46
-b780d8b7-e8cb-4cb6-a0fe-b0df2e53052b,ovens.cn,resell,,,low,low,5,Dynadot Inc,,,20/09/2026 10:00
-7ae74a2c-7f2f-4c15-bd2a-0b1bd8eff3da,jewnose.cn,available,,,medium,low,8,,,,
-82de4654-fa6f-4536-8809-1cf602e363de,balancing.cn,resell,,,low,low,9,,,,21/09/2026 20:56
-668ea9d0-602a-4007-8c36-f658a9bb0043,substance.cn,resell,,,low,low,9,Dynadot Inc,,,14/09/2026 23:41
-5c503c90-f4ca-4cb6-a25f-994528d1de02,bacteria.cn,resell,,,low,low,8,,,,21/09/2026 16:28
-eb20706d-4e6b-45ba-a5fd-0dc9b76f6773,vitamins.cn,resell,,,low,low,8,Dynadot Inc,,,19/09/2026 23:20
-4241df96-1fee-4659-891d-4bb308cab0ab,unbiased.cn,resell,,,low,low,8,阿里云计算有限公司（万网）,,,12/09/2026 01:52
-50c0f8bb-0fc4-4b85-b26e-60b95c27bb0f,technical.cn,resell,,,low,low,9,Dynadot Inc,,,19/09/2026 17:24
-3d879593-6b22-4280-8321-c6dde94096de,messages.cn,resell,,,medium,low,8,Dynadot Inc,,,18/09/2026 22:11
-f39aa37e-1697-4853-aea2-d99fdd8e469e,specified.cn,resell,,,medium,medium,9,阿里云计算有限公司（万网）,,,10/09/2026 15:25
-7ada89a8-8c11-4184-a9c3-d97ecfb4dd05,weddings.cn,resell,,,low,low,8,Dynadot Inc,,,20/09/2026 01:47
-ec18ecd8-915d-476c-b1ec-399ea6ca2fbd,countyofhawaii.cn,available,,,medium,low,16,,,,
-9112f30b-39e3-4ae1-a384-b682ca370d78,teams.cn,resell,,,low,low,5,Dynadot Inc,,,17/09/2026 19:00
-e42dd651-1197-4194-bc46-549af8be342f,tabascosauce.cn,available,,,medium,low,13,,,,
-2c9060b7-3a66-43af-bbf9-936cdecef19a,colon.cn,resell,,,low,low,5,,,,20/09/2026 15:16
-ff9befc8-4620-4484-b286-c8b5ffed1dff,tollfree.cn,resell,,,low,low,9,Dynadot Inc,,,11/09/2026 16:50
-7b80a2a5-6f74-4627-9893-c08dba44c8a7,events.cn,resell,,,medium,low,6,Dynadot Inc,,,
-c697b40e-ac2c-4f44-86ca-53db6bc6f2dd,newzealand.cn,available,,,high,high,11,,,,
-1c5fe50b-5d3d-46c1-90d3-483c9ee27cf8,animator.cn,resell,,,low,low,8,,,,19/09/2026 09:13
-bb83f0b7-19fe-4975-9945-2aa8c6002ca3,iwillyeah.cn,available,,,medium,low,11,,,,
-ba6e1ecf-c55a-49f3-aeb5-5051867c974f,equestrian.cn,resell,,,medium,low,10,Dynadot Inc,,,17/08/2026 11:42
-ea460dce-9b36-4499-ac73-cdee783ad3fe,asthma.cn,resell,,,low,low,6,,,,20/09/2026 17:24
-8d16bcea-a0e9-4887-bd7c-34311a6adc80,sultry.cn,resell,,,low,low,6,腾讯云计算（北京）有限责任公司,,,10/09/2026 20:31
-66f9007e-15f7-4baa-ac44-3ff479d8368d,cups.cn,resell,,,low,low,4,厦门易名科技股份有限公司,,,18/09/2026 07:17
-357b1acf-45b6-4dc7-9d60-a4ad84757a61,sexiness.cn,resell,,,low,low,8,,,,18/09/2026 16:14
-c96a6ab5-c6c7-4d0c-afdd-20ce9adb311f,ihaveatoothache.cn,available,,,medium,low,18,,,,
-0f2248a4-c7fe-4b5c-a42a-70ed7d3750d2,ihaveafever.cn,available,,,medium,low,14,,,,
-1d10a565-ff8d-449f-a496-f0f6ce628c21,spiritofgod.cn,available,,,medium,low,13,,,,
-4a11b745-40dd-4a36-88f2-9624a1aebf3b,assets.cn,resell,,,low,low,6,,,,20/09/2026 16:21
+ae287d4b-3060-4bb6-83e2-f176d269eb1a,spacial.cn,resell,,,high,medium,7,成都垦派科技有限公司,,,10/09/2026 15:08
+159a39db-8c16-4f43-9c86-575a7dbed74b,acoustic.cn,resell,,,high,low,8,Dynadot Inc,,,
+4c84c2ad-b33e-4b39-bd99-a2b39fa69d9b,partial.cn,resell,,,high,low,7,"GoDaddy.com,LLC",,,08/09/2026 02:01
+8200f06b-515c-43df-be51-7bbb1d8fcb05,spherical.cn,resell,,,high,low,9,厦门市中资源网络服务有限公司,,,08/08/2026 10:21
+8f10bb3d-5c18-45cc-bfc6-634a44701555,oblique.cn,resell,,,high,low,7,阿里云计算有限公司（万网）,,,14/08/2026 05:11
+668ea9d0-602a-4007-8c36-f658a9bb0043,substance.cn,resell,,,high,low,9,Dynadot Inc,,,14/09/2026 23:41
+4241df96-1fee-4659-891d-4bb308cab0ab,unbiased.cn,resell,,,high,low,8,阿里云计算有限公司（万网）,,,12/09/2026 01:52
+f39aa37e-1697-4853-aea2-d99fdd8e469e,specified.cn,resell,,,high,medium,9,阿里云计算有限公司（万网）,,,10/09/2026 15:25
+7b80a2a5-6f74-4627-9893-c08dba44c8a7,events.cn,resell,,,high,low,6,Dynadot Inc,,,
+ba6e1ecf-c55a-49f3-aeb5-5051867c974f,equestrian.cn,resell,,,high,low,10,Dynadot Inc,,,17/08/2026 11:42
+8d16bcea-a0e9-4887-bd7c-34311a6adc80,sultry.cn,resell,,,medium,low,6,腾讯云计算（北京）有限责任公司,,,10/09/2026 20:31
 18dfe7c3-c866-4fd5-8d44-6245cb3f2164,gears.cn,resell,,,medium,low,5,Dynadot Inc,,,
-e43ef9e5-8ffc-4b98-8a03-b84c1eca9f40,generaltaochicken.cn,available,,,high,low,19,,,,
-642c265c-d920-46cb-933e-51be1bb079cf,itellalie.cn,available,,,medium,low,12,,,,
-64665bdd-2a1d-46bd-9d5f-84a261db031e,chamber.cn,resell,,,low,low,7,,,,22/09/2026 23:10
-3db9c072-58af-4c07-8ae9-830e09207b76,selkirk.cn,resell,,,low,low,7,,,,18/09/2026 05:50
-ff2efc99-c303-4bf4-8c6c-c796db0965ae,neural.cn,resell,,,low,low,6,成都西维数码科技有限公司,,,03/09/2026 16:09
-79bc002f-dff9-4147-b19e-83b900f471d7,olympicflame.cn,available,,,high,low,13,,,,
-18927892-728e-4d36-a9ab-80ae7ed9e712,monarch.cn,resell,,,medium,medium,7,Dynadot Inc,,,10/09/2026 14:59
-c535aa1d-5cc4-4a55-b669-755992ccce75,symmetric.cn,resell,,,low,low,9,厦门市中资源网络服务有限公司,,,11/09/2026 06:03
-d5932760-5248-434e-805a-890638b636fb,barbarian.cn,resell,,,low,low,9,厦门市中资源网络服务有限公司,,,08/08/2026 15:26
-1498b83f-4f1c-47d1-8ac3-4cd544875c7f,godsavetheking.cn,available,,,high,low,17,,,,
-9c891c49-19d3-4af2-abef-b420491d83c0,oriental.cn,resell,,,medium,low,8,厦门易名科技股份有限公司,,,04/09/2026 17:51
-17a9dcff-f7eb-4132-b0cc-87149b535b80,godtheholyghost.cn,available,,,medium,low,18,,,,
-b2838d8b-db65-4f6d-9090-6ecaa016a1d1,waterproof.cn,resell,,,medium,medium,10,Dynadot Inc,,,09/09/2026 09:48
-983464e0-647c-43be-8f1f-c85c7040eeb8,newborn.cn,resell,,,low,low,7,Dynadot Inc,,,03/09/2026 16:41
+ff2efc99-c303-4bf4-8c6c-c796db0965ae,neural.cn,resell,,,high,low,6,成都西维数码科技有限公司,,,03/09/2026 16:09
+18927892-728e-4d36-a9ab-80ae7ed9e712,monarch.cn,resell,,,high,medium,7,Dynadot Inc,,,10/09/2026 14:59
+c535aa1d-5cc4-4a55-b669-755992ccce75,symmetric.cn,resell,,,high,low,9,厦门市中资源网络服务有限公司,,,11/09/2026 06:03
+d5932760-5248-434e-805a-890638b636fb,barbarian.cn,resell,,,medium,low,9,厦门市中资源网络服务有限公司,,,08/08/2026 15:26
+9c891c49-19d3-4af2-abef-b420491d83c0,oriental.cn,resell,,,high,low,8,厦门易名科技股份有限公司,,,04/09/2026 17:51
+b2838d8b-db65-4f6d-9090-6ecaa016a1d1,waterproof.cn,resell,,,high,medium,10,Dynadot Inc,,,09/09/2026 09:48
+983464e0-647c-43be-8f1f-c85c7040eeb8,newborn.cn,resell,,,high,low,7,Dynadot Inc,,,03/09/2026 16:41
 4a83899b-ec59-457d-bac4-0f156cef13ea,affiliation.cn,resell,,,high,low,11,厦门市中资源网络服务有限公司,,,
-a492b6ef-9db0-4128-81a7-8b8be0ab8fdf,tips.cn,resell,,,medium,low,4,Dynadot Inc,,,19/09/2026 17:44
-eb4b39f0-766c-46ed-89d9-16c19b1cef71,irish.cn,resell,,,medium,low,5,Dynadot Inc,,,22/08/2026 09:54
-868d0369-958d-4569-a471-c7b585c90c6a,rollout.cn,resell,,,medium,low,8,阿里云计算有限公司（万网）,,,17/09/2026 04:50
-3e29e9af-c2ec-46fb-9443-72187f47359a,englishspeaking.cn,available,,,medium,low,16,,,,
-842394f9-acac-4a92-b161-d5db0293d7d4,voluptuous.cn,resell,,,low,low,10,成都西维数码科技有限公司,,,10/08/2026 20:39
-0be19a4e-6e59-42cf-b24a-780f5443f727,culinary.cn,resell,,,low,low,8,Dynadot Inc,,,19/09/2026 15:04
-868e6f7a-94bb-46ff-9983-9c58a5267490,iamhivpositive.cn,available,,,medium,low,17,,,,
-b506a657-7d9f-458a-bac9-9a3e0f93d990,athenaeum.cn,resell,,,low,low,9,,,,20/09/2026 20:40
-3120d728-8a70-41d2-8071-dfd8be15d239,idoubtit.cn,available,,,medium,low,10,,,,
-fd8fa65d-b0ac-45e0-83c4-bcd1b6f05641,merchants.cn,resell,,,low,low,9,Dynadot Inc,,,18/09/2026 04:36
-98f2f2aa-4d96-4fb7-81ac-1d47963d683b,compute.cn,resell,,,low,low,7,厦门易名科技股份有限公司,,,19/09/2026 14:03
-72c5d7f1-929a-406b-a19f-51520763ff61,accountability.cn,resell,,,medium,low,14,阿里云计算有限公司（万网）,,,
-98f40360-ea7d-456c-b4b9-9cb5017a69f6,avionic.cn,resell,,,low,low,7,阿里云计算有限公司（万网）,,,07/08/2026 23:35
-46fe0d0d-6604-4599-aaf3-f6ec58e3cb68,managers.cn,resell,,,low,low,8,Dynadot Inc,,,20/09/2026 10:01
-97337ff8-8717-4425-b1ab-9bb46ecbf4d0,newtestament.cn,available,,,high,low,13,,,,
-25e04d7f-e9cc-496e-9885-4590e88e5ab1,sentiments.cn,resell,,,low,low,10,,,,17/09/2026 07:39
+eb4b39f0-766c-46ed-89d9-16c19b1cef71,irish.cn,resell,,,high,low,5,Dynadot Inc,,,22/08/2026 09:54
+842394f9-acac-4a92-b161-d5db0293d7d4,voluptuous.cn,resell,,,high,low,10,成都西维数码科技有限公司,,,10/08/2026 20:39
+72c5d7f1-929a-406b-a19f-51520763ff61,accountability.cn,resell,,,high,low,14,阿里云计算有限公司（万网）,,,
+98f40360-ea7d-456c-b4b9-9cb5017a69f6,avionic.cn,resell,,,medium,low,7,阿里云计算有限公司（万网）,,,07/08/2026 23:35
 8be1729a-6e67-4bb6-a6f3-0d424e232a16,makeover.cn,resell,,,high,low,9,Dynadot Inc,,,
-162fe712-9ec6-4b97-a864-b9b58672db76,polychrome.cn,resell,,,low,low,10,厦门市中资源网络服务有限公司,,,08/09/2026 23:11
-7dfd54e3-efa0-423d-b3a5-fbb93ab12eaa,opponent.cn,resell,,,low,low,8,腾讯云计算（北京）有限责任公司,,,04/09/2026 16:36
-5f89db18-dd10-4aef-ba2f-7e10a6fdf15c,birmingham.cn,resell,,,low,low,10,"GoDaddy.com,LLC",,,11/08/2026 06:43
-f1021f60-042d-4475-b43d-2d9a7a9a1780,naughty.cn,resell,,,low,low,7,Dynadot Inc,,,18/08/2026 20:00
+162fe712-9ec6-4b97-a864-b9b58672db76,polychrome.cn,resell,,,high,low,10,厦门市中资源网络服务有限公司,,,08/09/2026 23:11
+7dfd54e3-efa0-423d-b3a5-fbb93ab12eaa,opponent.cn,resell,,,high,low,8,腾讯云计算（北京）有限责任公司,,,04/09/2026 16:36
+5f89db18-dd10-4aef-ba2f-7e10a6fdf15c,birmingham.cn,resell,,,high,low,10,"GoDaddy.com,LLC",,,11/08/2026 06:43
+f1021f60-042d-4475-b43d-2d9a7a9a1780,naughty.cn,resell,,,high,low,7,Dynadot Inc,,,18/08/2026 20:00
 c0f20c85-8dc9-4758-b0ed-9ff1f2b270ae,myspace.cn,resell,,,high,medium,7,浙江贰贰网络有限公司,,,17/09/2026 16:45
-42a56258-bda4-4ec2-94e1-5b1910b0e745,ballpark.cn,resell,,,low,low,8,,,,19/09/2026 22:25
-3442b993-c92f-4d40-8433-190fd3011266,buttery.cn,resell,,,low,low,7,腾讯云计算（北京）有限责任公司,,,19/09/2026 18:30
-c7064639-0f68-477a-8dfb-12551aea6978,apparatus.cn,resell,,,low,low,9,,,,19/09/2026 19:49
-20e96d69-8a44-4c0d-a9a2-50a6e3045c2f,opiumwar.cn,available,,,medium,low,9,,,,
-fe18377f-a0fe-4f64-ac5e-7ce2e5b55191,fragrant.cn,resell,,,low,low,8,上海福虎信息科技有限公司,,,18/08/2026 14:03
-ca4cd48a-a5e7-4029-8969-1e3caa685e23,stages.cn,resell,,,low,low,6,Dynadot Inc,,,16/09/2026 12:11
-557e4b09-dfc9-450b-ac75-4204352ed540,wins.cn,resell,,,low,low,4,北京网尊科技有限公司,,,18/09/2026 14:21
-6bd1baea-c076-418a-a974-710c868d10f6,blackplague.cn,available,,,medium,low,12,,,,
-20140bcc-ba7d-46db-b01a-8a926e5d46d4,stvincent.cn,available,,,high,low,11,,,,
-8271ef43-6120-49a3-ab65-780bed223aaf,yukongold.cn,available,,,high,low,10,,,,
-4373b7e6-b5ef-466a-81e0-91b0ac6559ad,toot.cn,resell,,,low,low,4,,,,23/09/2026 01:30
-08e2e619-d822-4bef-a3f0-31c04aee5004,saintgeorge.cn,available,,,medium,low,12,,,,
-9452378e-8274-4188-8972-8ef646f8e3de,eloquent.cn,resell,,,low,low,8,厦门市中资源网络服务有限公司,,,16/08/2026 06:14
-4a2998d4-e76c-449c-a799-36f427897263,ijustworkhere.cn,available,,,medium,low,16,,,,
-650fcf9e-7278-49de-9d21-2e4436319fc7,carefree.cn,resell,,,medium,medium,8,阿里巴巴云计算（北京）有限公司,,,11/08/2026 19:01
-6757879c-bbea-45db-874f-c447728805bf,frenchlavender.cn,available,,,high,low,15,,,,
-14e5445a-1c58-425e-beef-b0f8228e9cf6,eightfold.cn,resell,,,low,low,9,阿里云计算有限公司（万网）,,,15/08/2026 21:27
-7ecbd87f-cb57-4742-a0ef-e9dbf3f36fd5,postcards.cn,resell,,,low,low,9,Dynadot Inc,,,18/09/2026 23:33
-ca1a7f64-f2c8-4e95-9ddc-3441a471e17f,vacant.cn,resell,,,low,low,6,Dynadot Inc,,,13/09/2026 00:38
-a3879fe6-2473-48e1-bc59-93cddfbf30fa,milky.cn,resell,,,low,low,5,浙江贰贰网络有限公司,,,24/08/2026 23:02
-0c0f82b6-9dd4-4180-a77f-802b8437ff87,cosmic.cn,resell,,,medium,medium,6,WEST263 INTERNATIONAL LIMITED,,,13/08/2026 02:54
-fa7ed544-3481-45dc-b8d0-46377f396433,chive.cn,resell,,,low,low,5,,,,18/09/2026 11:28
+fe18377f-a0fe-4f64-ac5e-7ce2e5b55191,fragrant.cn,resell,,,high,low,8,上海福虎信息科技有限公司,,,18/08/2026 14:03
+9452378e-8274-4188-8972-8ef646f8e3de,eloquent.cn,resell,,,high,low,8,厦门市中资源网络服务有限公司,,,16/08/2026 06:14
+650fcf9e-7278-49de-9d21-2e4436319fc7,carefree.cn,resell,,,high,medium,8,阿里巴巴云计算（北京）有限公司,,,11/08/2026 19:01
+14e5445a-1c58-425e-beef-b0f8228e9cf6,eightfold.cn,resell,,,medium,low,9,阿里云计算有限公司（万网）,,,15/08/2026 21:27
+ca1a7f64-f2c8-4e95-9ddc-3441a471e17f,vacant.cn,resell,,,medium,low,6,Dynadot Inc,,,13/09/2026 00:38
+a3879fe6-2473-48e1-bc59-93cddfbf30fa,milky.cn,resell,,,high,low,5,浙江贰贰网络有限公司,,,24/08/2026 23:02
+0c0f82b6-9dd4-4180-a77f-802b8437ff87,cosmic.cn,resell,,,high,medium,6,WEST263 INTERNATIONAL LIMITED,,,13/08/2026 02:54
 858f9abc-ba18-4e8b-b0ad-5a336b1dd219,breasts.cn,resell,,,medium,low,7,Dynadot Inc,,,
-49977632-7d9d-48ce-8cbc-65c7317e1af0,stacked.cn,resell,,,low,low,7,成都西维数码科技有限公司,,,10/08/2026 20:37
-5feb32c1-dd7d-4e72-9299-cdb1738fdf74,records.cn,resell,,,medium,low,7,Dynadot Inc,,,
-7e06550f-e12c-40e5-a0c5-f9b768f3170a,streetart.cn,resell,,,high,low,10,Realtime Register B.V.,,,
-2c1b3631-8b8a-4d64-93be-f90ecfdf3a08,godresthissoul.cn,available,,,medium,low,17,,,,
-1f604455-7c53-41ae-a3eb-ae015fa72985,stcharles.cn,available,,,high,low,11,,,,
-64a0a26d-17d4-422a-8a59-1ddfbafc009c,christmascard.cn,available,,,high,low,14,,,,
-83df9b99-8666-4177-8244-c0666b53e032,discharge.cn,resell,,,low,low,9,,,,20/09/2026 01:05
-ab250bf7-10a1-46ac-96af-6371d6a3b17d,chordate.cn,resell,,,low,low,8,北京网尊科技有限公司,,,12/08/2026 07:12
+49977632-7d9d-48ce-8cbc-65c7317e1af0,stacked.cn,resell,,,high,low,7,成都西维数码科技有限公司,,,10/08/2026 20:37
+5feb32c1-dd7d-4e72-9299-cdb1738fdf74,records.cn,resell,,,high,low,7,Dynadot Inc,,,
+ab250bf7-10a1-46ac-96af-6371d6a3b17d,chordate.cn,resell,,,medium,low,8,北京网尊科技有限公司,,,12/08/2026 07:12
 3946fcac-16d7-4014-b9d2-739bc57646d8,streetfighter.cn,resell,,,medium,low,14,阿里云计算有限公司（万网）,,,
-3c2a035a-11dc-4e50-a355-27a848b922ae,monkeys.cn,resell,,,low,low,7,,,,17/09/2026 10:08
-65e8e818-90ff-4aa9-822d-16f10393b3f1,alacrity.cn,resell,,,low,low,8,,,,18/09/2026 01:37
-e5781c7e-3206-43a9-a070-b39508ee135e,ribbons.cn,resell,,,low,low,7,Dynadot Inc,,,20/09/2026 07:05
-8aa5d3a1-7377-43ff-84bb-aecbecd52597,returns.cn,resell,,,low,low,7,Dynadot Inc,,,17/09/2026 17:19
-90fa2272-05b8-4a77-a4a4-d474a6cf2d29,humanist.cn,resell,,,low,low,8,阿里云计算有限公司（万网）,,,21/08/2026 14:50
-c50626bc-5984-4d4c-b4e3-892cddc3f844,regenerate.cn,resell,,,medium,medium,10,浙江贰贰网络有限公司,,,09/09/2026 12:49
+90fa2272-05b8-4a77-a4a4-d474a6cf2d29,humanist.cn,resell,,,high,low,8,阿里云计算有限公司（万网）,,,21/08/2026 14:50
+c50626bc-5984-4d4c-b4e3-892cddc3f844,regenerate.cn,resell,,,high,medium,10,浙江贰贰网络有限公司,,,09/09/2026 12:49
 1f267da4-0bcb-4bbc-910c-1c0e52df19c0,katy.cn,available,,,high,low,4,,,,
-a66303b1-98b5-4eec-af42-4e7f74ad5fb8,swimsuits.cn,resell,,,low,low,9,Dynadot Inc,,,18/09/2026 15:44
-5959c5ca-86e7-4dca-93a9-ede59e6f0329,yesno.cn,resell,,,medium,low,6,厦门易名科技股份有限公司,,,
 78235b48-3f16-40b6-b32b-b5a44530d47a,uml.cn,resell,,,high,low,3,厦门易名科技股份有限公司,,,
-94fa8c6e-2451-45d3-9c98-ec2848aae10f,charming.cn,resell,,,medium,low,8,Dynadot Inc,,,12/08/2026 02:36
-8d03d440-b395-4d22-beab-39efa16df939,calcium.cn,resell,,,low,low,7,,,,20/09/2026 22:32
-6df88fc2-ace5-46a7-8748-7f930e3ea244,affaire.cn,resell,,,low,low,7,,,,17/09/2026 14:00
-80a8298f-48e7-48d2-b0c5-fcf77a90dc5e,catholic.cn,resell,,,medium,low,8,Dynadot Inc,,,11/08/2026 22:01
-b379a156-1af9-4103-9157-5407849895d4,offline.cn,resell,,,low,medium,8,Namescout.com,,,04/09/2026 01:13
-a8927230-386e-441d-9194-9ef1cf330e15,ikidyounot.cn,available,,,medium,low,13,,,,
-4c08b080-998f-4a3b-b47a-6db98e095327,christalive.cn,available,,,high,low,12,,,,
-66cae742-d506-45b5-84a6-84767449b744,opinions.cn,resell,,,low,low,8,Dynadot Inc,,,17/09/2026 07:35
-ee08eebd-1db0-4c3e-abae-ed09d7949545,theories.cn,resell,,,low,low,8,,,,18/09/2026 05:21
-4ffdeb21-ecee-4650-8f71-6ee3a5a58f4d,annakournikova.cn,available,,,high,low,15,,,,
-da0d1149-227d-4502-b96e-b998a44a8a1d,ancestry.cn,resell,,,medium,medium,8,Dynadot Inc,,,08/09/2026 13:19
-93add044-2530-42c3-b98f-b391d84d789d,cobalt.cn,resell,,,low,low,6,,,,20/09/2026 22:41
+94fa8c6e-2451-45d3-9c98-ec2848aae10f,charming.cn,resell,,,high,low,8,Dynadot Inc,,,12/08/2026 02:36
+80a8298f-48e7-48d2-b0c5-fcf77a90dc5e,catholic.cn,resell,,,high,low,8,Dynadot Inc,,,11/08/2026 22:01
+b379a156-1af9-4103-9157-5407849895d4,offline.cn,resell,,,high,medium,8,Namescout.com,,,04/09/2026 01:13
+da0d1149-227d-4502-b96e-b998a44a8a1d,ancestry.cn,resell,,,high,medium,8,Dynadot Inc,,,08/09/2026 13:19
 9fd44780-18b3-418d-b589-74eb140a926d,resources.cn,resell,,,medium,low,9,Dynadot Inc,,,
-5911b53c-9c4b-4361-b8f3-e952e226e770,associate.cn,resell,,,low,low,9,Dynadot Inc,,,07/08/2026 06:50
-1f3622db-2a70-43df-a700-e039c81d3f10,exclusive.cn,resell,,,medium,low,9,Dynadot Inc,,,17/08/2026 16:33
-9b82cb4a-aea5-4508-a68b-d79588487b95,apar.cn,resell,,,low,low,4,,,,19/09/2026 16:14
-fcb9474f-1b4a-4359-9ebc-7b63046e0db6,immaculate.cn,resell,,,low,low,10,厦门市中资源网络服务有限公司,,,18/08/2026 00:07
-485597a0-887f-4c7c-8d99-bf3bdbcd4c38,ottomanempire.cn,available,,,medium,low,14,,,,
+5911b53c-9c4b-4361-b8f3-e952e226e770,associate.cn,resell,,,high,low,9,Dynadot Inc,,,07/08/2026 06:50
+1f3622db-2a70-43df-a700-e039c81d3f10,exclusive.cn,resell,,,high,low,9,Dynadot Inc,,,17/08/2026 16:33
+fcb9474f-1b4a-4359-9ebc-7b63046e0db6,immaculate.cn,resell,,,high,low,10,厦门市中资源网络服务有限公司,,,18/08/2026 00:07
 cac6e23d-d0cd-4f22-9b2b-5448ad146fd4,atacama.cn,available,,,medium,low,7,,,,
-fb9baa0c-ffc9-48c2-aa52-48c96d371bcd,stationary.cn,resell,,,low,low,10,四川域趣网络科技有限公司,,,10/09/2026 19:12
-a6bf77d8-5984-4b97-9309-b7024e9708ca,tongan.cn,resell,,,low,low,6,合肥聚名网络科技有限公司,,,11/09/2026 17:06
-3d9e4de6-514c-4d45-a53a-aacaa3499a3f,newguinea.cn,available,,,medium,low,10,,,,
-178c9037-e90d-4cb2-92d1-2be49fbe6e5c,current.cn,resell,,,medium,low,7,Dynadot Inc,,,13/08/2026 11:26
-2e8fb9b5-8125-479e-b286-86775bfc071c,australiaday.cn,available,,,medium,low,13,,,,
-81fd73de-e881-409f-b0c5-d7a7edda70b1,matching.cn,resell,,,low,low,8,阿里云计算有限公司（万网）,,,12/08/2026 13:23
-e0c0eb89-636d-4f02-a61c-d2e7ac9b61d2,ihavecancer.cn,available,,,medium,low,13,,,,
-c8328618-534f-4568-bfc1-8d351a8da0d0,retailing.cn,resell,,,medium,low,9,,,,19/09/2026 02:48
-6bda3476-239c-4ba7-b822-f4769c33c8d0,frenchparsley.cn,available,,,medium,low,14,,,,
-704efb93-92ba-43bc-b3be-d28d85d9de9f,ilostmywallet.cn,available,,,medium,low,16,,,,
-da27df15-855f-49b7-a606-f5fded0687ce,middleeastern.cn,available,,,medium,low,14,,,,
-a44bb03a-ac49-4bc5-a8ea-6f9e8d6c0683,collection.cn,resell,,,low,low,10,,,,17/09/2026 17:27
-d28cc01f-5ab3-4f99-a059-2733aa98455e,magnet.cn,resell,,,low,low,6,,,,21/09/2026 02:14
-ff771711-2d98-410a-afed-8c2bf3dc1596,magazines.cn,resell,,,low,low,9,Dynadot Inc,,,18/09/2026 18:19
-c0c2582e-ad74-457c-8622-2e9f9b405ded,pools.cn,resell,,,low,low,5,Dynadot Inc,,,16/09/2026 13:57
-620cc4da-50e2-427e-ab17-0b17d53e7316,vet.cn,resell,,,medium,low,3,Dynadot Inc,,,13/09/2026 05:01
-e1bd3544-f27b-4b02-a3b5-a675d4cee4a6,fortified.cn,resell,,,low,low,9,成都西维数码科技有限公司,,,09/08/2026 00:17
-ffbecee3-3fa7-489c-b7f2-6209ab2ee36e,countyofhudson.cn,available,,,medium,low,16,,,,
-49806b48-9b94-4e03-888b-1d04542c08b7,rewards.cn,resell,,,low,low,7,Dynadot Inc,,,20/09/2026 02:14
-73f78ea5-ad0f-4d27-882d-b4413adf05c0,newrochelle.cn,available,,,medium,low,12,,,,
-5844ad8c-aaa6-48b0-9a61-54a7e192fc18,artifice.cn,resell,,,low,low,8,,,,20/09/2026 11:34
+fb9baa0c-ffc9-48c2-aa52-48c96d371bcd,stationary.cn,resell,,,high,low,10,四川域趣网络科技有限公司,,,10/09/2026 19:12
+a6bf77d8-5984-4b97-9309-b7024e9708ca,tongan.cn,resell,,,high,low,6,合肥聚名网络科技有限公司,,,11/09/2026 17:06
+178c9037-e90d-4cb2-92d1-2be49fbe6e5c,current.cn,resell,,,high,low,7,Dynadot Inc,,,13/08/2026 11:26
+81fd73de-e881-409f-b0c5-d7a7edda70b1,matching.cn,resell,,,high,low,8,阿里云计算有限公司（万网）,,,12/08/2026 13:23
+620cc4da-50e2-427e-ab17-0b17d53e7316,vet.cn,resell,,,high,low,3,Dynadot Inc,,,13/09/2026 05:01
+e1bd3544-f27b-4b02-a3b5-a675d4cee4a6,fortified.cn,resell,,,high,low,9,成都西维数码科技有限公司,,,09/08/2026 00:17
 22bcfb3f-0e50-4839-bc6d-501beb2485c3,places.cn,resell,,,high,low,6,Dynadot Inc,,,
-31ad08a5-c0e4-48e4-b0ca-527e79d032f6,votes.cn,resell,,,low,low,5,Dynadot Inc,,,17/09/2026 13:26
-1b4d0f62-b5f9-4623-ae1e-ec34e9fa3298,bras.cn,resell,,,low,low,4,,,,17/09/2026 13:20
-49ed991e-458f-4001-bffd-d4916d50cd49,southtyrol.cn,available,,,medium,low,11,,,,
-843abf49-17bd-455b-986d-2932338c4ccd,cardinal.cn,resell,,,medium,low,8,Dynadot Inc,,,11/08/2026 18:54
-652705bb-9f43-47b8-903c-011e62e9bcbf,ships.cn,resell,,,low,low,5,Dynadot Inc,,,18/09/2026 14:07
-4ebbdc01-6cd1-4c84-a2ea-01a52c3d0f63,ilostmykeys.cn,available,,,medium,low,14,,,,
-0251cbeb-615e-4ee6-aa01-603e4f512fde,idarebebound.cn,available,,,medium,low,15,,,,
-521b388f-0f63-4584-b05d-a3be02215a65,sailing.cn,resell,,,medium,low,7,Dynadot Inc,,,10/09/2026 00:37
-c6bb7ea9-1de9-420c-9fc4-56e8b63d3332,aboutface.cn,resell,,,low,low,10,,,,16/09/2026 16:45
-1fe43404-43e5-47fb-bb50-293e5546cc00,chocolates.cn,resell,,,low,low,10,Dynadot Inc,,,20/09/2026 08:51
-7aedddc1-9a70-450b-a9db-cffb647a38c6,bracelet.cn,resell,,,low,low,8,,,,22/09/2026 01:56
-bacb635e-aac3-48a2-b9ec-8330a8bb1a42,lordonlyknows.cn,available,,,medium,low,15,,,,
-72b9acb6-efdc-4bfe-ae27-092fa56401fe,countyofharris.cn,available,,,medium,low,16,,,,
-251fb62a-ac1e-458d-95f8-aa8a6ab6a51f,middleeasterner.cn,available,,,medium,low,16,,,,
-8f24297c-bae4-4f69-9b72-0f4ca9dee5af,odour.cn,resell,,,low,low,5,,,,20/09/2026 08:26
-fda99d15-56d6-4d97-a3a3-72f062af211f,notebooks.cn,resell,,,low,low,9,Dynadot Inc,,,20/09/2026 11:51
-509263ab-3532-4d74-a378-e962bb78c2b4,lordmayors.cn,available,,,medium,low,11,,,,
-bc6ba99d-f91f-4b11-bba3-adafbca647b3,lettersandscience.cn,available,,,high,low,19,,,,
-d398e9df-7fc5-429d-b7c6-68712ada92cb,vaulted.cn,resell,,,low,low,7,成都西维数码科技有限公司,,,14/08/2026 15:39
-3302e929-a8a3-44d0-8096-1dce988d11c4,commonground.cn,resell,,,high,low,13,阿里云计算有限公司（万网）,,,
-fc8536fd-1425-4a74-a23a-e5d22f2ef200,priority.cn,resell,,,low,low,8,,,,19/09/2026 12:40
-1b8155ab-cc80-44ec-8192-311f84559eb5,trades.cn,resell,,,medium,low,6,Dynadot Inc,,,19/09/2026 03:33
+843abf49-17bd-455b-986d-2932338c4ccd,cardinal.cn,resell,,,high,low,8,Dynadot Inc,,,11/08/2026 18:54
+521b388f-0f63-4584-b05d-a3be02215a65,sailing.cn,resell,,,high,low,7,Dynadot Inc,,,10/09/2026 00:37
+d398e9df-7fc5-429d-b7c6-68712ada92cb,vaulted.cn,resell,,,high,low,7,成都西维数码科技有限公司,,,14/08/2026 15:39
 419db3e8-6d71-41ac-93c9-8d73ac08a1ac,lions.cn,resell,,,high,low,5,Dynadot Inc,,,
 28ee5eee-40fe-497f-9ac1-d668d043d117,macbook.cn,resell,,,high,high,7,厦门易名科技股份有限公司,,,21/09/2026 10:45
-033d6a95-3af0-4acc-9a04-794bdf88d02c,panoptic.cn,resell,,,low,low,8,成都西维数码科技有限公司,,,
+033d6a95-3af0-4acc-9a04-794bdf88d02c,panoptic.cn,resell,,,medium,low,8,成都西维数码科技有限公司,,,
 49a67260-9c0a-4788-b934-717e4dd4e2b5,sciences.cn,resell,,,medium,low,8,Dynadot Inc,,,
-ca5860aa-406f-4bd5-a956-a6bdc0c5a520,singing.cn,resell,,,medium,low,7,Dynadot Inc,,,11/08/2026 17:40
-a7ca0cc2-8f52-4499-b407-0d6f2c3757d5,pennstation.cn,available,,,medium,low,12,,,,
+ca5860aa-406f-4bd5-a956-a6bdc0c5a520,singing.cn,resell,,,high,low,7,Dynadot Inc,,,11/08/2026 17:40
 fb829cdc-ed40-473b-bada-812faf97801e,lights.cn,resell,,,high,low,6,Dynadot Inc,,,
-603aa0b4-3de5-4cb0-97ef-817c0a91acf1,countyofkings.cn,available,,,medium,low,15,,,,
-35dc5e7b-d4f6-4c61-9383-2cedff3a8345,shoal.cn,resell,,,low,low,5,厦门市中资源网络服务有限公司,,,10/09/2026 05:46
-290fcca5-cc21-4e54-b951-a392b9bd7837,southamerican.cn,available,,,medium,low,14,,,,
-d4894fa0-fbdb-4898-86b7-ad35028ac299,stclair.cn,available,,,medium,low,9,,,,
-037e96f4-5c02-431a-913e-618343c1356a,sources.cn,resell,,,low,low,7,Dynadot Inc,,,17/09/2026 22:23
-5d8b54db-87f7-4e9c-beb2-f6e51e1ab960,swimwear.cn,resell,,,low,low,8,,,,22/09/2026 13:39
-fed5a377-c054-41c9-a9e1-dba769f464cf,iwantmymoneyback.cn,available,,,medium,low,20,,,,
-f5b7f1f3-ba32-4f42-8f39-77bade043a38,arendt.cn,resell,,,low,low,6,,,,20/09/2026 03:43
+35dc5e7b-d4f6-4c61-9383-2cedff3a8345,shoal.cn,resell,,,medium,low,5,厦门市中资源网络服务有限公司,,,10/09/2026 05:46
 0fbc5718-3a67-433e-8f87-9975f72525b9,frore.cn,resell,,,low,low,5,"GoDaddy.com,LLC",,,18/08/2026 16:21
-c9e4780e-843e-40e4-ab83-87ecb7a0f509,executive.cn,resell,,,low,low,9,Dynadot Inc,,,19/09/2026 08:02
 3dca8f69-6680-4a72-bf27-0e6b367ac21e,results.cn,resell,,,medium,low,7,Dynadot Inc,,,
-2b23d8ed-82aa-4383-8a1c-3313038c74a9,deepset.cn,resell,,,low,low,8,阿里云计算有限公司（万网）,,,13/08/2026 22:53
-a0c9ca04-26cb-4a8b-9e5b-838f1cf8eea6,renewed.cn,resell,,,low,low,7,阿里云计算有限公司（万网）,,,09/09/2026 14:04
-c90df2ac-c3d3-4312-b725-d1f1e3c2e758,joints.cn,resell,,,low,low,6,,,,20/09/2026 03:38
-9d7c9273-907a-4a16-a819-81b81d6c3ad5,generaltsochicken.cn,available,,,high,low,19,,,,
-fd8dff1b-d282-4f06-87c3-6553aae8cefc,titles.cn,resell,,,low,low,6,Dynadot Inc,,,18/09/2026 13:24
-c1d3bcc9-02ed-4af7-83fe-f1b32db3b41c,frenchmustard.cn,available,,,high,low,14,,,,
-73168265-1f77-4d0e-9041-5b2fe7180841,landed.cn,resell,,,low,low,6,成都西维数码科技有限公司,,,22/08/2026 19:22
-5a685c18-f1f1-49b3-886b-40fda088638a,hobbies.cn,resell,,,low,low,7,Dynadot Inc,,,20/09/2026 22:38
-a6ca1829-ec32-452c-83ee-3dccf6c5a5d3,prima.cn,resell,,,medium,low,5,"CSC Corporate Domains, Inc.",,,09/09/2026 02:00
-dab2a259-a69e-47bd-837d-10e14386e5c7,vaticancity.cn,available,,,medium,low,12,,,,
-8b01a33d-4bc9-448d-bb3b-cb3a733cafac,imustsay.cn,available,,,medium,low,10,,,,
-ef6cc222-09ce-4de1-868f-cda12a79a210,ilikepie.cn,available,,,medium,low,10,,,,
-40be8ebc-d584-466b-b6f8-362b7c69e701,ult.cn,resell,,,low,low,3,Key-Systems,,,11/09/2026 22:48
-6818a67d-4dae-408f-97d7-7eb05265c85f,ihavenomoney.cn,available,,,medium,low,15,,,,
-c5814098-a210-4978-847c-33e30cdff824,costarica.cn,available,,,high,high,10,,,,
-f57de7bf-1743-45af-be08-9f1ea921d5f4,iamadoctor.cn,available,,,medium,low,13,,,,
-4609bfb3-04b8-46c0-82ef-30dad7adeaf6,haitian.cn,resell,,,low,low,7,北京网尊科技有限公司,,,20/08/2026 22:17
-874de097-c6e4-4349-b6a0-69655064361e,amazonriverdolphin.cn,available,,,high,low,20,,,,
-12e85fb1-f371-495e-8be0-04e85d27db3d,neworleans.cn,available,,,high,low,11,,,,
-ed947781-4b9a-4416-9c8d-6109870cf347,somatic.cn,resell,,,low,low,7,阿里云计算有限公司（万网）,,,13/08/2026 01:56
-47945135-b405-4644-b9dd-1491a5686eb1,painless.cn,resell,,,low,low,8,成都垦派科技有限公司,,,04/09/2026 23:04
-6a4a1245-f451-4f47-a490-2dfaebc06bee,cases.cn,resell,,,low,low,5,阿里云计算有限公司（万网）,,,17/09/2026 16:31
-f7fffae7-a1a3-4486-bda9-a734339cfbc8,lordloveyou.cn,available,,,medium,low,13,,,,
-c7fe3aea-71c6-42c0-9ef0-5a5d7e29efa1,studios.cn,resell,,,low,low,7,Dynadot Inc,,,18/09/2026 18:25
-500c1c4f-e6e4-4765-ad39-e5ca78d92eb3,ahura.cn,resell,,,low,low,5,,,,17/09/2026 20:40
-fd461d3d-d4e6-4dd9-bfeb-15304697756f,ark.cn,resell,,,low,low,3,,,,20/09/2026 06:09
-15cc8a2e-a647-4d6a-a35e-f07ed720142c,provable.cn,resell,,,low,low,8,成都西维数码科技有限公司,,,09/09/2026 04:24
-5ec7b317-98ec-4922-aecb-56b4023b1281,lordhavemercy.cn,available,,,medium,low,15,,,,
-08039f89-bbbc-413d-8cd5-c721c83471fc,noetic.cn,resell,,,low,low,6,厦门市中资源网络服务有限公司,,,22/08/2026 07:52
-962846fa-49b9-405f-a151-b88828909269,tahoe.cn,resell,,,medium,low,5,厦门易名科技股份有限公司,,,
-27855244-ab69-4a78-ab27-2e5ddbc17141,philippines.cn,available,,,medium,high,11,,,,
-37578241-579a-471e-ada4-e181f10ae57e,herald.cn,resell,,,low,low,6,,,,16/09/2026 22:39
-343fc2b3-90fd-4421-a30f-2e58e7d10e5c,flowery.cn,resell,,,low,low,7,厦门易名科技股份有限公司,,,18/08/2026 09:09
+a0c9ca04-26cb-4a8b-9e5b-838f1cf8eea6,renewed.cn,resell,,,high,low,7,阿里云计算有限公司（万网）,,,09/09/2026 14:04
+73168265-1f77-4d0e-9041-5b2fe7180841,landed.cn,resell,,,high,low,6,成都西维数码科技有限公司,,,22/08/2026 19:22
+a6ca1829-ec32-452c-83ee-3dccf6c5a5d3,prima.cn,resell,,,high,low,5,"CSC Corporate Domains, Inc.",,,09/09/2026 02:00
+40be8ebc-d584-466b-b6f8-362b7c69e701,ult.cn,resell,,,high,low,3,Key-Systems,,,11/09/2026 22:48
+4609bfb3-04b8-46c0-82ef-30dad7adeaf6,haitian.cn,resell,,,high,low,7,北京网尊科技有限公司,,,20/08/2026 22:17
+ed947781-4b9a-4416-9c8d-6109870cf347,somatic.cn,resell,,,medium,low,7,阿里云计算有限公司（万网）,,,13/08/2026 01:56
+47945135-b405-4644-b9dd-1491a5686eb1,painless.cn,resell,,,high,low,8,成都垦派科技有限公司,,,04/09/2026 23:04
+15cc8a2e-a647-4d6a-a35e-f07ed720142c,provable.cn,resell,,,high,low,8,成都西维数码科技有限公司,,,09/09/2026 04:24
+08039f89-bbbc-413d-8cd5-c721c83471fc,noetic.cn,resell,,,medium,low,6,厦门市中资源网络服务有限公司,,,22/08/2026 07:52
+962846fa-49b9-405f-a151-b88828909269,tahoe.cn,resell,,,high,low,5,厦门易名科技股份有限公司,,,
+27855244-ab69-4a78-ab27-2e5ddbc17141,philippines.cn,available,,,high,high,11,,,,
+343fc2b3-90fd-4421-a30f-2e58e7d10e5c,flowery.cn,resell,,,high,low,7,厦门易名科技股份有限公司,,,18/08/2026 09:09
 1e70313e-5677-46c5-bc22-93ed4f122b70,figures.cn,resell,,,medium,low,7,Dynadot Inc,,,
-c6e3be08-6a7f-48b0-a760-41dc2a2657a8,howshouldiknow.cn,available,,,medium,low,17,,,,
-dd500a40-afd2-4482-85b1-2ce19e6873e6,aperture.cn,resell,,,low,low,8,,,,19/09/2026 16:35
-5ea0e63e-cad0-43ed-a40e-dda2cca5b737,questions.cn,resell,,,low,low,9,Dynadot Inc,,,17/09/2026 08:32
-a4b4dcb3-d896-42be-9d0a-b152e90303c4,englishmedium.cn,available,,,medium,low,14,,,,
-b1f371e4-b9f3-4558-a4ea-ae858d0ff462,persistent.cn,resell,,,low,low,10,北京网尊科技有限公司,,,14/08/2026 14:58
-ac20580a-534c-467e-b0ec-f31e008db370,masterofarts.cn,available,,,medium,low,14,,,,
-0a0e90b8-0f36-4ae8-8937-48bc494034e5,thebahamas.cn,available,,,high,medium,11,,,,
+b1f371e4-b9f3-4558-a4ea-ae858d0ff462,persistent.cn,resell,,,high,low,10,北京网尊科技有限公司,,,14/08/2026 14:58
+5de0c8d9-6ac3-49be-833e-44837f4d5db8,appraisals.cn,resell,,,medium,low,10,Dynadot Inc,,,08/09/2026 07:32
+aec84566-79f9-4794-8da4-c31fa8d4b740,connective.cn,resell,,,high,low,10,WEST263 INTERNATIONAL LIMITED,,,12/08/2026 22:16
+fd90534c-e2fc-4c04-bbb6-23aae9c067e5,studs.cn,resell,,,high,low,5,Dynadot Inc,,,
+fc1d6dfd-2b6d-490b-8ab5-7b1b703923e8,picket.cn,resell,,,high,low,6,北京国旭网络科技有限公司,,,04/09/2026 23:25
+a6cef0ca-f1a1-4ad9-b442-dfcf890d2148,satellites.cn,resell,,,medium,low,10,Dynadot Inc,,,
+d1df89f5-61d5-4e7d-b141-b1e0977725de,roofs.cn,resell,,,medium,low,5,Dynadot Inc,,,
+2cfa945b-0bf2-4341-8b88-1857fcfc7cad,localised.cn,resell,,,medium,low,9,成都西维数码科技有限公司,,,24/08/2026 08:47
+b9687fcd-3114-4625-9db8-06f23c1dc5ce,elliptic.cn,resell,,,medium,low,8,北京网尊科技有限公司,,,15/08/2026 17:59
+bfe401be-5c0c-4cf6-9aff-b0b7e9c9accd,prescription.cn,resell,,,high,low,12,Dynadot Inc,,,
+e03e8dbb-a871-4917-ac4d-952e52ae5578,nameless.cn,resell,,,high,low,8,阿里云计算有限公司（万网）,,,03/09/2026 12:53
+eaa99c57-a6a8-4a9b-86aa-1c954a0e9fbe,formidable.cn,resell,,,high,low,10,阿里云计算有限公司（万网）,,,18/08/2026 12:12
+3d50dc64-73c1-4f51-a5bb-47a1b17eaca7,occupations.cn,available,,,medium,low,11,,,,
+46c46720-2399-49d8-b2d1-5eddba06e372,prophetic.cn,resell,,,high,low,9,阿里云计算有限公司（万网）,,,09/09/2026 03:36
+a68b0469-a0f8-4cba-b749-a8a013b318a4,waking.cn,resell,,,high,low,6,网聚品牌管理有限公司,,,13/09/2026 07:47
+ee1c9ed4-191d-4921-a740-3267e7ff1791,springtime.cn,resell,,,high,low,11,Dynadot Inc,,,
+f78305b3-e8b3-4b6e-8450-c216c275c6f1,avestan.cn,resell,,,medium,low,7,浙江贰贰网络有限公司,,,07/08/2026 23:07
+25a27125-795f-4b1b-a3ea-18d5b9f0371a,ultimate.cn,resell,,,high,low,8,Dynadot Inc,,,11/09/2026 22:50
+666b3771-a8cb-4941-85eb-50d60ad2c93b,prize.cn,resell,,,high,low,5,Dynadot Inc,,,12/08/2026 06:35
+1779c429-91b0-403d-931b-d1a57d69f37c,groovy.cn,resell,,,high,low,6,厦门易名科技股份有限公司,,,08/08/2026 12:35
+e5bb08e9-2499-4ccd-aa53-18416bb9f684,ochre.cn,resell,,,high,low,5,厦门市中资源网络服务有限公司,,,04/09/2026 00:33
+53c7c3f9-567b-4655-8d9d-50d2215bc038,guards.cn,resell,,,high,low,6,Dynadot Inc,,,
+5602a67f-57b8-4e7e-9a08-aaaeff4bb0b6,voices.cn,resell,,,medium,low,6,Dynadot Inc,,,
+11b00dd1-71c2-4034-aa54-a15deb4baf21,formula.cn,resell,,,high,low,7,Dynadot Inc,,,03/09/2026 21:16
+e2e2dcb7-0667-4120-a61d-8a6086dfd300,smug.cn,resell,,,medium,low,4,阿里云计算有限公司（万网）,,,10/09/2026 02:05
+06133e93-ac6b-4b4d-9957-af2f8af00a61,chilling.cn,resell,,,medium,low,8,阿里云计算有限公司（万网）,,,12/08/2026 05:19
