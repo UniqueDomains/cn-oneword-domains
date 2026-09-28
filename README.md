@@ -1,22 +1,22 @@
-# Available .CN One-Word Domains (934)
+# Available .CN One-Word Domains (1,007)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-934%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-934%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-1%2C007%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .cn one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .cn one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **1,007 domains** on the canonical page below.
 
-**Public extract:** 934 rows · **Live catalog:** 934 domains · **Median ask:** $0 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 1,007 domains · **Median ask:** $6.65 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-27
+**Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/cn`
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .CN one-word domain ca
 
 ### Files
 
-- `cn.csv`, public CSV extract (934 rows)
-- `cn.json`, public JSON extract (934 rows)
+- `cn.csv`, public CSV extract (1,000 rows)
+- `cn.json`, public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md`, field definitions for the exported files
 - `METHODOLOGY.md`, scope, refresh policy, and caveats
 - `CHANGELOG.md`, latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status | ask_price | renewal_price | attractiveness | demand | length | registrar     |
-| ------------- | ------ | --------- | ------------- | -------------- | ------ | ------ | ------------- |
-| begin.cn      | resell | —         | —             | high           | low    | 5      | 厦门易名科技股份有限公司  |
-| organic.cn    | resell | —         | —             | high           | low    | 7      | Dynadot Inc   |
-| snack.cn      | resell | —         | —             | high           | low    | 5      | Dynadot Inc   |
-| individual.cn | resell | —         | —             | high           | low    | 10     | Dynadot Inc   |
-| jewels.cn     | resell | —         | —             | high           | low    | 6      | Dynadot Inc   |
-| majestic.cn   | resell | —         | —             | high           | low    | 8      | Dynadot Inc   |
-| overseas.cn   | resell | —         | —             | high           | medium | 8      | Dynadot Inc   |
-| affirm.cn     | resell | —         | —             | high           | high   | 6      | 浙江贰贰网络有限公司    |
-| superhuman.cn | resell | —         | —             | high           | low    | 10     | 阿里云计算有限公司（万网） |
-| iron.cn       | resell | —         | —             | high           | low    | 4      | eNom, Inc.    |
-| commodity.cn  | resell | —         | —             | high           | low    | 9      | Dynadot Inc   |
-| soap.cn       | resell | —         | —             | high           | low    | 4      | Dynadot Inc   |
-| tips.cn       | resell | —         | —             | high           | low    | 4      | Dynadot Inc   |
-| infant.cn     | resell | —         | —             | high           | low    | 6      | Dynadot Inc   |
-| birth.cn      | resell | —         | —             | high           | low    | 5      | Dynadot Inc   |
-| bookmark.cn   | resell | —         | —             | high           | low    | 8      | 厦门易名科技股份有限公司  |
-| compute.cn    | resell | —         | —             | high           | low    | 7      | 厦门易名科技股份有限公司  |
-| savvy.cn      | resell | —         | —             | high           | low    | 5      | Dynadot Inc   |
-| telecom.cn    | resell | —         | —             | high           | low    | 7      | 厦门易名科技股份有限公司  |
-| scholar.cn    | resell | —         | —             | high           | low    | 7      | Dynadot Inc   |
+| domain       | status | ask_price | renewal_price | attractiveness | demand | length | registrar     |
+| ------------ | ------ | --------- | ------------- | -------------- | ------ | ------ | ------------- |
+| jewels.cn    | resell | —         | —             | high           | low    | 6      | Dynadot Inc   |
+| majestic.cn  | resell | —         | —             | high           | low    | 8      | Dynadot Inc   |
+| overseas.cn  | resell | —         | —             | high           | medium | 8      | Dynadot Inc   |
+| iron.cn      | resell | —         | —             | high           | low    | 4      | eNom, Inc.    |
+| subscribe.cn | resell | —         | —             | high           | low    | 9      | Dynadot Inc   |
+| tips.cn      | resell | —         | —             | high           | low    | 4      | Dynadot Inc   |
+| contact.cn   | resell | —         | —             | high           | medium | 7      | Dynadot Inc   |
+| compute.cn   | resell | —         | —             | high           | low    | 7      | 厦门易名科技股份有限公司  |
+| scholar.cn   | resell | —         | —             | high           | low    | 7      | Dynadot Inc   |
+| bistro.cn    | resell | —         | —             | high           | low    | 6      | Dynadot Inc   |
+| tender.cn    | resell | —         | —             | high           | low    | 6      | Dynadot Inc   |
+| locate.cn    | resell | —         | —             | high           | low    | 6      | —             |
+| steak.cn     | resell | —         | —             | high           | low    | 5      | Dynadot Inc   |
+| specified.cn | resell | —         | —             | high           | medium | 9      | 阿里云计算有限公司（万网） |
+| events.cn    | resell | —         | —             | high           | low    | 6      | Dynadot Inc   |
+| esa.cn       | resell | —         | —             | high           | high   | 3      | —             |
+| sausage.cn   | resell | —         | —             | high           | low    | 7      | Dynadot Inc   |
+| assets.cn    | resell | —         | —             | high           | low    | 6      | Dynadot Inc   |
+| monarch.cn   | resell | —         | —             | high           | medium | 7      | Dynadot Inc   |
+| velvet.cn    | resell | —         | —             | high           | low    | 6      | Dynadot Inc   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract        | Unique Domains                             |
-| --------------------- | ------------------------------------------ |
-| 934-row public sample | 934 live domains                           |
-| Static CSV / JSON     | live search and daily refresh              |
-| Basic exported fields | 0 high-demand names under $2,500           |
-| No persistence        | Radar, saved search, and alerts            |
-| No founder workflow   | Project, shortlist, and next-step workflow |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 1,007 live domains                         |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CN One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CN One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
