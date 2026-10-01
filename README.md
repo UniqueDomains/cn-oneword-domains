@@ -1,10 +1,10 @@
-# Available .CN One-Word Domains (1,762)
+# Available .CN One-Word Domains (2,228)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-1%2C762%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-2%2C228%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .cn one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **1,762 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **2,228 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 1,762 domains · **Median ask:** $5.66 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 2,228 domains · **Median ask:** $5.78 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/cn`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
-| mono.cn       | resell    | —         | —             | high           | medium | 4      | 阿里云计算有限公司（万网）                 |
-| secure.cn     | resell    | —         | —             | high           | medium | 6      | Dynadot Inc                   |
-| engagement.cn | resell    | —         | —             | high           | low    | 10     | Dynadot Inc                   |
-| driving.cn    | resell    | —         | —             | high           | low    | 7      | Dynadot Inc                   |
-| unlimited.cn  | resell    | —         | —             | high           | low    | 9      | Dynadot Inc                   |
-| capsule.cn    | resell    | —         | —             | high           | low    | 7      | Dynadot Inc                   |
-| walk.cn       | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                   |
-| mexican.cn    | resell    | —         | —             | high           | low    | 7      | Dynadot Inc                   |
-| facilities.cn | resell    | —         | —             | high           | low    | 10     | WEST263 INTERNATIONAL LIMITED |
-| lantern.cn    | resell    | —         | —             | high           | low    | 7      | —                             |
-| tropical.cn   | resell    | —         | —             | high           | low    | 8      | Dynadot Inc                   |
-| embracing.cn  | available | $5.36     | $5.36         | high           | low    | 9      | dynadot                       |
-| wallet.cn     | resell    | —         | —             | high           | medium | 6      | Dynadot Inc                   |
-| titanium.cn   | resell    | —         | —             | high           | low    | 8      | Dynadot Inc                   |
-| genuine.cn    | resell    | —         | —             | high           | low    | 7      | Dynadot Inc                   |
-| handle.cn     | resell    | —         | —             | high           | low    | 6      | Dynadot Inc                   |
-| local.cn      | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                   |
-| baseball.cn   | resell    | —         | —             | high           | low    | 8      | Dynadot Inc                   |
-| acquire.cn    | resell    | —         | —             | high           | low    | 7      | Dynadot Inc                   |
-| salad.cn      | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                   |
+| domain         | status | ask_price | renewal_price | attractiveness | demand | length | registrar     |
+| -------------- | ------ | --------- | ------------- | -------------- | ------ | ------ | ------------- |
+| leadership.cn  | resell | —         | —             | high           | low    | 10     | Dynadot Inc   |
+| sovereign.cn   | resell | —         | —             | high           | medium | 9      | 阿里云计算有限公司（万网） |
+| detective.cn   | resell | —         | —             | high           | low    | 9      | Dynadot Inc   |
+| letters.cn     | resell | —         | —             | high           | low    | 7      | Dynadot Inc   |
+| well.cn        | resell | —         | —             | high           | low    | 4      | 厦门易名科技股份有限公司  |
+| canoe.cn       | resell | —         | —             | high           | low    | 5      | Dynadot Inc   |
+| mono.cn        | resell | —         | —             | high           | medium | 4      | 阿里云计算有限公司（万网） |
+| secure.cn      | resell | —         | —             | high           | medium | 6      | Dynadot Inc   |
+| engagement.cn  | resell | —         | —             | high           | low    | 10     | Dynadot Inc   |
+| salad.cn       | resell | —         | —             | high           | low    | 5      | Dynadot Inc   |
+| shelf.cn       | resell | —         | —             | high           | low    | 5      | Dynadot Inc   |
+| driving.cn     | resell | —         | —             | high           | low    | 7      | Dynadot Inc   |
+| unlimited.cn   | resell | —         | —             | high           | low    | 9      | Dynadot Inc   |
+| varsity.cn     | resell | —         | —             | high           | medium | 7      | —             |
+| sweep.cn       | resell | —         | —             | high           | low    | 5      | Dynadot Inc   |
+| pact.cn        | resell | —         | —             | high           | low    | 4      | —             |
+| scope.cn       | resell | —         | —             | high           | low    | 5      | Dynadot Inc   |
+| traditional.cn | resell | —         | —             | high           | low    | 11     | —             |
+| molly.cn       | resell | —         | —             | high           | low    | 5      | —             |
+| capsule.cn     | resell | —         | —             | high           | low    | 7      | Dynadot Inc   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 1,762 live domains                         |
+| 1,000-row public sample | 2,228 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CN One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CN One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
